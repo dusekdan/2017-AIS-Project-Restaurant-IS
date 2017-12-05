@@ -1,3 +1,3 @@
 all:
-	pdfcslatex PrvotniAnalyza.tex
-	rm  PrvotniAnalyza.log PrvotniAnalyza.aux
+	pdfcslatex Final.tex
+	rm  Final.log Final.aux
