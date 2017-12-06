@@ -19,10 +19,10 @@
 		.st5 {fill:#af5200;stroke:#a54d00;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st6 {marker-end:url(#mrkr4-38);stroke:#a54d00;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st7 {fill:#a54d00;fill-opacity:1;stroke:#a54d00;stroke-opacity:1;stroke-width:0.13368983957219}
-		.st8 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st8 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st9 {fill:#803a00;font-family:Segoe UI;font-size:0.666664em}
 		.st10 {marker-end:url(#mrkr3-46);stroke:#a54d00;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
-		.st11 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st11 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
 		.st12 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
@@ -52,7 +52,7 @@
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
 				v:shadowOffsetY="-8.50394"/>
 		<v:layer v:name="Connector" v:index="0"/>
-		<g id="group38-1" transform="translate(164.409,-476.861)" v:mID="38" v:groupContext="group">
+		<g id="group38-1" transform="translate(18,-513.071)" v:mID="38" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(1):5"/>
@@ -71,12 +71,12 @@
 							 L13.61 585.07 L13.61 578.27 L13.61 595.28 L8.5 595.28 L8.5 581.67 L8.5 595.28 L3.4 595.28 ZM11.91 564.66
 							 A3.40157 3.40157 -180 1 0 5.1 564.66 A3.40157 3.40157 -180 1 0 11.91 564.66 Z" class="st1"/>
 			</g>
-			<g id="shape41-6" v:mID="41" v:groupContext="shape" transform="translate(37.3228,409.436)">
+			<g id="shape41-6" v:mID="41" v:groupContext="shape" transform="translate(37.3228,473.993)">
 				<title>Sheet.41</title>
 			</g>
 			<g id="shape42-8" v:mID="42" v:groupContext="shape" transform="translate(651.26,595.276) rotate(90)">
 				<title>Sheet.42</title>
-				<path d="M0 595.28 L391.82 595.28" class="st2"/>
+				<path d="M0 595.28 L456.38 595.28" class="st2"/>
 			</g>
 			<g id="shape38-11" v:mID="38" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -85,7 +85,7 @@
 				<text x="27.11" y="578.92" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;user&#62;&#62;<v:newlineChar/><tspan
 							x="24.57" dy="1.2em" class="st4" v:langID="1029">ServerStaff</tspan></text>			</g>
 		</g>
-		<g id="group43-15" transform="translate(361.417,-476.861)" v:mID="43" v:groupContext="group">
+		<g id="group43-15" transform="translate(215.008,-513.071)" v:mID="43" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
@@ -102,12 +102,12 @@
 				<title>Sheet.45</title>
 				<path d="M8.5 595.28 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st1"/>
 			</g>
-			<g id="shape46-20" v:mID="46" v:groupContext="shape" transform="translate(37.3228,409.436)">
+			<g id="shape46-20" v:mID="46" v:groupContext="shape" transform="translate(37.3228,473.993)">
 				<title>Sheet.46</title>
 			</g>
 			<g id="shape47-22" v:mID="47" v:groupContext="shape" transform="translate(651.26,595.276) rotate(90)">
 				<title>Sheet.47</title>
-				<path d="M0 595.28 L391.82 595.28" class="st2"/>
+				<path d="M0 595.28 L456.38 595.28" class="st2"/>
 			</g>
 			<g id="shape43-25" v:mID="43" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -116,15 +116,15 @@
 				<text x="19.43" y="578.92" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;system&#62;&#62;<v:newlineChar/><tspan
 							x="35.68" dy="1.2em" class="st4">System</tspan></text>			</g>
 		</g>
-		<g id="shape59-29" v:mID="59" v:groupContext="shape" transform="translate(-370.63,495.423) rotate(-90)">
+		<g id="shape59-29" v:mID="59" v:groupContext="shape" transform="translate(-517.039,525.05) rotate(-90)">
 			<title>Activation</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="visNavOrder" v:val="VT0(1500):26"/>
 			</v:userDefs>
-			<rect x="0" y="586.772" width="371.064" height="8.50394" class="st5"/>
+			<rect x="0" y="586.772" width="436.901" height="8.50394" class="st5"/>
 		</g>
-		<g id="shape60-31" v:mID="60" v:groupContext="shape" transform="translate(-173.622,181.417) rotate(-90)">
+		<g id="shape60-31" v:mID="60" v:groupContext="shape" transform="translate(-320.031,145.207) rotate(-90)">
 			<title>Activation.60</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
@@ -132,7 +132,7 @@
 			</v:userDefs>
 			<rect x="0" y="586.772" width="45.9944" height="8.50394" class="st5"/>
 		</g>
-		<g id="shape128-33" v:mID="128" v:groupContext="shape" v:layerMember="0" transform="translate(224.646,-452.446)">
+		<g id="shape128-33" v:mID="128" v:groupContext="shape" v:layerMember="0" transform="translate(78.2362,-488.656)">
 			<title>Message.21</title>
 			<desc>1: Zobrazit rezervace</desc>
 			<v:userDefs>
@@ -147,7 +147,7 @@
 			<path d="M0 588.51 L181.02 587.89" class="st6"/>
 			<rect v:rectContext="textBkgnd" x="57.8383" y="583.389" width="72.8275" height="9.59985" class="st8"/>
 			<text x="57.84" y="590.59" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>1: Zobrazit rezervace</text>		</g>
-		<g id="shape130-41" v:mID="130" v:groupContext="shape" v:layerMember="0" transform="translate(413.15,-432.604)">
+		<g id="shape130-41" v:mID="130" v:groupContext="shape" v:layerMember="0" transform="translate(266.74,-468.814)">
 			<title>Return Message.22</title>
 			<desc>2: Seznam rezervací</desc>
 			<v:userDefs>
@@ -160,10 +160,10 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-94.252" cy="602.362" width="79.25" height="17.6036"/>
 			<path d="M0 602.04 L-188.5 602.68" class="st10"/>
-			<rect v:rectContext="textBkgnd" x="-128.777" y="597.562" width="69.0504" height="9.59985" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-128.777" y="597.562" width="69.0504" height="9.59985" class="st11"/>
 			<text x="-128.78" y="604.76" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>2: Seznam rezervac<tspan
 						class="st4" v:langID="1029">í</tspan></text>		</g>
-		<g id="shape135-50" v:mID="135" v:groupContext="shape" v:layerMember="0" transform="translate(224.646,-392.964)">
+		<g id="shape135-50" v:mID="135" v:groupContext="shape" v:layerMember="0" transform="translate(78.2362,-429.175)">
 			<title>Message.21.135</title>
 			<desc>3: Zabrat stůl</desc>
 			<v:userDefs>
@@ -176,9 +176,9 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="94.4291" cy="588.189" width="56.1" height="17.6036"/>
 			<path d="M0 588.19 L181.38 588.19" class="st6"/>
-			<rect v:rectContext="textBkgnd" x="71.4805" y="583.389" width="45.8976" height="9.59985" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="71.4805" y="583.389" width="45.8976" height="9.59985" class="st11"/>
 			<text x="71.48" y="590.59" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>3: Zabrat stůl</text>		</g>
-		<g id="shape136-57" v:mID="136" v:groupContext="shape" transform="translate(-173.268,219.402) rotate(-90)">
+		<g id="shape136-57" v:mID="136" v:groupContext="shape" transform="translate(-319.677,183.191) rotate(-90)">
 			<title>Activation.136</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
@@ -186,7 +186,7 @@
 			</v:userDefs>
 			<rect x="0" y="586.772" width="24.1768" height="8.50394" class="st5"/>
 		</g>
-		<g id="shape137-59" v:mID="137" v:groupContext="shape" v:layerMember="0" transform="translate(413.504,-382.819)">
+		<g id="shape137-59" v:mID="137" v:groupContext="shape" v:layerMember="0" transform="translate(267.095,-419.029)">
 			<title>Return Message.22.137</title>
 			<desc>4: Stůl zabrán</desc>
 			<v:userDefs>
@@ -199,9 +199,9 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-94.4291" cy="602.362" width="57.82" height="17.6036"/>
 			<path d="M0 602.22 L-188.86 602.5" class="st10"/>
-			<rect v:rectContext="textBkgnd" x="-118.241" y="597.562" width="47.6244" height="9.59985" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-118.241" y="597.562" width="47.6244" height="9.59985" class="st11"/>
 			<text x="-118.24" y="604.76" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>4: Stůl zabrán</text>		</g>
-		<g id="shape138-66" v:mID="138" v:groupContext="shape" transform="translate(-173.622,316.84) rotate(-90)">
+		<g id="shape138-66" v:mID="138" v:groupContext="shape" transform="translate(-320.031,280.63) rotate(-90)">
 			<title>Activation.138</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
@@ -209,9 +209,9 @@
 			</v:userDefs>
 			<rect x="0" y="586.772" width="56.6929" height="8.50394" class="st5"/>
 		</g>
-		<g id="shape139-68" v:mID="139" v:groupContext="shape" v:layerMember="0" transform="translate(220.394,-342.215)">
+		<g id="shape139-68" v:mID="139" v:groupContext="shape" v:layerMember="0" transform="translate(73.9843,-378.425)">
 			<title>Message.21.139</title>
-			<desc>5: Zadat objednávku</desc>
+			<desc>5: Zadat objednávku pro stůl</desc>
 			<v:userDefs>
 				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
 				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
@@ -220,13 +220,14 @@
 				<v:ud v:nameU="visNavOrder" v:val="VT0(7500):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="96.378" cy="602.362" width="81.91" height="17.6036"/>
+			<v:textRect cx="96.378" cy="602.362" width="111.03" height="17.6036"/>
 			<path d="M0 602.36 L185.28 602.36" class="st6"/>
-			<rect v:rectContext="textBkgnd" x="60.5231" y="597.562" width="71.71" height="9.59985" class="st8"/>
-			<text x="60.52" y="604.76" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>5: Zadat objednávku</text>		</g>
-		<g id="shape140-75" v:mID="140" v:groupContext="shape" v:layerMember="0" transform="translate(413.15,-290.871)">
+			<rect v:rectContext="textBkgnd" x="45.9607" y="597.562" width="100.835" height="9.59985" class="st11"/>
+			<text x="45.96" y="604.76" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>5: Zadat objednávk<tspan
+						class="st4" v:langID="1033">u pro st</tspan>ůl</text>		</g>
+		<g id="shape140-76" v:mID="140" v:groupContext="shape" v:layerMember="0" transform="translate(266.74,-327.082)">
 			<title>Return Message.22.140</title>
-			<desc>7: Objednávka zadána</desc>
+			<desc>7: Objednávka zadána (stav --&#62; ACCEPTED)</desc>
 			<v:userDefs>
 				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
 				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
@@ -235,11 +236,12 @@
 				<v:ud v:nameU="visNavOrder" v:val="VT0(8500):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-94.252" cy="602.362" width="87.74" height="17.6036"/>
+			<v:textRect cx="-94.252" cy="602.362" width="87.74" height="27.2035"/>
 			<path d="M0 602.04 L-188.5 602.68" class="st10"/>
-			<rect v:rectContext="textBkgnd" x="-133.021" y="597.562" width="77.5379" height="9.59985" class="st8"/>
-			<text x="-133.02" y="604.76" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>7: Objednávka zadána</text>		</g>
-		<g id="shape141-82" v:mID="141" v:groupContext="shape" v:layerMember="0" transform="translate(414.567,-325.984)">
+			<rect v:rectContext="textBkgnd" x="-133.021" y="592.762" width="77.5379" height="19.1997" class="st11"/>
+			<text x="-133.02" y="599.96" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>7: Objednávka zadána<v:lf/><tspan
+						x="-130.52" dy="1.2em" class="st4" v:langID="1033">(</tspan>stav --<tspan class="st4" v:langID="1033">&#62;</tspan> ACCEPTED)</text>		</g>
+		<g id="shape141-85" v:mID="141" v:groupContext="shape" v:layerMember="0" transform="translate(268.157,-362.195)">
 			<title>Self Message.23</title>
 			<desc>6: Vybrat stůl</desc>
 			<v:userDefs>
@@ -252,11 +254,11 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="37.9134" cy="612.676" width="56.31" height="17.6036"/>
 			<path d="M7.09 595.28 L25.09 595.28 L25.09 629.29 L14.57 629.29" class="st6"/>
-			<rect v:rectContext="textBkgnd" x="14.861" y="607.877" width="46.1049" height="9.59985" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="14.861" y="607.877" width="46.1049" height="9.59985" class="st11"/>
 			<text x="14.86" y="615.08" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>6: Vybrat stůl</text>		</g>
-		<g id="shape142-89" v:mID="142" v:groupContext="shape" v:layerMember="0" transform="translate(225.354,-143.433)">
+		<g id="shape142-92" v:mID="142" v:groupContext="shape" v:layerMember="0" transform="translate(80.3622,-108.137)">
 			<title>Message.21.142</title>
-			<desc>12: Uvolnit stůl</desc>
+			<desc>16: Změna stavu objednávky (stav --&#62; PAID)</desc>
 			<v:userDefs>
 				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
 				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
@@ -265,21 +267,23 @@
 				<v:ud v:nameU="visNavOrder" v:val="VT0(10500):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="93.8976" cy="588.189" width="62.64" height="17.6036"/>
+			<v:textRect cx="93.8976" cy="588.189" width="110.4" height="27.2035"/>
 			<path d="M0 588.55 L180.32 587.86" class="st6"/>
-			<rect v:rectContext="textBkgnd" x="67.6772" y="583.389" width="52.441" height="9.59985" class="st8"/>
-			<text x="67.68" y="590.59" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>12: Uvolnit stůl</text>		</g>
-		<g id="shape143-96" v:mID="143" v:groupContext="shape" transform="translate(-173.622,481.25) rotate(-90)">
+			<rect v:rectContext="textBkgnd" x="43.7968" y="578.589" width="100.202" height="19.1997" class="st11"/>
+			<text x="43.8" y="585.79" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>1<tspan class="st4"
+						v:langID="1033">6</tspan>: Změna stavu objednávky<v:lf/><tspan x="67.66" dy="1.2em" class="st4"
+						v:langID="1033">(stav </tspan>--<tspan class="st4" v:langID="1033">&#62; PAID)</tspan></text>		</g>
+		<g id="shape143-102" v:mID="143" v:groupContext="shape" transform="translate(-318.614,518.74) rotate(-90)">
 			<title>Activation.143</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="visNavOrder" v:val="VT0(11500):26"/>
 			</v:userDefs>
-			<rect x="0" y="586.772" width="36.8504" height="8.50394" class="st5"/>
+			<rect x="0" y="586.772" width="39.045" height="8.50394" class="st5"/>
 		</g>
-		<g id="shape144-98" v:mID="144" v:groupContext="shape" v:layerMember="0" transform="translate(413.15,-123.591)">
+		<g id="shape144-104" v:mID="144" v:groupContext="shape" v:layerMember="0" transform="translate(268.157,-71.6434)">
 			<title>Return Message.22.144</title>
-			<desc>14: Stůl uvolněn</desc>
+			<desc>18: Stav změněn</desc>
 			<v:userDefs>
 				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
 				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
@@ -288,11 +292,12 @@
 				<v:ud v:nameU="visNavOrder" v:val="VT0(12500):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-93.8976" cy="602.362" width="66.59" height="17.6036"/>
-			<path d="M0 602.01 L-187.8 602.72" class="st10"/>
-			<rect v:rectContext="textBkgnd" x="-122.093" y="597.562" width="56.3901" height="9.59985" class="st8"/>
-			<text x="-122.09" y="604.76" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>14: Stůl uvolněn</text>		</g>
-		<g id="group145-105" transform="translate(551.339,-476.861)" v:mID="145" v:groupContext="group">
+			<v:textRect cx="-94.9606" cy="588.189" width="67.73" height="17.6036"/>
+			<path d="M0 588.19 L-189.92 588.19" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="-123.728" y="583.389" width="57.5349" height="9.59985" class="st11"/>
+			<text x="-123.73" y="590.59" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>1<tspan class="st4"
+						v:langID="1033">8</tspan>: Stav změněn</text>		</g>
+		<g id="group145-112" transform="translate(404.929,-513.071)" v:mID="145" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(1):5"/>
@@ -301,39 +306,39 @@
 			</v:userDefs>
 			<title>Actor lifeline.145</title>
 			<desc>&#60;&#60;user&#62;&#62; KitchenStaff</desc>
-			<g id="shape146-106" v:mID="146" v:groupContext="shape" transform="translate(30.4724,0)">
+			<g id="shape146-113" v:mID="146" v:groupContext="shape" transform="translate(30.4724,0)">
 				<title>Sheet.146</title>
 				<rect x="0" y="569.764" width="51.0236" height="25.5118" class="st1"/>
 			</g>
-			<g id="shape147-108" v:mID="147" v:groupContext="shape" transform="translate(47.4803,-29.0551)">
+			<g id="shape147-115" v:mID="147" v:groupContext="shape" transform="translate(47.4803,-29.0551)">
 				<title>Sheet.147</title>
 				<path d="M3.4 595.28 L3.4 578.27 L3.4 585.07 L0 585.07 L0 571.46 L1.7 569.76 L15.31 569.76 L17.01 571.46 L17.01 585.07
 							 L13.61 585.07 L13.61 578.27 L13.61 595.28 L8.5 595.28 L8.5 581.67 L8.5 595.28 L3.4 595.28 ZM11.91 564.66
 							 A3.40157 3.40157 -180 1 0 5.1 564.66 A3.40157 3.40157 -180 1 0 11.91 564.66 Z" class="st1"/>
 			</g>
-			<g id="shape148-110" v:mID="148" v:groupContext="shape" transform="translate(37.3228,403.767)">
+			<g id="shape148-117" v:mID="148" v:groupContext="shape" transform="translate(37.3228,473.993)">
 				<title>Sheet.148</title>
 			</g>
-			<g id="shape149-112" v:mID="149" v:groupContext="shape" transform="translate(651.26,595.276) rotate(90)">
+			<g id="shape149-119" v:mID="149" v:groupContext="shape" transform="translate(651.26,595.276) rotate(90)">
 				<title>Sheet.149</title>
-				<path d="M0 595.28 L386.15 595.28" class="st2"/>
+				<path d="M0 595.28 L456.38 595.28" class="st2"/>
 			</g>
-			<g id="shape145-115" v:mID="145" v:groupContext="groupContent">
+			<g id="shape145-122" v:mID="145" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="55.9843" cy="582.52" width="111.97" height="25.5118"/>
 				<rect x="0" y="569.764" width="111.969" height="25.5118" class="st1"/>
 				<text x="27.11" y="578.92" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;user&#62;&#62;<v:newlineChar/><tspan
 							x="21.16" dy="1.2em" class="st4">KitchenStaff</tspan></text>			</g>
 		</g>
-		<g id="shape150-119" v:mID="150" v:groupContext="shape" transform="translate(16.2992,411.024) rotate(-90)">
+		<g id="shape150-126" v:mID="150" v:groupContext="shape" transform="translate(-130.11,425.197) rotate(-90)">
 			<title>Activation.150</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="visNavOrder" v:val="VT0(14500):26"/>
 			</v:userDefs>
-			<rect x="0" y="586.772" width="94.1834" height="8.50394" class="st5"/>
+			<rect x="0" y="586.772" width="144.567" height="8.50394" class="st5"/>
 		</g>
-		<g id="shape151-121" v:mID="151" v:groupContext="shape" transform="translate(-173.622,362.835) rotate(-90)">
+		<g id="shape151-128" v:mID="151" v:groupContext="shape" transform="translate(-320.031,326.624) rotate(-90)">
 			<title>Activation.151</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
@@ -341,7 +346,7 @@
 			</v:userDefs>
 			<rect x="0" y="586.772" width="31.8212" height="8.50394" class="st5"/>
 		</g>
-		<g id="shape152-123" v:mID="152" v:groupContext="shape" v:layerMember="0" transform="translate(603.071,-257.139)">
+		<g id="shape152-130" v:mID="152" v:groupContext="shape" v:layerMember="0" transform="translate(456.661,-293.349)">
 			<title>Message.21.152</title>
 			<desc>8: Zobrazit objednávku</desc>
 			<v:userDefs>
@@ -354,10 +359,10 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-90.7087" cy="588.189" width="90.86" height="17.6036"/>
 			<path d="M0 588.23 L-173.94 588.16" class="st6"/>
-			<rect v:rectContext="textBkgnd" x="-131.036" y="583.389" width="80.6553" height="9.59985" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-131.036" y="583.389" width="80.6553" height="9.59985" class="st11"/>
 			<text x="-131.04" y="590.59" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>8: <tspan
 						class="st4" v:langID="1033">Zobrazit objedn</tspan>ávku</text>		</g>
-		<g id="shape153-131" v:mID="153" v:groupContext="shape" v:layerMember="0" transform="translate(421.654,-231.024)">
+		<g id="shape153-138" v:mID="153" v:groupContext="shape" v:layerMember="0" transform="translate(275.244,-267.234)">
 			<title>Return Message.22.153</title>
 			<desc>9: Objednávka zobrazena</desc>
 			<v:userDefs>
@@ -372,7 +377,7 @@
 			<path d="M0 588.19 L181.42 588.19" class="st10"/>
 			<rect v:rectContext="textBkgnd" x="46.3441" y="583.389" width="88.7294" height="9.59985" class="st8"/>
 			<text x="46.34" y="590.59" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>9: Objednávka zobrazena</text>		</g>
-		<g id="shape154-138" v:mID="154" v:groupContext="shape" transform="translate(-173.622,404.714) rotate(-90)">
+		<g id="shape154-145" v:mID="154" v:groupContext="shape" transform="translate(-320.031,368.504) rotate(-90)">
 			<title>Activation.154</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
@@ -380,9 +385,9 @@
 			</v:userDefs>
 			<rect x="0" y="586.772" width="17.0079" height="8.50394" class="st5"/>
 		</g>
-		<g id="shape155-140" v:mID="155" v:groupContext="shape" v:layerMember="0" transform="translate(603.071,-200.483)">
+		<g id="shape155-147" v:mID="155" v:groupContext="shape" v:layerMember="0" transform="translate(456.661,-236.693)">
 			<title>Message.21.155</title>
-			<desc>10: Změna stavu objednávky</desc>
+			<desc>10: Změna stavu objednávky (stav --&#62; PREPARING)</desc>
 			<v:userDefs>
 				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
 				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
@@ -391,11 +396,13 @@
 				<v:ud v:nameU="visNavOrder" v:val="VT0(19500):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-90.7087" cy="588.189" width="110.4" height="17.6036"/>
+			<v:textRect cx="-90.7087" cy="588.189" width="110.4" height="27.2035"/>
 			<path d="M0 588.19 L-173.94 588.19" class="st6"/>
-			<rect v:rectContext="textBkgnd" x="-140.81" y="583.389" width="100.202" height="9.59985" class="st8"/>
-			<text x="-140.81" y="590.59" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>10: Změna stavu objednávky</text>		</g>
-		<g id="shape156-147" v:mID="156" v:groupContext="shape" v:layerMember="0" transform="translate(421.654,-183.863)">
+			<rect v:rectContext="textBkgnd" x="-140.81" y="578.589" width="100.202" height="19.1997" class="st8"/>
+			<text x="-140.81" y="585.79" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>10: Změna stavu objednávky<v:lf/><tspan
+						x="-128.92" dy="1.2em" class="st4" v:langID="1033">(stav </tspan><tspan class="st4" v:langID="1033">--</tspan><tspan
+						class="st4" v:langID="1033">&#62; PREPARING)</tspan></text>		</g>
+		<g id="shape156-157" v:mID="156" v:groupContext="shape" v:layerMember="0" transform="translate(275.244,-220.074)">
 			<title>Return Message.22.156</title>
 			<desc>11: Stav změněn</desc>
 			<v:userDefs>
@@ -410,9 +417,9 @@
 			<path d="M0 588.58 L181.42 587.8" class="st10"/>
 			<rect v:rectContext="textBkgnd" x="61.9413" y="583.389" width="57.5349" height="9.59985" class="st11"/>
 			<text x="61.94" y="590.59" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>11: Stav změněn</text>		</g>
-		<g id="shape157-154" v:mID="157" v:groupContext="shape" v:layerMember="0" transform="translate(414.567,-141.732)">
+		<g id="shape157-164" v:mID="157" v:groupContext="shape" v:layerMember="0" transform="translate(269.575,-106.436)">
 			<title>Self Message.23.157</title>
-			<desc>13: Změna stavu objednávky</desc>
+			<desc>17: Uvolnit stůl</desc>
 			<v:userDefs>
 				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
 				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
@@ -421,9 +428,93 @@
 				<v:ud v:nameU="visNavOrder" v:val="VT0(21500):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="64.4882" cy="605.48" width="110.4" height="17.6036"/>
-			<path d="M7.09 595.28 L25.09 595.28 L25.09 616.54 L14.57 616.54" class="st6"/>
-			<rect v:rectContext="textBkgnd" x="14.3873" y="600.681" width="100.202" height="9.59985" class="st11"/>
-			<text x="14.39" y="607.88" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>13: Změna stavu objednávky</text>		</g>
+			<v:textRect cx="42.6614" cy="608.809" width="62.64" height="17.6036"/>
+			<path d="M7.09 595.28 L25.09 595.28 L25.09 620.15 L14.57 620.15" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="16.441" y="604.009" width="52.441" height="9.59985" class="st8"/>
+			<text x="16.44" y="611.21" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>1<tspan class="st4"
+						v:langID="1033">7</tspan>: <tspan class="st4" v:langID="1033">U</tspan>volnit stůl</text>		</g>
+		<g id="shape158-173" v:mID="158" v:groupContext="shape" transform="translate(-320.031,414.498) rotate(-90)">
+			<title>Activation.158</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(22500):26"/>
+			</v:userDefs>
+			<rect x="0" y="586.772" width="17.0079" height="8.50394" class="st5"/>
+		</g>
+		<g id="shape159-175" v:mID="159" v:groupContext="shape" v:layerMember="0" transform="translate(456.661,-204.872)">
+			<title>Message.159</title>
+			<desc>12: Změna stavu objednávky (stav --&#62; DONE)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(23500):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-90.7087" cy="602.362" width="110.4" height="27.2035"/>
+			<path d="M0 602.36 L-173.94 602.36" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="-140.81" y="592.762" width="100.202" height="19.1997" class="st8"/>
+			<text x="-140.81" y="599.96" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>12<tspan
+						class="st4" v:langID="1029">: Změna stavu objednávky<v:lf/></tspan><tspan x="-119.09" dy="1.2em"
+						class="st4">(stav </tspan>--&#62; DONE)</text>		</g>
+		<g id="shape160-184" v:mID="160" v:groupContext="shape" v:layerMember="0" transform="translate(275.244,-174.079)">
+			<title>Return Message.160</title>
+			<desc>13: Stav změněn</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(24500):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="90.7087" cy="588.189" width="67.73" height="17.6036"/>
+			<path d="M0 588.58 L181.42 587.8" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="61.9413" y="583.389" width="57.5349" height="9.59985" class="st8"/>
+			<text x="61.94" y="590.59" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>1<tspan class="st4"
+						v:langID="1033">3</tspan>: Stav změněn</text>		</g>
+		<g id="shape161-192" v:mID="161" v:groupContext="shape" v:layerMember="0" transform="translate(78.2362,-156.683)">
+			<title>Message.161</title>
+			<desc>14: Změna stavu objednávky (stav --&#62; SERVED)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(25500):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="94.252" cy="588.189" width="110.4" height="27.2035"/>
+			<path d="M0 588.19 L181.02 588.19" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="44.1511" y="578.589" width="100.202" height="19.1997" class="st11"/>
+			<text x="44.15" y="585.79" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>1<tspan class="st4"
+						v:langID="1033">4</tspan>: Změna stavu objednávky<v:lf/><tspan x="62.85" dy="1.2em" class="st4"
+						v:langID="1033">(stav </tspan><tspan class="st4" v:langID="1033">--</tspan><tspan class="st4"
+						v:langID="1033">&#62; SERVED)</tspan></text>		</g>
+		<g id="shape162-203" v:mID="162" v:groupContext="shape" transform="translate(-320.031,449.036) rotate(-90)">
+			<title>Activation.162</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(26500):26"/>
+			</v:userDefs>
+			<rect x="0" y="586.772" width="17.53" height="8.50394" class="st5"/>
+		</g>
+		<g id="shape163-205" v:mID="163" v:groupContext="shape" v:layerMember="0" transform="translate(266.74,-153.304)">
+			<title>Return Message.163</title>
+			<desc>15: Stav změněn</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(27500):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-94.252" cy="602.362" width="67.73" height="17.6036"/>
+			<path d="M0 602.34 L-188.5 602.38" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="-123.019" y="597.562" width="57.5349" height="9.59985" class="st11"/>
+			<text x="-123.02" y="604.76" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>1<tspan class="st4"
+						v:langID="1033">5</tspan>: Stav změněn</text>		</g>
 	</g>
 </svg>
