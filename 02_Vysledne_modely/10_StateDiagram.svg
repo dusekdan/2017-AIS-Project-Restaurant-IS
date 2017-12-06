@@ -28,8 +28,8 @@
 		.st14 {font-size:1em}
 		.st15 {fill:#5b9bd5;stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st16 {fill:#5b9bd5;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
-		.st17 {marker-start:url(#mrkr4-225);stroke:#5592c9;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
-		.st18 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st17 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st18 {marker-start:url(#mrkr4-225);stroke:#5592c9;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st19 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st20 {fill:#5b9bd5;font-family:Calibri;font-size:0.75em}
 		.st21 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
@@ -513,7 +513,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="168.596" cy="725.567" width="56.87" height="17.6036"/>
 			<path d="M0 595.28 L141.73 595.28 L141.73 725.29 L192.39 725.29" class="st1"/>
-			<rect v:rectContext="textBkgnd" x="145.071" y="720.767" width="47.0503" height="9.59985" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="145.071" y="720.767" width="47.0503" height="9.59985" class="st17"/>
 			<text x="145.07" y="727.97" class="st4" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zobrazit menu</text>		</g>
 		<g id="shape116-201" v:mID="116" v:groupContext="shape" v:layerMember="0" transform="translate(411.024,-574.488)">
 			<title>Dynamic connector.116</title>
@@ -521,81 +521,82 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="167.811" cy="621.543" width="47.82" height="27.2035"/>
 			<path d="M0 595.28 L141.73 595.28 L141.73 621.76 L192.51 621.76" class="st1"/>
-			<rect v:rectContext="textBkgnd" x="148.807" y="611.944" width="38.0078" height="19.1997" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="148.807" y="611.944" width="38.0078" height="19.1997" class="st17"/>
 			<text x="154.58" y="619.14" class="st4" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zobrazit<v:lf/><tspan
 						x="148.81" dy="1.2em" class="st14">objednávku</tspan></text>		</g>
 		<g id="shape123-209" v:mID="123" v:groupContext="shape" v:layerMember="0" transform="translate(403.937,-558.15)">
 			<title>Dynamic connector.123</title>
 			<path d="M7.09 595.28 L7.09 578.94" class="st12"/>
 		</g>
-		<g id="group131-212" transform="translate(609.449,-307.243)" v:mID="131" v:groupContext="group">
+		<g id="group131-212" transform="translate(644.882,-307.243)" v:mID="131" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<title>State.131</title>
 			<g id="shape131-213" v:mID="131" v:groupContext="groupContent">
-				<rect x="0" y="550.472" width="70.8661" height="44.8037" rx="8.50394" ry="8.50394" class="st10"/>
+				<rect x="0" y="550.472" width="89.1522" height="44.8037" rx="8.50394" ry="8.50394" class="st10"/>
 			</g>
 			<g id="shape132-215" v:mID="132" v:groupContext="shape" transform="translate(0,-22.4)">
 				<title>Sheet.132</title>
-				<desc>TableView</desc>
+				<desc>BookableView</desc>
 				<v:userDefs>
 					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Title)"/>
 				</v:userDefs>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="35.4331" cy="584.074" width="70.87" height="22.4037"/>
-				<path d="M8.5 595.28 L62.36 595.28 A8.50394 8.50394 -180 0 0 70.87 586.77 L70.87 581.38 A8.50394 8.50394 -180 0 0
-							 62.36 572.87 L8.5 572.87 A8.50394 8.50394 -180 0 0 -0 581.38 L0 586.77 A8.50394 8.50394 -180 0 0 8.5
+				<v:textRect cx="44.5761" cy="584.074" width="89.16" height="22.4037"/>
+				<path d="M8.5 595.28 L80.65 595.28 A8.50394 8.50394 -180 0 0 89.15 586.77 L89.15 581.38 A8.50394 8.50394 -180 0 0
+							 80.65 572.87 L8.5 572.87 A8.50394 8.50394 -180 0 0 0 581.38 L0 586.77 A8.50394 8.50394 -180 0 0 8.5
 							 595.28 Z" class="st11"/>
-				<text x="9.27" y="587.67" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>TableView</text>			</g>
+				<text x="8.69" y="587.67" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>BookableView</text>			</g>
 			<g id="shape133-218" v:mID="133" v:groupContext="shape">
 				<title>Sheet.133</title>
 				<v:userDefs>
 					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Body)"/>
 				</v:userDefs>
-				<path d="M8.5 595.28 L62.36 595.28 A8.50394 8.50394 -180 0 0 70.87 586.77 L70.87 581.38 A8.50394 8.50394 -180 0 0
-							 62.36 572.88 L8.5 572.88 A8.50394 8.50394 -180 0 0 -0 581.38 L0 586.77 A8.50394 8.50394 -180 0 0 8.5
+				<path d="M8.5 595.28 L80.65 595.28 A8.50394 8.50394 -180 0 0 89.15 586.77 L89.15 581.38 A8.50394 8.50394 -180 0 0
+							 80.65 572.88 L8.5 572.88 A8.50394 8.50394 -180 0 0 0 581.38 L0 586.77 A8.50394 8.50394 -180 0 0 8.5
 							 595.28 Z" class="st6"/>
 			</g>
 		</g>
-		<g id="shape137-220" v:mID="137" v:groupContext="shape" v:layerMember="0" transform="translate(609.449,-341.48)">
+		<g id="shape137-220" v:mID="137" v:groupContext="shape" v:layerMember="0" transform="translate(644.882,-341.48)">
 			<title>Dynamic connector.137</title>
-			<desc>Vybrat stůl/ Zobrazit stůl</desc>
+			<desc>Vybrat jednotku/ Zobrazit jednotku</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-30.3307" cy="595.181" width="49.94" height="27.2035"/>
-			<path d="M-5.68 595.28 L-6.04 595.28 L-56.69 595.28 L-56.69 362.27 L-198.43 362.27" class="st17"/>
-			<rect v:rectContext="textBkgnd" x="-50.391" y="585.581" width="40.1207" height="19.1997" class="st18"/>
-			<text x="-49.54" y="592.78" class="st4" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Vybrat stůl/<v:lf/><tspan
-						x="-50.39" dy="1.2em" class="st14">Zobrazit stůl</tspan></text>		</g>
-		<g id="shape142-229" v:mID="142" v:groupContext="shape" v:layerMember="0" transform="translate(420.945,-555.748)">
+			<v:textRect cx="-46.7717" cy="595.181" width="67.13" height="27.2035"/>
+			<path d="M-5.68 595.28 L-6.04 595.28 L-92.13 595.28 L-92.13 362.27 L-233.86 362.27" class="st18"/>
+			<rect v:rectContext="textBkgnd" x="-75.4276" y="585.581" width="57.3121" height="19.1997" class="st3"/>
+			<text x="-74.57" y="592.78" class="st4" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Vybrat <tspan
+						class="st14" v:langID="1033">jednotku</tspan>/<v:lf/><tspan x="-75.43" dy="1.2em" class="st14">Zobrazit </tspan><tspan
+						class="st14" v:langID="1033">jednotku</tspan></text>		</g>
+		<g id="shape142-231" v:mID="142" v:groupContext="shape" v:layerMember="0" transform="translate(420.945,-555.748)">
 			<title>Dynamic connector.142</title>
-			<path d="M7.09 587.19 L7.09 586.83 L7.09 583.5" class="st17"/>
+			<path d="M7.09 587.19 L7.09 586.83 L7.09 583.5" class="st18"/>
 		</g>
-		<g id="shape141-234" v:mID="141" v:groupContext="shape" v:layerMember="0" transform="translate(609.449,-320.504)">
+		<g id="shape141-236" v:mID="141" v:groupContext="shape" v:layerMember="0" transform="translate(644.882,-320.504)">
 			<title>Dynamic connector.141</title>
 			<desc>Zavřít</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-121.276" cy="347.315" width="40" height="17.6036"/>
-			<path d="M0 595.28 L-63.09 595.28 L-63.09 348.26 L-181.42 348.26" class="st12"/>
-			<rect v:rectContext="textBkgnd" x="-130.524" y="342.515" width="18.496" height="9.59985" class="st3"/>
-			<text x="-130.52" y="349.72" class="st4" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zavřít</text>		</g>
-		<g id="shape143-239" v:mID="143" v:groupContext="shape" v:layerMember="0" transform="translate(609.449,-412.441)">
+			<v:textRect cx="-151.736" cy="347.315" width="40" height="17.6036"/>
+			<path d="M0 595.28 L-98.53 595.28 L-98.53 348.26 L-216.85 348.26" class="st12"/>
+			<rect v:rectContext="textBkgnd" x="-160.983" y="342.515" width="18.496" height="9.59985" class="st3"/>
+			<text x="-160.98" y="349.72" class="st4" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zavřít</text>		</g>
+		<g id="shape143-241" v:mID="143" v:groupContext="shape" v:layerMember="0" transform="translate(609.449,-412.441)">
 			<title>Dynamic connector.143</title>
 			<path d="M0 588.19 L-54.33 588.19 A2.3622 2.3622 -180 0 0 -59.06 588.19 L-63.09 588.19" class="st12"/>
 		</g>
-		<g id="shape144-242" v:mID="144" v:groupContext="shape" v:layerMember="0" transform="translate(609.449,-515.244)">
+		<g id="shape144-244" v:mID="144" v:groupContext="shape" v:layerMember="0" transform="translate(609.449,-515.244)">
 			<title>Dynamic connector.144</title>
 			<path d="M0 588.19 L-54.33 588.19 A2.3622 2.3622 -180 0 0 -59.06 588.19 L-63.09 588.19" class="st12"/>
 		</g>
-		<g id="group146-245" transform="translate(546.731,-48.7396)" v:mID="146" v:groupContext="group">
+		<g id="group146-247" transform="translate(546.731,-48.7396)" v:mID="146" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<title>State.146</title>
-			<g id="shape146-246" v:mID="146" v:groupContext="groupContent">
+			<g id="shape146-248" v:mID="146" v:groupContext="groupContent">
 				<rect x="0" y="550.472" width="82.9166" height="44.8037" rx="8.50394" ry="8.50394" class="st10"/>
 			</g>
-			<g id="shape147-248" v:mID="147" v:groupContext="shape" transform="translate(0,-22.4)">
+			<g id="shape147-250" v:mID="147" v:groupContext="shape" transform="translate(0,-22.4)">
 				<title>Sheet.147</title>
 				<desc>FeedbackView</desc>
 				<v:userDefs>
@@ -607,7 +608,7 @@
 							 74.41 572.87 L8.5 572.87 A8.50394 8.50394 -180 0 0 -0 581.38 L0 586.77 A8.50394 8.50394 -180 0 0 8.5
 							 595.28 Z" class="st11"/>
 				<text x="5.36" y="587.67" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>FeedbackView</text>			</g>
-			<g id="shape148-251" v:mID="148" v:groupContext="shape">
+			<g id="shape148-253" v:mID="148" v:groupContext="shape">
 				<title>Sheet.148</title>
 				<v:userDefs>
 					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Body)"/>
@@ -617,7 +618,7 @@
 							 595.28 Z" class="st6"/>
 			</g>
 		</g>
-		<g id="shape149-253" v:mID="149" v:groupContext="shape" v:layerMember="0" transform="translate(441.902,-77.9528)">
+		<g id="shape149-255" v:mID="149" v:groupContext="shape" v:layerMember="0" transform="translate(441.902,-77.9528)">
 			<title>Dynamic connector.149</title>
 			<desc>Napsat feedback</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -625,15 +626,15 @@
 			<path d="M0 602.36 L98.79 602.36" class="st1"/>
 			<rect v:rectContext="textBkgnd" x="25.2605" y="597.562" width="54.3082" height="9.59985" class="st3"/>
 			<text x="25.26" y="604.76" class="st4" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Napsat feedback</text>		</g>
-		<g id="shape150-260" v:mID="150" v:groupContext="shape" v:layerMember="0" transform="translate(546.749,-49.6063)">
+		<g id="shape150-262" v:mID="150" v:groupContext="shape" v:layerMember="0" transform="translate(546.749,-49.6063)">
 			<title>Dynamic connector.150</title>
 			<desc>Potvrdit</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-52.4323" cy="588.189" width="40" height="17.6036"/>
 			<path d="M0 588.19 L-98.82 588.19" class="st1"/>
-			<rect v:rectContext="textBkgnd" x="-65.5084" y="583.389" width="26.1521" height="9.59985" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-65.5084" y="583.389" width="26.1521" height="9.59985" class="st17"/>
 			<text x="-65.51" y="590.59" class="st4" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Potvrdit</text>		</g>
-		<g id="shape151-267" v:mID="151" v:groupContext="shape" transform="translate(170.079,-562.677)">
+		<g id="shape151-269" v:mID="151" v:groupContext="shape" transform="translate(170.079,-562.677)">
 			<title>Sheet.151</title>
 			<desc>Zobrazit aktuální stav restaurace</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -641,15 +642,15 @@
 			<rect x="0" y="585.177" width="111.969" height="10.0989" class="st19"/>
 			<text x="16.95" y="587.53" class="st20" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zobrazit aktuální stav <tspan
 						x="36.52" dy="1.2em" class="st14">restaurace</tspan></text>		</g>
-		<g id="group152-271" transform="translate(323.865,-433.701)" v:mID="152" v:groupContext="group">
+		<g id="group152-273" transform="translate(323.865,-433.701)" v:mID="152" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<title>State.152</title>
-			<g id="shape152-272" v:mID="152" v:groupContext="groupContent">
+			<g id="shape152-274" v:mID="152" v:groupContext="groupContent">
 				<rect x="0" y="550.472" width="110.403" height="44.8037" rx="8.50394" ry="8.50394" class="st10"/>
 			</g>
-			<g id="shape153-274" v:mID="153" v:groupContext="shape" transform="translate(0,-22.4)">
+			<g id="shape153-276" v:mID="153" v:groupContext="shape" transform="translate(0,-22.4)">
 				<title>Sheet.153</title>
 				<desc>Editovat rezervaci</desc>
 				<v:userDefs>
@@ -661,7 +662,7 @@
 							 101.9 572.87 L8.5 572.87 A8.50394 8.50394 -180 0 0 0 581.38 L0 586.77 A8.50394 8.50394 -180 0 0 8.5
 							 595.28 Z" class="st11"/>
 				<text x="10.56" y="587.67" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Editovat rezervaci</text>			</g>
-			<g id="shape154-277" v:mID="154" v:groupContext="shape">
+			<g id="shape154-279" v:mID="154" v:groupContext="shape">
 				<title>Sheet.154</title>
 				<v:userDefs>
 					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Body)"/>
@@ -671,27 +672,27 @@
 							 595.28 Z" class="st6"/>
 			</g>
 		</g>
-		<g id="shape155-279" v:mID="155" v:groupContext="shape" v:layerMember="0" transform="translate(323.865,-456.103)">
+		<g id="shape155-281" v:mID="155" v:groupContext="shape" v:layerMember="0" transform="translate(323.865,-456.103)">
 			<title>Dynamic connector.155</title>
 			<desc>Editovat</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-26.2269" cy="595" width="40" height="17.6036"/>
-			<path d="M-5.68 595.28 L-6.04 595.28 L-46.49 595.28 L-46.49 726.95 L-57.59 726.95" class="st17"/>
+			<path d="M-5.68 595.28 L-6.04 595.28 L-46.49 595.28 L-46.49 726.95 L-57.59 726.95" class="st18"/>
 			<rect v:rectContext="textBkgnd" x="-39.7112" y="590.201" width="26.9684" height="9.59985" class="st3"/>
 			<text x="-39.71" y="597.4" class="st4" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Editovat</text>		</g>
-		<g id="shape156-286" v:mID="156" v:groupContext="shape" v:layerMember="0" transform="translate(434.268,-456.103)">
+		<g id="shape156-288" v:mID="156" v:groupContext="shape" v:layerMember="0" transform="translate(434.268,-456.103)">
 			<title>Dynamic connector.156</title>
 			<path d="M0 595.28 L24.52 595.28 L24.52 726.95 L46.83 726.95" class="st1"/>
 		</g>
-		<g id="group159-291" transform="translate(134.646,-473.548)" v:mID="159" v:groupContext="group">
+		<g id="group159-293" transform="translate(134.646,-473.548)" v:mID="159" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<title>State.159</title>
-			<g id="shape159-292" v:mID="159" v:groupContext="groupContent">
+			<g id="shape159-294" v:mID="159" v:groupContext="groupContent">
 				<rect x="0" y="536.072" width="77.6505" height="59.2038" rx="8.50394" ry="8.50394" class="st10"/>
 			</g>
-			<g id="shape160-294" v:mID="160" v:groupContext="shape" transform="translate(0,-22.4)">
+			<g id="shape160-296" v:mID="160" v:groupContext="shape" transform="translate(0,-22.4)">
 				<title>Sheet.160</title>
 				<desc>Žádost o dozásobení</desc>
 				<v:userDefs>
@@ -704,7 +705,7 @@
 							 595.28 Z" class="st11"/>
 				<text x="17.49" y="573.27" class="st9" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Žádost o <tspan
 							x="10.48" dy="1.2em" class="st14">dozásobení</tspan></text>			</g>
-			<g id="shape161-298" v:mID="161" v:groupContext="shape">
+			<g id="shape161-300" v:mID="161" v:groupContext="shape">
 				<title>Sheet.161</title>
 				<v:userDefs>
 					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Body)"/>
@@ -714,11 +715,11 @@
 							 595.28 Z" class="st6"/>
 			</g>
 		</g>
-		<g id="shape162-300" v:mID="162" v:groupContext="shape" v:layerMember="0" transform="translate(311.632,-552.682)">
+		<g id="shape162-302" v:mID="162" v:groupContext="shape" v:layerMember="0" transform="translate(311.632,-552.682)">
 			<title>Dynamic connector.162</title>
 			<path d="M0 595.28 L-138.16 595.28 L-138.16 609.17" class="st1"/>
 		</g>
-		<g id="shape163-305" v:mID="163" v:groupContext="shape" v:layerMember="0" transform="translate(173.471,-473.548)">
+		<g id="shape163-307" v:mID="163" v:groupContext="shape" v:layerMember="0" transform="translate(173.471,-473.548)">
 			<title>Dynamic connector.163</title>
 			<path d="M0 595.28 L0 608.19 L49.2 608.19 L49.2 524.61 L131.56 524.61" class="st1"/>
 		</g>

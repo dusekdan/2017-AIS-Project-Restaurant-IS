@@ -426,7 +426,7 @@
 			<text x="13.11" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zadat objednávku</text>		</g>
 		<g id="shape52-164" v:mID="52" v:groupContext="shape" transform="translate(170.079,-347.811)">
 			<title>Use Case.52</title>
-			<desc>Vybrat stůl</desc>
+			<desc>Vybrat jednotku</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
@@ -437,8 +437,9 @@
 				<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st5"/>
 			</g>
 			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st6"/>
-			<text x="30.2" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Vybrat stůl</text>		</g>
-		<g id="shape53-170" v:mID="53" v:groupContext="shape" v:layerMember="0" transform="translate(219.685,-322.14)">
+			<text x="17.31" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Vybrat <tspan
+						class="st16" v:langID="1033">jednotku</tspan></text>		</g>
+		<g id="shape53-171" v:mID="53" v:groupContext="shape" v:layerMember="0" transform="translate(219.685,-322.14)">
 			<title>Include.53</title>
 			<desc>&#60;&#60;include&#62;&#62;</desc>
 			<v:userDefs>
@@ -449,42 +450,44 @@
 			<path d="M7.09 595.28 L7.09 569.6" class="st13"/>
 			<rect v:rectContext="textBkgnd" x="-12.7042" y="577.64" width="39.5818" height="9.59985" class="st14"/>
 			<text x="-12.7" y="584.84" class="st15" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;include&#62;&#62;</text>		</g>
-		<g id="shape54-177" v:mID="54" v:groupContext="shape" v:layerMember="0" transform="translate(254.665,-319.939)">
+		<g id="shape54-178" v:mID="54" v:groupContext="shape" v:layerMember="0" transform="translate(254.665,-319.939)">
 			<title>Association.54</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 595.28 L62.2 562.26" class="st8"/>
 		</g>
-		<g id="shape57-180" v:mID="57" v:groupContext="shape" transform="translate(170.079,-248.598)">
+		<g id="shape57-181" v:mID="57" v:groupContext="shape" transform="translate(170.079,-248.598)">
 			<title>Use Case.57</title>
-			<desc>Zabrat stůl</desc>
+			<desc>Zabrat jednotku</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
-			<g id="shadow57-181" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow57-182" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st5"/>
 			</g>
 			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st6"/>
-			<text x="30.64" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zabrat stůl</text>		</g>
-		<g id="shape58-186" v:mID="58" v:groupContext="shape" transform="translate(172.717,-206.079)">
+			<text x="17.75" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zabrat <tspan
+						class="st16" v:langID="1033">jednotku</tspan></text>		</g>
+		<g id="shape58-188" v:mID="58" v:groupContext="shape" transform="translate(172.717,-206.079)">
 			<title>Use Case.58</title>
-			<desc>Uvolnit stůl</desc>
+			<desc>Uvolnit jednotku</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
-			<g id="shadow58-187" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow58-189" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st5"/>
 			</g>
 			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st6"/>
-			<text x="28.81" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Uvolnit stůl</text>		</g>
-		<g id="shape59-192" v:mID="59" v:groupContext="shape" transform="translate(374.016,-330.803)">
+			<text x="15.92" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Uvolnit <tspan
+						class="st16" v:langID="1033">jednotku</tspan></text>		</g>
+		<g id="shape59-195" v:mID="59" v:groupContext="shape" transform="translate(374.016,-330.803)">
 			<title>Use Case.59</title>
 			<desc>Editovat rezervaci</desc>
 			<v:userDefs>
@@ -492,13 +495,13 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
-			<g id="shadow59-193" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow59-196" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st5"/>
 			</g>
 			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st6"/>
 			<text x="13.09" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Editovat rezervaci</text>		</g>
-		<g id="shape60-198" v:mID="60" v:groupContext="shape" transform="translate(311.16,-541.984)">
+		<g id="shape60-201" v:mID="60" v:groupContext="shape" transform="translate(311.16,-541.984)">
 			<title>Use Case.60</title>
 			<desc>Změna stavu objednávky</desc>
 			<v:userDefs>
@@ -506,13 +509,13 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="65.8477" cy="578.268" width="131.7" height="34.0157"/>
-			<g id="shadow60-199" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow60-202" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<ellipse cx="65.8477" cy="578.268" rx="65.8477" ry="17.0079" class="st5"/>
 			</g>
 			<ellipse cx="65.8477" cy="578.268" rx="65.8477" ry="17.0079" class="st6"/>
 			<text x="5.36" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Změna stavu objednávky</text>		</g>
-		<g id="shape62-204" v:mID="62" v:groupContext="shape" transform="translate(61.7114,-451.843)">
+		<g id="shape62-207" v:mID="62" v:groupContext="shape" transform="translate(61.7114,-451.843)">
 			<title>Use Case.62</title>
 			<desc>Žádost o dozásobení</desc>
 			<v:userDefs>
@@ -520,41 +523,41 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
-			<g id="shadow62-205" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow62-208" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st5"/>
 			</g>
 			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st6"/>
 			<text x="6.72" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Žádost o dozásobení</text>		</g>
-		<g id="shape63-210" v:mID="63" v:groupContext="shape" v:layerMember="0" transform="translate(315.542,-334.594)">
+		<g id="shape63-213" v:mID="63" v:groupContext="shape" v:layerMember="0" transform="translate(315.542,-334.594)">
 			<title>Association.63</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 595.28 L-68.35 648.4" class="st8"/>
 		</g>
-		<g id="shape69-213" v:mID="69" v:groupContext="shape" v:layerMember="0" transform="translate(247.188,-281.473)">
+		<g id="shape69-216" v:mID="69" v:groupContext="shape" v:layerMember="0" transform="translate(247.188,-281.473)">
 			<title>Association.69</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 595.28 L68.35 542.16" class="st8"/>
 		</g>
-		<g id="shape72-216" v:mID="72" v:groupContext="shape" v:layerMember="0" transform="translate(374.016,-340.724)">
+		<g id="shape72-219" v:mID="72" v:groupContext="shape" v:layerMember="0" transform="translate(374.016,-340.724)">
 			<title>Association.72</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 588.19 L-24.46 588.19" class="st8"/>
 		</g>
-		<g id="shape73-219" v:mID="73" v:groupContext="shape" v:layerMember="0" transform="translate(243.06,-239.594)">
+		<g id="shape73-222" v:mID="73" v:groupContext="shape" v:layerMember="0" transform="translate(243.06,-239.594)">
 			<title>Association.73</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 595.28 L77.77 501.23" class="st8"/>
 		</g>
-		<g id="shape76-222" v:mID="76" v:groupContext="shape" transform="translate(57.685,-411.591)">
+		<g id="shape76-225" v:mID="76" v:groupContext="shape" transform="translate(57.685,-411.591)">
 			<title>Use Case.76</title>
 			<desc>Editovat Menu</desc>
 			<v:userDefs>
@@ -562,38 +565,38 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
-			<g id="shadow76-223" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow76-226" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st5"/>
 			</g>
 			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st6"/>
 			<text x="20.69" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Editovat Menu</text>		</g>
-		<g id="shape78-228" v:mID="78" v:groupContext="shape" v:layerMember="0" transform="translate(487.402,-340.724)">
+		<g id="shape78-231" v:mID="78" v:groupContext="shape" v:layerMember="0" transform="translate(487.402,-340.724)">
 			<title>Association.78</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 588.19 L24.46 588.19" class="st8"/>
 		</g>
-		<g id="shape82-231" v:mID="82" v:groupContext="shape" v:layerMember="0" transform="translate(365.34,-542.253)">
+		<g id="shape82-234" v:mID="82" v:groupContext="shape" v:layerMember="0" transform="translate(365.34,-542.253)">
 			<title>Dynamic connector</title>
 			<path d="M0 595.28 L-20.44 624.6" class="st8"/>
 		</g>
-		<g id="group94-234" transform="translate(107.534,-91.3858)" v:mID="94" v:groupContext="group">
+		<g id="group94-237" transform="translate(107.534,-91.3858)" v:mID="94" v:groupContext="group">
 			<title>Sheet.94</title>
-			<g id="shape48-235" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(14.1732,-7.08661)">
+			<g id="shape48-238" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(14.1732,-7.08661)">
 				<title>Generalization.48</title>
 				<v:userDefs>
 					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				</v:userDefs>
 				<path d="M-6.9 595.28 L-7.25 391.93" class="st9"/>
 			</g>
-			<g id="shape92-240" v:mID="92" v:groupContext="shape" v:layerMember="0" transform="translate(7.20854,0)">
+			<g id="shape92-243" v:mID="92" v:groupContext="shape" v:layerMember="0" transform="translate(7.20854,0)">
 				<title>Dynamic connector.92</title>
 				<path d="M0 588.19 L207.58 588.19" class="st8"/>
 			</g>
 		</g>
-		<g id="shape95-243" v:mID="95" v:groupContext="shape" transform="translate(425.197,-515.055)">
+		<g id="shape95-246" v:mID="95" v:groupContext="shape" transform="translate(425.197,-515.055)">
 			<title>Use Case.95</title>
 			<desc>Zobrazit rezervace</desc>
 			<v:userDefs>
@@ -601,13 +604,13 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
-			<g id="shadow95-244" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow95-247" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st5"/>
 			</g>
 			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st6"/>
 			<text x="11.86" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zobrazit rezervace</text>		</g>
-		<g id="shape96-249" v:mID="96" v:groupContext="shape" transform="translate(425.197,-469.086)">
+		<g id="shape96-252" v:mID="96" v:groupContext="shape" transform="translate(425.197,-469.086)">
 			<title>Use Case.96</title>
 			<desc>Zobrazit aktuální stav restaurace</desc>
 			<v:userDefs>
@@ -615,28 +618,28 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="56.6929" cy="576.874" width="113.39" height="36.8038"/>
-			<g id="shadow96-250" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow96-253" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<ellipse cx="56.6929" cy="576.874" rx="56.6929" ry="18.4019" class="st5"/>
 			</g>
 			<ellipse cx="56.6929" cy="576.874" rx="56.6929" ry="18.4019" class="st6"/>
 			<text x="15.94" y="573.27" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zobrazit aktuální<v:newlineChar/><tspan
 						x="19.45" dy="1.2em" class="st16">stav restaurace</tspan></text>		</g>
-		<g id="shape97-256" v:mID="97" v:groupContext="shape" v:layerMember="0" transform="translate(349.558,-499.409)">
+		<g id="shape97-259" v:mID="97" v:groupContext="shape" v:layerMember="0" transform="translate(349.558,-499.409)">
 			<title>Association.97</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 595.28 L88.55 573.43" class="st8"/>
 		</g>
-		<g id="shape98-259" v:mID="98" v:groupContext="shape" v:layerMember="0" transform="translate(349.558,-499.445)">
+		<g id="shape98-262" v:mID="98" v:groupContext="shape" v:layerMember="0" transform="translate(349.558,-499.445)">
 			<title>Association.98</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 600.39 L76.35 604.34" class="st8"/>
 		</g>
-		<g id="shape99-262" v:mID="99" v:groupContext="shape" transform="translate(189.921,-532.063)">
+		<g id="shape99-265" v:mID="99" v:groupContext="shape" transform="translate(189.921,-532.063)">
 			<title>Use Case.99</title>
 			<desc>Zobrazit objednávku</desc>
 			<v:userDefs>
@@ -644,73 +647,75 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
-			<g id="shadow99-263" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow99-266" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st5"/>
 			</g>
 			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st6"/>
 			<text x="6.98" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zobrazit objednávku</text>		</g>
-		<g id="shape100-268" v:mID="100" v:groupContext="shape" v:layerMember="0" transform="translate(315.542,-505.872)">
+		<g id="shape100-271" v:mID="100" v:groupContext="shape" v:layerMember="0" transform="translate(315.542,-505.872)">
 			<title>Association.100</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 595.28 L-44.45 567.42" class="st8"/>
 		</g>
-		<g id="shape103-271" v:mID="103" v:groupContext="shape" v:layerMember="0" transform="translate(35.4331,-347.811)">
+		<g id="shape103-274" v:mID="103" v:groupContext="shape" v:layerMember="0" transform="translate(35.4331,-347.811)">
 			<title>Dynamic connector.103</title>
 			<path d="M0 595.28 L0 474.24 L26.28 474.24" class="st8"/>
 		</g>
-		<g id="shape104-274" v:mID="104" v:groupContext="shape" v:layerMember="0" transform="translate(35.4331,-354.898)">
+		<g id="shape104-277" v:mID="104" v:groupContext="shape" v:layerMember="0" transform="translate(35.4331,-354.898)">
 			<title>Association.104</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 602.36 L61.94 602.36" class="st8"/>
 		</g>
-		<g id="shape105-277" v:mID="105" v:groupContext="shape" v:layerMember="0" transform="translate(35.4331,-435.685)">
+		<g id="shape105-280" v:mID="105" v:groupContext="shape" v:layerMember="0" transform="translate(35.4331,-435.685)">
 			<title>Association.105</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 602.36 L22.25 602.36" class="st8"/>
 		</g>
-		<g id="shape106-280" v:mID="106" v:groupContext="shape" transform="translate(181.417,-489.543)">
+		<g id="shape106-283" v:mID="106" v:groupContext="shape" transform="translate(181.417,-489.543)">
 			<title>Use Case.106</title>
-			<desc>Zobrazit stůl</desc>
+			<desc>Zobrazit jednotku</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="56.6929" cy="578.268" width="113.39" height="34.0157"/>
-			<g id="shadow106-281" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow106-284" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st5"/>
 			</g>
 			<ellipse cx="56.6929" cy="578.268" rx="56.6929" ry="17.0079" class="st6"/>
-			<text x="26.6" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zobrazit stůl</text>		</g>
-		<g id="shape107-286" v:mID="107" v:groupContext="shape" v:layerMember="0" transform="translate(290.745,-505.83)">
+			<text x="13.71" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zobrazit <tspan
+						class="st16" v:langID="1033">jednotku</tspan></text>		</g>
+		<g id="shape107-290" v:mID="107" v:groupContext="shape" v:layerMember="0" transform="translate(290.745,-505.83)">
 			<title>Association.107</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 600.87 L24.8 603.85" class="st8"/>
 		</g>
-		<g id="shape108-289" v:mID="108" v:groupContext="shape" transform="translate(215.433,-384.661)">
+		<g id="shape108-293" v:mID="108" v:groupContext="shape" transform="translate(215.433,-384.661)">
 			<title>Use Case.108</title>
-			<desc>Zaplatit stůl</desc>
+			<desc>Zaplatit jednotku</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="50.0545" cy="578.268" width="100.11" height="34.0157"/>
-			<g id="shadow108-290" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow108-294" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<ellipse cx="50.0545" cy="578.268" rx="50.0545" ry="17.0079" class="st5"/>
 			</g>
 			<ellipse cx="50.0545" cy="578.268" rx="50.0545" ry="17.0079" class="st6"/>
-			<text x="21.33" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zaplatit stůl</text>		</g>
-		<g id="shape110-295" v:mID="110" v:groupContext="shape" v:layerMember="0" transform="translate(284.991,-386.006)">
+			<text x="8.44" y="581.87" class="st7" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Zaplatit <tspan
+						class="st16" v:langID="1033">jednotku</tspan></text>		</g>
+		<g id="shape110-300" v:mID="110" v:groupContext="shape" v:layerMember="0" transform="translate(284.991,-386.006)">
 			<title>Association.110</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
