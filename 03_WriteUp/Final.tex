@@ -1344,6 +1344,7 @@ Ve třetí (závěrečné) iteraci jsou vylepšeny možnosti organizace prostoru
 \newpage
 \section*{Přejímací testy}
 
+% Přejímací test #1
 {\large\textbf{Přejímací test 1: Zadat objednávku}} \\
 
 \textbf{Popis}: \\\indent Uživatel systému (v roli Obslužný personál, nebo Vedení) zadává objednávku přijatou u stolu v restauraci. \\
@@ -1369,7 +1370,6 @@ Ve třetí (závěrečné) iteraci jsou vylepšeny možnosti organizace prostoru
 
 \textbf{Postup}:
 \begin{enumerate}
-
 	% Krok #1
 	\item 
 	\begin{enumerate}
@@ -1430,6 +1430,108 @@ Ve třetí (závěrečné) iteraci jsou vylepšeny možnosti organizace prostoru
 \end{enumerate}
 
 
+% Přejímací test #2
+% TODO: Přepsat hodnoty na přejímací test 2
+{\large\textbf{Přejímací test 2: Vytvořit rezervaci}} \\
+
+%\textbf{Popis}: \\\indent Uživatel systému (v roli Obslužný personál, nebo Vedení) zadává objednávku přijatou u stolu v restauraci. \\
+\textbf{Popis}: \\\indent Zákazník rezervuje místo, popřípadě salón v restaurace na zvolené datum a čas. \\
+
+\textbf{Předpoklady}: 
+\begin{enumerate}
+	\item Zákazník chce vytvořit rezervacii na místo, popřípadě salón v restauraci.
+	\item Databáze rezervací je na začátku prázdná.
+	\item Test probíhá v izolovaném prostředí, takže nepřichází konkurentní požadavky v průběhu tohoto testu.
+\end{enumerate}
+
+\textbf{Stav systému před provedením testu:}
+\begin{enumerate}
+	\item Systém běží a je responzivní.
+	\item Systém dokáže zobrazit plánek restaurace s obsazenými místy.
+	\item V databázi není informace o rezervaci Zákazníka. 
+\end{enumerate}
+
+\textbf{Stav systému po provedení testu}:
+\begin{enumerate}
+	\item Systém běží a je responzivní.
+	\item V databázi je vytvořen záznam o žádosti o rezervaci.
+	\item V seznamu objednávek čekajících na schválení je vidět Zákazníkem vytvořená rezervace.
+\end{enumerate}
+
+\textbf{Postup}:
+\begin{enumerate}
+	% Krok #1
+	\item 
+	\begin{enumerate}
+		\item Krok: Zákazník klikne na odkaz \uv{Vytvořit rezervaci} 
+		\item Možné výstupy:
+		\begin{enumerate}
+			\item Úspěch: Systém zobrazí uživatelské rozhraní pro vytvoření nové rezervace.
+			\item Neúspěch: Operace selže. 
+			\item Neúspěch: Systém selže. 
+		\end{enumerate} 
+	\end{enumerate}
+
+	% Krok #2
+	\item 
+	\begin{enumerate}
+		\item Krok: Zákazník vyplní informace o své osobě a čase kdy má zájem o rezervaci. 
+		\item Možné výstupy:
+		\begin{enumerate}
+			\item Úspěch: Systém po ověření, že informace o čase je validní nabídne zobrazení plánku restaurace s dostupnými místy v daném čase.
+			\item Neúspěch: Operace selže.
+			\item Neúspěch: Systém selže.
+		\end{enumerate} 
+	\end{enumerate}
+
+	% Krok #3
+	\item 
+	\begin{enumerate}
+		\item Krok: Zákazník vybere volné místo v restauraci z plánku restaurace a odešle žádost o rezervaci kliknutím na tlačítko \uv{Rezervovat}
+		\item Možné výstupy:
+		\begin{enumerate}
+			\item Úspěch: Systém vytvoří rezervaci.
+			\item Neúspěch: Operace selže.
+			\item Neúspěch: Systém selže.
+		\end{enumerate} 
+	\end{enumerate}
+
+	% Krok #4
+	\item 
+	\begin{enumerate}
+		\item Krok: Zákazník opět naviguje na formulář s vytvářením rezervace, vyplní jiné informace o své osobě, ale vybere stejný čas ve kterém má zájem o rezervaci.
+		\item Možné výstupy:
+		\begin{enumerate}
+			\item Úspěch: Systém po ověření, že informace o čase je validní nabídne zobrazení plánku restaurace s dostupnými místy v daném čase. Místo, které Zákazník vybral v Kroku 2 je označené jako zabrané.
+			\item Neúspěch: Systém po ověření, že informace o čase je validní nabídne zobrazení plánku restaurace s dostupnými místy v daném čase. Místo, které Zákazník vybral v Kroku 2 je označené jako nezabrané.
+			\item Neúspěch: Operace selže.
+			\item Neúspěch: Systém selže.
+		\end{enumerate} 
+	\end{enumerate}
+
+	% Krok #5
+	\item 
+	\begin{enumerate}
+		\item Krok: Zákazník nevybere žádné místo a odešle rezervační formulář tlačíkem \uv{Rezervovat}.
+		\item Možné výstupy:
+		\begin{enumerate}
+			\item Úspěch: Systém zobrazí chybovou hlášku informující uživatele o nutnosti vybrat místo z plánku restaurace.
+			\item Neúspěch: Systém odešle rezervaci na nula míst.
+			\item Neúspěch: Operace selže.
+			\item Neúspěch: Systém selže.
+		\end{enumerate} 
+	\end{enumerate}
+\end{enumerate}
+
+% TODO: Make sure title and enumeration are on the same page 
+\textbf{Očekávaný výstup testu:} \\
+\begin{enumerate}
+	\item Krok 1 skončí výstupem (i) - Systém zobrazí uživatelské rozhraní pro vytvoření nové rezervace..
+	\item Krok 2 skončí výstupem (i) - Systém po ověření, že informace o čase je validní nabídne zobrazení plánku restaurace s dostupnými místy v daném čase.
+	\item Krok 3 skončí výstupem (i) - Systém vytvoří rezervaci.
+	\item Krok 4 skončí výstupem (i) - Systém po ověření, že informace o čase je validní nabídne zobrazení plánku restaurace s dostupnými místy v daném čase. Místo, které Zákazník vybral v Kroku 2 je označené jako zabrané.
+	\item Krok 5 skončí výstupem (i) - Systém zobrazí chybovou hlášku informující uživatele o nutnosti vybrat místo z plánku restaurace..
+\end{enumerate}
 
 \end{document}
 
