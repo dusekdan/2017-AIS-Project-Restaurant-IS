@@ -149,9 +149,9 @@
     Tok: & 
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut]
-            \item Aktér Kancelář klikne na odkaz \uv{Potvrzovat rezervace}.
-            \item Systém zobrazí uživateli seznam vytvořených rezervací, které čekají na potvrzení.
-            \item Aktér Kancelář vybere ze seznamu čekajících rezervací tu, kterou chce potvrdit a klikne na tlačítko \uv{Potvrdit rezervaci}.
+            %\item Aktér Kancelář klikne na odkaz \uv{Potvrzovat rezervace}.
+            \item Aktér Kancelář má zobrazen seznam vytvořených rezervací, které čekají na potvrzení.
+            \item Aktér Kancelář vybere ze seznamu čekajících rezervací tu, kterou chce potvrdit a klikne u ní na tlačítko \uv{Potvrdit rezervaci}.
             \item Systém zkontroluje zda jsou splněny všechny podmínky, za kterých může být rezervace potvrzena a podmínky nejsou úspěšně splněny. Některé z rezervovaných míst je již obsazeno jinou rezervací.
             \item Systém vygeneruje email informující uživatele o zamítnutí jeho rezervace.
             \item Systém zobrazí informaci o automatickém zamítnutí rezervace, včetně důvodů.
@@ -265,20 +265,22 @@
     	\end{enumerate}
   	\end{minipage} \\
 	\hline
-    Akce pro spuštění: & Obslužný personál zapne režim \uv{Zadávání objednávky} \\
+    Akce pro spuštění: & %Obslužný personál zapne režim \uv{Zadávání objednávky} 
+    Obslužný personál má zobrazenu jednotku, pro kterou chce zadat objednávku. \\
     \hline
     Hlavní tok: & 
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut]
-            \item Aktér Obslužný personál klikne na tlačítko \uv{Zadat objednávku}.
-            \item Systém zobrazí uživatelské rozhraní pro zadávání objednávky obsahující (mimo jiné) možnost specifikace stolu, ke kterému se objednávka vztahuje.
-            \item Aktér Obslužný personál zadá obsah objednávky a klikne na tlačítko \uv{Zadat}
-            \item Systém zkontroluje že Obslužný personál vybral stůl ke kterému se objednávka vztahuje. Tato kontrola proběhne úspěšně.
+            %\item Aktér Obslužný personál klikne na tlačítko \uv{Zadat objednávku}.
+	    %\item Systém zobrazí kuživatelské rozhraní pro zadávání objednávky obsahující (mimo jiné) možnost specifikace stolu, ke kterému se objednávka vztahuje.
+	    \item Aktér klikne na tlačítko \uv{Zadat objednávku}.
+            \item Aktér Obslužný personál zadá obsah objednávky a klikne na tlačítko \uv{Zadat}.
+            \item Systém zkontroluje že Obslužný personál zadal obsah objednávky. Tato kontrola proběhne úspěšně.
             \item Systém vytvoří v systému objednávku se všemi zadanými informacemi od obsluhy.
     	\end{enumerate}
   	\end{minipage} \\
     \hline 
-    Alternativní toky: & Oblužný personál nezadá objednávající stůl  \\
+    Alternativní toky: & Oblužný personál nezadá obsah objednávky  \\
     \hline
     Výjimky: & 
     \begin{minipage}[t]{0.75\textwidth}
@@ -311,11 +313,11 @@
 	\hline
 	ID: & 5.1 \\
     \hline
-    Název: & \textbf{Zadat objednávku: Oblužný personál nezadá objednávající stůl} \\
+    Název: & \textbf{Zadat objednávku: Oblužný personál nezadá obsah objednávky} \\
     \hline
     Vytvořeno: & Filip Kalous, Daniel Dušek, Anna Popková \\
     \hline
-    Popis: & Oblužný personál zadává objednávku bez vyplněného stolu. \\
+    Popis: & Oblužný personál zadává objednávku bez jejího obsahu. \\
     \hline
     Primární aktéři: & Obslužný personál, Systém \\
     \hline
@@ -326,23 +328,23 @@
     Následné podmínky: & 
 	\begin{minipage}[t]{0.75\textwidth}
  		\begin{enumerate}[nosep,after=\strut]
- 			\item Systém nevytvoří objednávku u které by nebyl vybraný stůl ke kterému se vztahuje.
+ 			\item Systém nevytvoří objednávku u které by nebyl vyplněný žádný obsah.
             \item Systém navede Obslužný personál aby dokončil zadávání objednávky úspěšně.
  		\end{enumerate}
     \end{minipage} \\
 	\hline
-    Akce pro spuštění: & Obslužný personál zapne režim \uv{Zadávání objednávky}, zadá objednávku a nevyplní stůl, ke kterému se vztahuje a potvrdí zadávání. \\
+    Akce pro spuštění: & Obslužný personál při zadávání objednávky pro určitou jednotku nevyplní obsah objednávky a potvrdí její zadávání. \\
     \hline
     Tok: & 
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut]
             \item Aktér Obslužný personál klikne na tlačítko \uv{Zadat objednávku}.
-            \item Systém zobrazí uživatelské rozhraní pro zadávání objednávky obsahující (mimo jiné) možnost specifikace stolu, ke kterému se objednávka vztahuje.
-            \item Aktér Obslužný personál zadá obsah objednávky bez vyplněného objednávajícího stolu a klikne na tlačítko \uv{Zadat}
-            \item Systém zkontroluje že Obslužný personál vybral stůl ke kterému se objednávka vztahuje. Tato kontrola proběhne neúspěšně, protože stůl nebyl vyplněn.
-            \item Systém zobrazí chybovou hlášku o chybějícím stolu, ke kterému se objednávka vztahuje a informací pro Obslužný personál, jak tuto informaci doplnil.
+            %\item Systém zobrazí uživatelské rozhraní pro zadávání objednávky obsahující (mimo jiné) možnost specifikace stolu, ke kterému se objednávka vztahuje.
+            \item Aktér Obslužný personál nezadá obsah objednávky a klikne na tlačítko \uv{Zadat}
+            \item Systém zkontroluje že Obslužný personál zadal obsah objednávky. Tato kontrola proběhne neúspěšně, protože obsah objednávky nebyl vyplněn.
+            \item Systém zobrazí chybovou hlášku o chybějícím obsahu objednávky a s informací pro Obslužný personál, jak tuto informaci doplnit.
             \item Obslužný personál doplní informaci a znovu klikne na tlačítko \uv{Zadat}
-            \item Tok dále pokračuje od bodu 4 standardního případu použití.
+            \item Tok dále pokračuje od bodu 3 standardního případu použití.
     	\end{enumerate}
     \end{minipage} \\
     \hline
@@ -352,7 +354,7 @@
         \hline
 
 \end{tabular}}
-\caption{Zadat objednávku: Rezervované místo není k dispozici}
+\caption{Zadat objednávku: Oblužný personál nezadá obsah objednávky}
 \label{table:2}
 \end{table}
 
@@ -494,7 +496,7 @@
 	\hline
 	ID: & 6.2 \\
     \hline
-    Název: & \textbf{Stornovat rezervaci: Zákazník vyplní rezervační klíče rezervace, která již započala.}. \\
+    Název: & \textbf{Stornovat rezervaci: Zákazník vyplní rezervační klíče rezervace, která již započala.} \\
     \hline
     Vytvořeno: & Filip Kalous, Daniel Dušek, Anna Popková \\
     \hline
