@@ -31,14 +31,14 @@
 		.st17 {fill:#ffffff;font-family:Calibri;font-size:0.75em}
 		.st18 {marker-end:url(#mrkr14-242);stroke:#5592c9;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st19 {stroke:#5592c9;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
-		.st20 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st20 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st21 {fill:#41719d;font-family:Calibri;font-size:0.666664em}
 		.st22 {marker-end:url(#mrkr12-339);stroke:#5592c9;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
-		.st23 {fill:#ffffff;font-family:Calibri;font-size:1.00001em}
-		.st24 {fill:#5b9bd5;font-family:Calibri;font-size:0.833336em}
-		.st25 {fill:#5b9bd5;font-family:Calibri;font-size:0.666664em}
-		.st26 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
-		.st27 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st23 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st24 {fill:#ffffff;font-family:Calibri;font-size:1.00001em}
+		.st25 {fill:#5b9bd5;font-family:Calibri;font-size:0.833336em}
+		.st26 {fill:#5b9bd5;font-family:Calibri;font-size:0.666664em}
+		.st27 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st28 {fill:#41729d;font-family:Calibri;font-size:0.666664em}
 		.st29 {fill:#73ae42}
 		.st30 {stroke:#73ae42;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
@@ -1198,7 +1198,7 @@
 					</v:userDefs>
 				</g>
 				<g id="shape236-91" v:mID="236" v:groupContext="groupContent" v:layerMember="1">
-					<path d="M0 1647.78 L313.23 1647.78 L626.47 1647.78 L626.47 1246.96 L313.23 1246.96 L0 1246.96 L0 1647.78 Z"
+					<path d="M0 1647.78 L284.17 1647.78 L568.35 1647.78 L568.35 1246.96 L284.17 1246.96 L0 1246.96 L0 1647.78 Z"
 							class="st3"/>
 				</g>
 			</g>
@@ -2778,7 +2778,7 @@
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="11.3398" cy="1658.86" width="40" height="17.6036"/>
 				<path d="M-6.98 1647.78 L-7.19 1670.03" class="st22"/>
-				<rect v:rectContext="textBkgnd" x="-2.28535" y="1654.06" width="27.2502" height="9.59985" class="st20"/>
+				<rect v:rectContext="textBkgnd" x="-2.28535" y="1654.06" width="27.2502" height="9.59985" class="st23"/>
 				<text x="-2.29" y="1661.26" class="st21" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;use&#62;&#62;</text>			</g>
 		</g>
 		<g id="group161-342" transform="translate(28.9134,-290.264)" v:mID="161" v:groupContext="group">
@@ -3091,7 +3091,7 @@
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="-24.7593" cy="1670.51" width="40" height="17.6036"/>
 				<path d="M-3.9 1647.78 L-10.28 1694.97" class="st22"/>
-				<rect v:rectContext="textBkgnd" x="-38.3845" y="1665.71" width="27.2502" height="9.59985" class="st20"/>
+				<rect v:rectContext="textBkgnd" x="-38.3845" y="1665.71" width="27.2502" height="9.59985" class="st23"/>
 				<text x="-38.38" y="1672.91" class="st21" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;use&#62;&#62;</text>			</g>
 		</g>
 		<g id="group187-396" transform="translate(126.709,-124.18)" v:mID="187" v:groupContext="group">
@@ -3506,7 +3506,7 @@
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="26.2205" cy="1681.63" width="40" height="17.6036"/>
 				<path d="M0 1647.78 L25.88 1647.78 L25.88 1770.93 L80.08 1770.93 L80.08 1785.13" class="st22"/>
-				<rect v:rectContext="textBkgnd" x="12.5953" y="1676.84" width="27.2502" height="9.59985" class="st20"/>
+				<rect v:rectContext="textBkgnd" x="12.5953" y="1676.84" width="27.2502" height="9.59985" class="st23"/>
 				<text x="12.6" y="1684.04" class="st21" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;use&#62;&#62;</text>			</g>
 		</g>
 		<g id="group301-476" transform="translate(860.882,-677.439)" v:mID="301" v:groupContext="group">
@@ -3582,7 +3582,7 @@
 			<g id="shape301-482" v:mID="301" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="93.5433" cy="1575.57" width="187.09" height="31.4037"/>
-				<text x="41.94" y="1579.17" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CustomerViewModel</text>			</g>
+				<text x="41.94" y="1579.17" class="st24" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CustomerViewModel</text>			</g>
 		</g>
 		<g id="shape306-484" v:mID="306" v:groupContext="shape" transform="translate(863.717,-707.112)">
 			<title>Member.306</title>
@@ -3613,7 +3613,7 @@
 			<v:textRect cx="90.7087" cy="1635.78" width="181.42" height="24.0037"/>
 			<rect x="0" y="1623.78" width="181.417" height="24.0037" class="st8"/>
 			<rect x="0" y="1623.78" width="181.417" height="24.0037" class="st9"/>
-			<text x="8.5" y="1632.78" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>- ReservationFacade : ReservationFacade<v:newlineChar/><tspan
+			<text x="8.5" y="1632.78" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>- ReservationFacade : ReservationFacade<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">-</tspan> FeedbackFacade : FeedbackFacade</text>		</g>
 		<g id="shape307-489" v:mID="307" v:groupContext="shape" transform="translate(863.717,-704.278)">
 			<title>Separator.307</title>
@@ -3656,7 +3656,7 @@
 			<v:textRect cx="90.7087" cy="1635.78" width="181.42" height="24.0037"/>
 			<rect x="0" y="1623.78" width="181.417" height="24.0037" class="st8"/>
 			<rect x="0" y="1623.78" width="181.417" height="24.0037" class="st9"/>
-			<text x="8.5" y="1632.78" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>+ CustomerViewModel()<v:newlineChar/><tspan
+			<text x="8.5" y="1632.78" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>+ CustomerViewModel()<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ sendFeedback() : void</tspan></text>		</g>
 		<g id="group324-497" transform="translate(45.5669,-774.528)" v:mID="324" v:groupContext="group">
 			<v:userDefs>
@@ -3731,7 +3731,7 @@
 			<g id="shape324-503" v:mID="324" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="97.7953" cy="1489.17" width="195.6" height="31.4037"/>
-				<text x="51.66" y="1492.77" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>ReservationFacade</text>			</g>
+				<text x="51.66" y="1492.77" class="st24" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>ReservationFacade</text>			</g>
 		</g>
 		<g id="shape329-505" v:mID="329" v:groupContext="shape" transform="translate(48.4015,-905)">
 			<title>Member.329</title>
@@ -3761,7 +3761,7 @@
 			<v:textRect cx="94.9606" cy="1642.98" width="189.93" height="9.60356"/>
 			<rect x="0" y="1638.18" width="189.921" height="9.60356" class="st8"/>
 			<rect x="0" y="1638.18" width="189.921" height="9.60356" class="st9"/>
-			<text x="8.5" y="1645.38" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>- MailSender : MailSender</text>		</g>
+			<text x="8.5" y="1645.38" class="st26" v:langID="1033"><v:paragraph/><v:tabList/>- MailSender : MailSender</text>		</g>
 		<g id="shape330-509" v:mID="330" v:groupContext="shape" transform="translate(48.4015,-902.166)">
 			<title>Separator.330</title>
 			<v:userDefs>
@@ -3804,7 +3804,7 @@
 			<v:textRect cx="94.9606" cy="1585.38" width="189.93" height="124.803"/>
 			<rect x="0" y="1522.98" width="189.921" height="124.803" class="st8"/>
 			<rect x="0" y="1522.98" width="189.921" height="124.803" class="st9"/>
-			<text x="8.5" y="1530.18" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>+ getReservationById(UUID id) : ReservationDTO<v:newlineChar/><tspan
+			<text x="8.5" y="1530.18" class="st26" v:langID="1033"><v:paragraph/><v:tabList/>+ getReservationById(UUID id) : ReservationDTO<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ getAll() : Collection&#60;ReservationDTO&#62;<v:newlineChar/></tspan><tspan
 						x="8.5" dy="1.2em" class="st11">+ getReservations(DateTime time, </tspan><tspan x="8.5" dy="1.2em"
 						class="st11">Collection&#60;Bookable&#62; bookables) : <v:tabChar/></tspan><tspan x="51.02" dy="1.2em"
@@ -3889,7 +3889,7 @@
 			<g id="shape332-534" v:mID="332" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="75.1181" cy="1508.37" width="150.24" height="31.4037"/>
-				<text x="35.23" y="1511.97" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>BookableFacade</text>			</g>
+				<text x="35.23" y="1511.97" class="st24" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>BookableFacade</text>			</g>
 		</g>
 		<g id="shape337-536" v:mID="337" v:groupContext="shape" transform="translate(250.016,-904)">
 			<title>Member.337</title>
@@ -3959,7 +3959,7 @@
 			<v:textRect cx="72.2835" cy="1594.98" width="144.57" height="105.603"/>
 			<rect x="0" y="1542.18" width="144.567" height="105.603" class="st8"/>
 			<rect x="0" y="1542.18" width="144.567" height="105.603" class="st9"/>
-			<text x="8.5" y="1549.38" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>+ getBookableById(int id) : Bookable<v:newlineChar/><tspan
+			<text x="8.5" y="1549.38" class="st26" v:langID="1033"><v:paragraph/><v:tabList/>+ getBookableById(int id) : Bookable<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ getBookable(int id, BookableType type) </tspan><tspan x="8.5" dy="1.2em"
 						class="st11">: Bookable<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em" class="st11">+ createBookable(BookableDTO dto) : </tspan><tspan
 						x="8.5" dy="1.2em" class="st11">BookableDTO<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em" class="st11">+ updateBookable(BookableDTO dto) : </tspan><tspan
@@ -4039,7 +4039,7 @@
 			<g id="shape377-562" v:mID="377" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="97.7953" cy="1563.57" width="195.6" height="31.4037"/>
-				<text x="56.87" y="1567.17" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CustomerFacade</text>			</g>
+				<text x="56.87" y="1567.17" class="st24" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CustomerFacade</text>			</g>
 		</g>
 		<g id="shape382-564" v:mID="382" v:groupContext="shape" transform="translate(48.4015,-723.48)">
 			<title>Member.382</title>
@@ -4109,7 +4109,7 @@
 			<v:textRect cx="94.9606" cy="1623.78" width="189.93" height="48.0034"/>
 			<rect x="0" y="1599.78" width="189.921" height="48.0034" class="st8"/>
 			<rect x="0" y="1599.78" width="189.921" height="48.0034" class="st9"/>
-			<text x="8.5" y="1606.98" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>+ getCustomerById(int id) : CustomerDTO<v:newlineChar/><tspan
+			<text x="8.5" y="1606.98" class="st26" v:langID="1033"><v:paragraph/><v:tabList/>+ getCustomerById(int id) : CustomerDTO<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ getAll() : Collection&#60;Customer&#62;<v:newlineChar/></tspan><tspan
 						x="8.5" dy="1.2em" class="st11">+ getCustomerByReservationId(UUID res) : </tspan><tspan x="8.5" dy="1.2em"
 						class="st11">CustomerDTO<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em" class="st11">+ updateCustomer(CustomerDTO dto) : void </tspan> </text>		</g>
@@ -4186,7 +4186,7 @@
 			<g id="shape390-584" v:mID="390" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="110.551" cy="1467.57" width="221.11" height="31.4037"/>
-				<text x="32.93" y="1471.17" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;singleton&#62;&#62; DatabaseContext</text>			</g>
+				<text x="32.93" y="1471.17" class="st24" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;singleton&#62;&#62; DatabaseContext</text>			</g>
 		</g>
 		<g id="shape395-586" v:mID="395" v:groupContext="shape" transform="translate(602.929,-273.081)">
 			<title>Member.395</title>
@@ -4204,7 +4204,7 @@
 				<v:ud v:nameU="IsInstance" v:prompt="" v:val="VT0(0):5"/>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="MemberName" v:prompt=""
-						v:val="VT4(+ Feedbacks : Collection&#60;Feedback&#62;&#10;+ Orders : Collection&#60;Order&#62;&#10;+ Menus : Collection&#60;Menu&#62;&#10;+ Reservations : Collection&#60;Reservation&#62;&#10;+ Customers : Collection&#60;Customer&#62;&#10;+ Staff : Collection&#60;Staff&#62;&#10;+ Bookables : Collection&#60;IBookable&#62;&#10;+ BookableTypes : Collection&#60;BookableType&#62;&#10;+ Roles : Colection&#60;Role&#62;&#10;+ OrderStatuses : Collection&#60;OrderStatus&#62;)"/>
+						v:val="VT4(+ Feedbacks : Collection&#60;Feedback&#62;&#10;+ Orders : Collection&#60;Order&#62;&#10;+ Menus : Collection&#60;Menu&#62;&#10;+ Reservations : Collection&#60;Reservation&#62;&#10;+ Customers : Collection&#60;Customer&#62;&#10;+ Staff : Collection&#60;Staff&#62;&#10;+ Bookables : Collection&#60;IBookable&#62;&#10;+ BookableTypes : Collection&#60;BookableType&#62;&#10;+ Roles : Collection&#60;Role&#62;&#10;+ OrderStatuses : Collection&#60;OrderStatus&#62;)"/>
 				<v:ud v:nameU="ContainerMargin" v:prompt="" v:val="VT0(0.039370078740157):24"/>
 				<v:ud v:nameU="WidthMin" v:prompt="" v:val="VT0(0):26"/>
 				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#5b9bd5)"/>
@@ -4217,7 +4217,7 @@
 			<v:textRect cx="107.717" cy="1587.78" width="215.44" height="120.004"/>
 			<rect x="0" y="1527.78" width="215.433" height="120.004" class="st8"/>
 			<rect x="0" y="1527.78" width="215.433" height="120.004" class="st9"/>
-			<text x="8.5" y="1536.78" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>+ Feedbacks : Collection&#60;Feedback&#62;<v:newlineChar/><tspan
+			<text x="8.5" y="1536.78" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>+ Feedbacks : Collection&#60;Feedback&#62;<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ Orders : Collection&#60;Order&#62;<v:newlineChar/></tspan><tspan x="8.5"
 						dy="1.2em" class="st11">+ Menus : Collection&#60;Menu&#62;<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em"
 						class="st11">+ Reservations : Collection&#60;Reservation&#62;<v:newlineChar/></tspan><tspan x="8.5"
@@ -4225,9 +4225,9 @@
 						dy="1.2em" class="st11">+ Staff : Collection&#60;Staff&#62;<v:newlineChar/></tspan><tspan x="8.5"
 						dy="1.2em" class="st11">+ Bookables : Collection&#60;IBookable&#62;<v:newlineChar/></tspan><tspan x="8.5"
 						dy="1.2em" class="st11">+ BookableTypes : Collection&#60;BookableType&#62;<v:newlineChar/></tspan><tspan
-						x="8.5" dy="1.2em" class="st11">+ Roles : Colection&#60;Role&#62;<v:newlineChar/></tspan><tspan x="8.5"
-						dy="1.2em" class="st11">+ OrderStatuses : Collection&#60;OrderStatus&#62;</tspan></text>		</g>
-		<g id="shape396-599" v:mID="396" v:groupContext="shape" transform="translate(602.929,-270.246)">
+						x="8.5" dy="1.2em" class="st11">+ Roles : Co</tspan><tspan class="st11" v:langID="1029">l</tspan>lection&#60;Role&#62;<v:newlineChar/><tspan
+						x="8.5" dy="1.2em" class="st11">+ OrderStatuses : Collection&#60;OrderStatus&#62;</tspan></text>		</g>
+		<g id="shape396-600" v:mID="396" v:groupContext="shape" transform="translate(602.929,-270.246)">
 			<title>Separator.396</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -4240,7 +4240,7 @@
 			<path d="M0 1646.36 L215.43 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L215.43 1646.36" class="st13"/>
 		</g>
-		<g id="shape397-602" v:mID="397" v:groupContext="shape" transform="translate(602.929,-234.242)">
+		<g id="shape397-603" v:mID="397" v:groupContext="shape" transform="translate(602.929,-234.242)">
 			<title>Member.397</title>
 			<desc>+ DatabaseContext() + executeQuery&#60;T&#62;(String query) : IEnumer...</desc>
 			<v:userDefs>
@@ -4269,11 +4269,11 @@
 			<v:textRect cx="107.717" cy="1629.78" width="215.44" height="36.0037"/>
 			<rect x="0" y="1611.78" width="215.433" height="36.0037" class="st8"/>
 			<rect x="0" y="1611.78" width="215.433" height="36.0037" class="st9"/>
-			<text x="8.5" y="1620.78" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>+ DatabaseContext()<v:newlineChar/><tspan
+			<text x="8.5" y="1620.78" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>+ DatabaseContext()<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ executeQuery&#60;T&#62;(String query)</tspan><tspan class="st11"
 						v:langID="1029"> </tspan><tspan class="st11" v:langID="1029">: </tspan><tspan x="8.5" dy="1.2em"
 						class="st11" v:langID="1029">IEnumerable</tspan>&#60;T&#62;</text>		</g>
-		<g id="group398-610" transform="translate(403.087,-746.996)" v:mID="398" v:groupContext="group">
+		<g id="group398-611" transform="translate(403.087,-746.996)" v:mID="398" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -4304,7 +4304,7 @@
 			</v:userDefs>
 			<title>Class.398</title>
 			<desc>OrderFacade</desc>
-			<g id="shape399-611" v:mID="399" v:groupContext="shape">
+			<g id="shape399-612" v:mID="399" v:groupContext="shape">
 				<title>Sheet.399</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -4314,7 +4314,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L141.73 1647.78 L141.73 1569.67 L0 1569.67 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape400-613" v:mID="400" v:groupContext="shape" transform="translate(0,-78.1073)">
+			<g id="shape400-614" v:mID="400" v:groupContext="shape" transform="translate(0,-78.1073)">
 				<title>Sheet.400</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -4331,7 +4331,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L141.73 1647.78 L141.73 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape402-615" v:mID="402" v:groupContext="shape" transform="translate(133.228,-109.511)">
+			<g id="shape402-616" v:mID="402" v:groupContext="shape" transform="translate(133.228,-109.511)">
 				<title>Sheet.402</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -4343,12 +4343,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape398-616" v:mID="398" v:groupContext="groupContent">
+			<g id="shape398-617" v:mID="398" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="70.8662" cy="1553.97" width="141.74" height="31.4037"/>
-				<text x="39.39" y="1557.57" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>OrderFacade</text>			</g>
+				<text x="39.39" y="1557.57" class="st24" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>OrderFacade</text>			</g>
 		</g>
-		<g id="shape403-618" v:mID="403" v:groupContext="shape" transform="translate(405.921,-810.268)">
+		<g id="shape403-619" v:mID="403" v:groupContext="shape" transform="translate(405.921,-810.268)">
 			<title>Member.403</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Member)"/>
@@ -4374,7 +4374,7 @@
 			<rect x="0" y="1635.78" width="136.063" height="12" class="st8"/>
 			<rect x="0" y="1635.78" width="136.063" height="12" class="st9"/>
 		</g>
-		<g id="shape404-621" v:mID="404" v:groupContext="shape" transform="translate(405.921,-807.434)">
+		<g id="shape404-622" v:mID="404" v:groupContext="shape" transform="translate(405.921,-807.434)">
 			<title>Separator.404</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -4387,7 +4387,7 @@
 			<path d="M0 1646.36 L136.06 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L136.06 1646.36" class="st13"/>
 		</g>
-		<g id="shape405-624" v:mID="405" v:groupContext="shape" transform="translate(405.921,-749.83)">
+		<g id="shape405-625" v:mID="405" v:groupContext="shape" transform="translate(405.921,-749.83)">
 			<title>Member.405</title>
 			<desc>+ getOrdersByBookableId(int id) : Collection&#60;OrderDTO&#62; + getO...</desc>
 			<v:userDefs>
@@ -4416,13 +4416,13 @@
 			<v:textRect cx="68.0315" cy="1618.98" width="136.07" height="57.6034"/>
 			<rect x="0" y="1590.18" width="136.063" height="57.6034" class="st8"/>
 			<rect x="0" y="1590.18" width="136.063" height="57.6034" class="st9"/>
-			<text x="8.5" y="1597.38" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>+ getOrdersByBookableId(int id) : <tspan
+			<text x="8.5" y="1597.38" class="st26" v:langID="1033"><v:paragraph/><v:tabList/>+ getOrdersByBookableId(int id) : <tspan
 						x="8.5" dy="1.2em" class="st11">Collection&#60;OrderDTO&#62;<v:newlineChar/></tspan><tspan x="8.5"
 						dy="1.2em" class="st11">+ getOrderById(int id) : OrderDTO<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em"
 						class="st11">+ getAll() : Collection&#60;OrderDTO&#62;<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em"
 						class="st11">+ updateOrder(Ord</tspan><tspan class="st11" v:langID="1029">erDTO dto</tspan>) : void<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ createOrder() : OrderDTO</tspan></text>		</g>
-		<g id="group406-634" transform="translate(655.087,-485.698)" v:mID="406" v:groupContext="group">
+		<g id="group406-635" transform="translate(655.087,-485.698)" v:mID="406" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -4453,7 +4453,7 @@
 			</v:userDefs>
 			<title>Class.406</title>
 			<desc>StaffDTO</desc>
-			<g id="shape407-635" v:mID="407" v:groupContext="shape">
+			<g id="shape407-636" v:mID="407" v:groupContext="shape">
 				<title>Sheet.407</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -4463,7 +4463,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L79.37 1647.78 L79.37 1630.11 L0 1630.11 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape408-637" v:mID="408" v:groupContext="shape" transform="translate(0,-17.6729)">
+			<g id="shape408-638" v:mID="408" v:groupContext="shape" transform="translate(0,-17.6729)">
 				<title>Sheet.408</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -4480,7 +4480,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L79.37 1647.78 L79.37 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape410-639" v:mID="410" v:groupContext="shape" transform="translate(70.8661,-49.0766)">
+			<g id="shape410-640" v:mID="410" v:groupContext="shape" transform="translate(70.8661,-49.0766)">
 				<title>Sheet.410</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -4492,12 +4492,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape406-640" v:mID="406" v:groupContext="groupContent">
+			<g id="shape406-641" v:mID="406" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="39.685" cy="1614.4" width="79.38" height="31.4037"/>
-				<text x="4" y="1618.01" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>StaffDTO</text>			</g>
+				<text x="4" y="1618.01" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>StaffDTO</text>			</g>
 		</g>
-		<g id="group416-642" transform="translate(738.283,-485.698)" v:mID="416" v:groupContext="group">
+		<g id="group416-643" transform="translate(738.283,-485.698)" v:mID="416" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -4528,7 +4528,7 @@
 			</v:userDefs>
 			<title>Class.416</title>
 			<desc>RoleDTO</desc>
-			<g id="shape417-643" v:mID="417" v:groupContext="shape">
+			<g id="shape417-644" v:mID="417" v:groupContext="shape">
 				<title>Sheet.417</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -4538,7 +4538,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L80.79 1647.78 L80.79 1630.11 L0 1630.11 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape418-645" v:mID="418" v:groupContext="shape" transform="translate(0,-17.6729)">
+			<g id="shape418-646" v:mID="418" v:groupContext="shape" transform="translate(0,-17.6729)">
 				<title>Sheet.418</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -4555,7 +4555,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L80.79 1647.78 L80.79 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape420-647" v:mID="420" v:groupContext="shape" transform="translate(72.2835,-49.0766)">
+			<g id="shape420-648" v:mID="420" v:groupContext="shape" transform="translate(72.2835,-49.0766)">
 				<title>Sheet.420</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -4567,12 +4567,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape416-648" v:mID="416" v:groupContext="groupContent">
+			<g id="shape416-649" v:mID="416" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="40.3937" cy="1614.4" width="80.79" height="31.4037"/>
-				<text x="4" y="1618.01" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>RoleDTO</text>			</g>
+				<text x="4" y="1618.01" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>RoleDTO</text>			</g>
 		</g>
-		<g id="group424-650" transform="translate(730.913,-898.404)" v:mID="424" v:groupContext="group">
+		<g id="group424-651" transform="translate(730.913,-898.404)" v:mID="424" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -4603,7 +4603,7 @@
 			</v:userDefs>
 			<title>Class.424</title>
 			<desc>CustomerDTO</desc>
-			<g id="shape425-651" v:mID="425" v:groupContext="shape">
+			<g id="shape425-652" v:mID="425" v:groupContext="shape">
 				<title>Sheet.425</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -4613,7 +4613,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L77.95 1647.78 L77.95 1630.11 L0 1630.11 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape426-653" v:mID="426" v:groupContext="shape" transform="translate(0,-17.6729)">
+			<g id="shape426-654" v:mID="426" v:groupContext="shape" transform="translate(0,-17.6729)">
 				<title>Sheet.426</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -4630,7 +4630,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L77.95 1647.78 L77.95 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape428-655" v:mID="428" v:groupContext="shape" transform="translate(69.4488,-49.0766)">
+			<g id="shape428-656" v:mID="428" v:groupContext="shape" transform="translate(69.4488,-49.0766)">
 				<title>Sheet.428</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -4642,12 +4642,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape424-656" v:mID="424" v:groupContext="groupContent">
+			<g id="shape424-657" v:mID="424" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="38.9764" cy="1614.4" width="77.96" height="31.4037"/>
-				<text x="4" y="1618.01" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>CustomerDTO</text>			</g>
+				<text x="4" y="1618.01" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>CustomerDTO</text>			</g>
 		</g>
-		<g id="shape429-658" v:mID="429" v:groupContext="shape" transform="translate(568.63,-901.238)">
+		<g id="shape429-659" v:mID="429" v:groupContext="shape" transform="translate(568.63,-901.238)">
 			<title>Member.429</title>
 			<desc>-memberName</desc>
 			<v:userDefs>
@@ -4674,8 +4674,8 @@
 			<v:textRect cx="76.5355" cy="1641.78" width="153.08" height="12.0036"/>
 			<rect x="0" y="1635.78" width="153.071" height="12.0036" class="st8"/>
 			<rect x="0" y="1635.78" width="153.071" height="12.0036" class="st9"/>
-			<text x="8.5" y="1644.78" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>-memberName</text>		</g>
-		<g id="group444-662" transform="translate(571.83,-690.236)" v:mID="444" v:groupContext="group">
+			<text x="8.5" y="1644.78" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>-memberName</text>		</g>
+		<g id="group444-663" transform="translate(571.83,-690.236)" v:mID="444" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -4706,7 +4706,7 @@
 			</v:userDefs>
 			<title>Class.444</title>
 			<desc>SalonReservationDTO</desc>
-			<g id="shape445-663" v:mID="445" v:groupContext="shape">
+			<g id="shape445-664" v:mID="445" v:groupContext="shape">
 				<title>Sheet.445</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -4716,7 +4716,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L117.27 1647.78 L117.27 1630.11 L0 1630.11 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape446-665" v:mID="446" v:groupContext="shape" transform="translate(0,-17.6729)">
+			<g id="shape446-666" v:mID="446" v:groupContext="shape" transform="translate(0,-17.6729)">
 				<title>Sheet.446</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -4733,7 +4733,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L117.27 1647.78 L117.27 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape448-667" v:mID="448" v:groupContext="shape" transform="translate(108.768,-49.0766)">
+			<g id="shape448-668" v:mID="448" v:groupContext="shape" transform="translate(108.768,-49.0766)">
 				<title>Sheet.448</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -4745,12 +4745,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape444-668" v:mID="444" v:groupContext="groupContent">
+			<g id="shape444-669" v:mID="444" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="58.6361" cy="1614.4" width="117.28" height="31.4037"/>
-				<text x="4" y="1618.01" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>SalonReservationDTO</text>			</g>
+				<text x="4" y="1618.01" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>SalonReservationDTO</text>			</g>
 		</g>
-		<g id="group450-670" transform="translate(573.874,-486.142)" v:mID="450" v:groupContext="group">
+		<g id="group450-671" transform="translate(573.874,-486.142)" v:mID="450" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -4781,7 +4781,7 @@
 			</v:userDefs>
 			<title>Class.450</title>
 			<desc>FeedbackDTO</desc>
-			<g id="shape451-671" v:mID="451" v:groupContext="shape">
+			<g id="shape451-672" v:mID="451" v:groupContext="shape">
 				<title>Sheet.451</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -4791,7 +4791,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L77.95 1647.78 L77.95 1630.11 L0 1630.11 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape452-673" v:mID="452" v:groupContext="shape" transform="translate(0,-17.6729)">
+			<g id="shape452-674" v:mID="452" v:groupContext="shape" transform="translate(0,-17.6729)">
 				<title>Sheet.452</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -4808,7 +4808,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L77.95 1647.78 L77.95 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape454-675" v:mID="454" v:groupContext="shape" transform="translate(69.4488,-49.0766)">
+			<g id="shape454-676" v:mID="454" v:groupContext="shape" transform="translate(69.4488,-49.0766)">
 				<title>Sheet.454</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -4820,12 +4820,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape450-676" v:mID="450" v:groupContext="groupContent">
+			<g id="shape450-677" v:mID="450" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="38.9764" cy="1614.4" width="77.96" height="31.4037"/>
-				<text x="4" y="1618.01" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>FeedbackDTO</text>			</g>
+				<text x="4" y="1618.01" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>FeedbackDTO</text>			</g>
 		</g>
-		<g id="group456-678" transform="translate(572.882,-591.024)" v:mID="456" v:groupContext="group">
+		<g id="group456-679" transform="translate(572.882,-591.024)" v:mID="456" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -4856,7 +4856,7 @@
 			</v:userDefs>
 			<title>Class.456</title>
 			<desc>OrderDTO</desc>
-			<g id="shape457-679" v:mID="457" v:groupContext="shape">
+			<g id="shape457-680" v:mID="457" v:groupContext="shape">
 				<title>Sheet.457</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -4866,7 +4866,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L80.79 1647.78 L80.79 1630.11 L0 1630.11 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape458-681" v:mID="458" v:groupContext="shape" transform="translate(0,-17.6729)">
+			<g id="shape458-682" v:mID="458" v:groupContext="shape" transform="translate(0,-17.6729)">
 				<title>Sheet.458</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -4883,7 +4883,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L80.79 1647.78 L80.79 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape460-683" v:mID="460" v:groupContext="shape" transform="translate(72.2835,-49.0766)">
+			<g id="shape460-684" v:mID="460" v:groupContext="shape" transform="translate(72.2835,-49.0766)">
 				<title>Sheet.460</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -4895,12 +4895,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape456-684" v:mID="456" v:groupContext="groupContent">
+			<g id="shape456-685" v:mID="456" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="40.3937" cy="1614.4" width="80.79" height="31.4037"/>
-				<text x="4" y="1618.01" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>OrderDTO</text>			</g>
+				<text x="4" y="1618.01" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>OrderDTO</text>			</g>
 		</g>
-		<g id="group468-686" transform="translate(732.472,-840.03)" v:mID="468" v:groupContext="group">
+		<g id="group468-687" transform="translate(732.472,-840.03)" v:mID="468" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -4931,7 +4931,7 @@
 			</v:userDefs>
 			<title>Class.468</title>
 			<desc>MenuDTO</desc>
-			<g id="shape469-687" v:mID="469" v:groupContext="shape">
+			<g id="shape469-688" v:mID="469" v:groupContext="shape">
 				<title>Sheet.469</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -4941,7 +4941,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L78.24 1647.78 L78.24 1630.11 L0 1630.11 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape470-689" v:mID="470" v:groupContext="shape" transform="translate(0,-17.6693)">
+			<g id="shape470-690" v:mID="470" v:groupContext="shape" transform="translate(0,-17.6693)">
 				<title>Sheet.470</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -4958,7 +4958,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L78.24 1647.78 L78.24 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape472-691" v:mID="472" v:groupContext="shape" transform="translate(69.7323,-49.073)">
+			<g id="shape472-692" v:mID="472" v:groupContext="shape" transform="translate(69.7323,-49.073)">
 				<title>Sheet.472</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -4970,12 +4970,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape468-692" v:mID="468" v:groupContext="groupContent">
+			<g id="shape468-693" v:mID="468" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="39.1181" cy="1614.41" width="78.24" height="31.4037"/>
-				<text x="4" y="1618.01" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>MenuDTO</text>			</g>
+				<text x="4" y="1618.01" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>MenuDTO</text>			</g>
 		</g>
-		<g id="shape473-694" v:mID="473" v:groupContext="shape" transform="translate(735.307,-842.865)">
+		<g id="shape473-695" v:mID="473" v:groupContext="shape" transform="translate(735.307,-842.865)">
 			<title>Member.473</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Member)"/>
@@ -5001,7 +5001,7 @@
 			<rect x="0" y="1635.78" width="72.5669" height="12" class="st8"/>
 			<rect x="0" y="1635.78" width="72.5669" height="12" class="st9"/>
 		</g>
-		<g id="group474-697" transform="translate(565.795,-742.4)" v:mID="474" v:groupContext="group">
+		<g id="group474-698" transform="translate(565.795,-742.4)" v:mID="474" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -5032,7 +5032,7 @@
 			</v:userDefs>
 			<title>Class.474</title>
 			<desc>TableReservationDTO</desc>
-			<g id="shape475-698" v:mID="475" v:groupContext="shape">
+			<g id="shape475-699" v:mID="475" v:groupContext="shape">
 				<title>Sheet.475</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -5042,7 +5042,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L158.74 1647.78 L158.74 1474.1 L0 1474.1 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape476-700" v:mID="476" v:groupContext="shape" transform="translate(0,-173.677)">
+			<g id="shape476-701" v:mID="476" v:groupContext="shape" transform="translate(0,-173.677)">
 				<title>Sheet.476</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -5059,7 +5059,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L158.74 1647.78 L158.74 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape478-702" v:mID="478" v:groupContext="shape" transform="translate(150.236,-205.081)">
+			<g id="shape478-703" v:mID="478" v:groupContext="shape" transform="translate(150.236,-205.081)">
 				<title>Sheet.478</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -5071,12 +5071,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape474-703" v:mID="474" v:groupContext="groupContent">
+			<g id="shape474-704" v:mID="474" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="79.3701" cy="1458.4" width="158.75" height="31.4037"/>
-				<text x="4" y="1462" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>TableReservationDTO</text>			</g>
+				<text x="4" y="1462" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>TableReservationDTO</text>			</g>
 		</g>
-		<g id="shape479-705" v:mID="479" v:groupContext="shape" transform="translate(568.63,-745.234)">
+		<g id="shape479-706" v:mID="479" v:groupContext="shape" transform="translate(568.63,-745.234)">
 			<title>Member.479</title>
 			<desc>+ Customer : CustomerDTO + IsConfirmed : boolean + Reservatio...</desc>
 			<v:userDefs>
@@ -5105,7 +5105,7 @@
 			<v:textRect cx="76.5355" cy="1569.78" width="153.08" height="156.004"/>
 			<rect x="0" y="1491.78" width="153.071" height="156.004" class="st8"/>
 			<rect x="0" y="1491.78" width="153.071" height="156.004" class="st9"/>
-			<text x="8.5" y="1500.78" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>+ Customer : CustomerDTO<v:newlineChar/><tspan
+			<text x="8.5" y="1500.78" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>+ Customer : CustomerDTO<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ IsConfirmed : boolean<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em"
 						class="st11">+ ReservationTime : DateTime<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em" class="st11">+ ReservationStartTime : DateTime<v:newlineChar/></tspan><tspan
 						x="8.5" dy="1.2em" class="st11">+ ReservationEndTime : DateTime<v:newlineChar/></tspan><tspan x="8.5"
@@ -5114,7 +5114,7 @@
 						x="8.5" dy="1.2em" class="st11">+ Note : String<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em"
 						class="st11">+ ReservationType : boolean<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em" class="st11">+ Bookables : </tspan><tspan
 						x="8.5" dy="1.2em" class="st11">Collection&#60;BookableDTO&#62;</tspan><v:newlineChar/></text>		</g>
-		<g id="group486-720" transform="translate(33.1653,-478.659)" v:mID="486" v:groupContext="group">
+		<g id="group486-721" transform="translate(33.1653,-478.659)" v:mID="486" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -5145,7 +5145,7 @@
 			</v:userDefs>
 			<title>Class.486</title>
 			<desc>MailSender</desc>
-			<g id="shape487-721" v:mID="487" v:groupContext="shape">
+			<g id="shape487-722" v:mID="487" v:groupContext="shape">
 				<title>Sheet.487</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -5155,7 +5155,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L204.09 1647.78 L204.09 1615.27 L0 1615.27 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape488-723" v:mID="488" v:groupContext="shape" transform="translate(0,-32.5076)">
+			<g id="shape488-724" v:mID="488" v:groupContext="shape" transform="translate(0,-32.5076)">
 				<title>Sheet.488</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -5172,7 +5172,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L204.09 1647.78 L204.09 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape490-725" v:mID="490" v:groupContext="shape" transform="translate(195.591,-63.9113)">
+			<g id="shape490-726" v:mID="490" v:groupContext="shape" transform="translate(195.591,-63.9113)">
 				<title>Sheet.490</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -5184,12 +5184,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape486-726" v:mID="486" v:groupContext="groupContent">
+			<g id="shape486-727" v:mID="486" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="102.047" cy="1599.57" width="204.1" height="31.4037"/>
-				<text x="4" y="1603.17" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>MailSender</text>			</g>
+				<text x="4" y="1603.17" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>MailSender</text>			</g>
 		</g>
-		<g id="shape492-728" v:mID="492" v:groupContext="shape" transform="translate(36,-505.497)">
+		<g id="shape492-729" v:mID="492" v:groupContext="shape" transform="translate(36,-505.497)">
 			<title>Separator.492</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -5202,7 +5202,7 @@
 			<path d="M0 1646.36 L198.43 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L198.43 1646.36" class="st13"/>
 		</g>
-		<g id="shape493-731" v:mID="493" v:groupContext="shape" transform="translate(36,-481.493)">
+		<g id="shape493-732" v:mID="493" v:groupContext="shape" transform="translate(36,-481.493)">
 			<title>Member.493</title>
 			<desc>+ sendEmail(String address, String content) + generateReserva...</desc>
 			<v:userDefs>
@@ -5231,9 +5231,9 @@
 			<v:textRect cx="99.2126" cy="1635.78" width="198.43" height="24.0037"/>
 			<rect x="0" y="1623.78" width="198.425" height="24.0037" class="st8"/>
 			<rect x="0" y="1623.78" width="198.425" height="24.0037" class="st9"/>
-			<text x="8.5" y="1632.78" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>+ sendEmail(String address, String content)<v:newlineChar/><tspan
+			<text x="8.5" y="1632.78" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>+ sendEmail(String address, String content)<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11" v:langID="1029">+ generateReservationEmail</tspan>() : String</text>		</g>
-		<g id="group536-736" transform="translate(246.295,-684.766)" v:mID="536" v:groupContext="group">
+		<g id="group536-737" transform="translate(246.295,-684.766)" v:mID="536" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -5264,7 +5264,7 @@
 			</v:userDefs>
 			<title>Class.536</title>
 			<desc>FeedbackFacade</desc>
-			<g id="shape537-737" v:mID="537" v:groupContext="shape">
+			<g id="shape537-738" v:mID="537" v:groupContext="shape">
 				<title>Sheet.537</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -5274,7 +5274,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L149.7 1647.78 L149.7 1588.87 L0 1588.87 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape538-739" v:mID="538" v:groupContext="shape" transform="translate(0,-58.9074)">
+			<g id="shape538-740" v:mID="538" v:groupContext="shape" transform="translate(0,-58.9074)">
 				<title>Sheet.538</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -5291,7 +5291,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L149.7 1647.78 L149.7 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape540-741" v:mID="540" v:groupContext="shape" transform="translate(141.201,-90.3111)">
+			<g id="shape540-742" v:mID="540" v:groupContext="shape" transform="translate(141.201,-90.3111)">
 				<title>Sheet.540</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -5303,12 +5303,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape536-742" v:mID="536" v:groupContext="groupContent">
+			<g id="shape536-743" v:mID="536" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="74.8524" cy="1573.17" width="149.71" height="31.4037"/>
-				<text x="34.5" y="1576.77" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>FeedbackFacade</text>			</g>
+				<text x="34.5" y="1576.77" class="st24" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>FeedbackFacade</text>			</g>
 		</g>
-		<g id="shape541-744" v:mID="541" v:groupContext="shape" transform="translate(249.13,-728.838)">
+		<g id="shape541-745" v:mID="541" v:groupContext="shape" transform="translate(249.13,-728.838)">
 			<title>Member.541</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Member)"/>
@@ -5334,7 +5334,7 @@
 			<rect x="0" y="1635.78" width="144.035" height="12" class="st8"/>
 			<rect x="0" y="1635.78" width="144.035" height="12" class="st9"/>
 		</g>
-		<g id="shape542-747" v:mID="542" v:groupContext="shape" transform="translate(249.13,-726.004)">
+		<g id="shape542-748" v:mID="542" v:groupContext="shape" transform="translate(249.13,-726.004)">
 			<title>Separator.542</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -5347,7 +5347,7 @@
 			<path d="M0 1646.36 L144.04 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L144.04 1646.36" class="st13"/>
 		</g>
-		<g id="shape543-750" v:mID="543" v:groupContext="shape" transform="translate(249.13,-687.6)">
+		<g id="shape543-751" v:mID="543" v:groupContext="shape" transform="translate(249.13,-687.6)">
 			<title>Member.543</title>
 			<desc>+ createFeedback(FeedbackDTO dto) : FeedbackDTO + getAll() : ...</desc>
 			<v:userDefs>
@@ -5376,10 +5376,10 @@
 			<v:textRect cx="72.0177" cy="1628.58" width="144.04" height="38.4035"/>
 			<rect x="0" y="1609.38" width="144.035" height="38.4035" class="st8"/>
 			<rect x="0" y="1609.38" width="144.035" height="38.4035" class="st9"/>
-			<text x="8.5" y="1616.58" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>+ createFeedback(FeedbackDTO dto) : <tspan
+			<text x="8.5" y="1616.58" class="st26" v:langID="1033"><v:paragraph/><v:tabList/>+ createFeedback(FeedbackDTO dto) : <tspan
 						x="8.5" dy="1.2em" class="st11">FeedbackDTO<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em" class="st11">+ getAll() : Collection&#60;FeedbackDTO&#62;<v:newlineChar/></tspan><tspan
 						x="8.5" dy="1.2em" class="st11">+ getFeedbackById(int id) : FeedbackDTO</tspan></text>		</g>
-		<g id="group595-757" transform="translate(859.748,-465.948)" v:mID="595" v:groupContext="group">
+		<g id="group595-758" transform="translate(859.748,-465.948)" v:mID="595" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -5410,7 +5410,7 @@
 			</v:userDefs>
 			<title>Class.595</title>
 			<desc>MenuViewModel</desc>
-			<g id="shape596-758" v:mID="596" v:groupContext="shape">
+			<g id="shape596-759" v:mID="596" v:groupContext="shape">
 				<title>Sheet.596</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -5420,7 +5420,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L187.09 1647.78 L187.09 1579.27 L0 1579.27 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape597-760" v:mID="597" v:groupContext="shape" transform="translate(0,-68.5113)">
+			<g id="shape597-761" v:mID="597" v:groupContext="shape" transform="translate(0,-68.5113)">
 				<title>Sheet.597</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -5437,7 +5437,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L187.09 1647.78 L187.09 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape599-762" v:mID="599" v:groupContext="shape" transform="translate(178.583,-99.915)">
+			<g id="shape599-763" v:mID="599" v:groupContext="shape" transform="translate(178.583,-99.915)">
 				<title>Sheet.599</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -5449,12 +5449,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape595-763" v:mID="595" v:groupContext="groupContent">
+			<g id="shape595-764" v:mID="595" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="93.5433" cy="1563.57" width="187.09" height="31.4037"/>
-				<text x="51.26" y="1567.17" class="st23" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>MenuViewModel</text>			</g>
+				<text x="51.26" y="1567.17" class="st24" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>MenuViewModel</text>			</g>
 		</g>
-		<g id="shape600-765" v:mID="600" v:groupContext="shape" transform="translate(862.583,-519.621)">
+		<g id="shape600-766" v:mID="600" v:groupContext="shape" transform="translate(862.583,-519.621)">
 			<title>Member.600</title>
 			<desc>- MenuFacade : MenuFacade</desc>
 			<v:userDefs>
@@ -5482,8 +5482,8 @@
 			<v:textRect cx="90.7087" cy="1641.78" width="181.42" height="12.0036"/>
 			<rect x="0" y="1635.78" width="181.417" height="12.0036" class="st8"/>
 			<rect x="0" y="1635.78" width="181.417" height="12.0036" class="st9"/>
-			<text x="8.5" y="1644.78" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>- MenuFacade : MenuFacade</text>		</g>
-		<g id="shape601-769" v:mID="601" v:groupContext="shape" transform="translate(862.583,-516.786)">
+			<text x="8.5" y="1644.78" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>- MenuFacade : MenuFacade</text>		</g>
+		<g id="shape601-770" v:mID="601" v:groupContext="shape" transform="translate(862.583,-516.786)">
 			<title>Separator.601</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -5496,7 +5496,7 @@
 			<path d="M0 1646.36 L181.42 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L181.42 1646.36" class="st13"/>
 		</g>
-		<g id="shape602-772" v:mID="602" v:groupContext="shape" transform="translate(862.583,-468.783)">
+		<g id="shape602-773" v:mID="602" v:groupContext="shape" transform="translate(862.583,-468.783)">
 			<title>Member.602</title>
 			<desc>+ MenuViewModel() + getMenu() : MenuDTO - loadMenu() : MenuDT...</desc>
 			<v:userDefs>
@@ -5525,11 +5525,11 @@
 			<v:textRect cx="90.7087" cy="1623.78" width="181.42" height="48.0037"/>
 			<rect x="0" y="1599.78" width="181.417" height="48.0037" class="st8"/>
 			<rect x="0" y="1599.78" width="181.417" height="48.0037" class="st9"/>
-			<text x="8.5" y="1608.78" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>+ <tspan class="st11" v:langID="1029">Menu</tspan>ViewModel()<v:newlineChar/><tspan
+			<text x="8.5" y="1608.78" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>+ <tspan class="st11" v:langID="1029">Menu</tspan>ViewModel()<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ getMenu() : MenuDTO<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em"
 						class="st11">-</tspan> loadMenu() : MenuDTO<v:newlineChar/><tspan x="8.5" dy="1.2em" class="st11"
 						v:langID="1029">+ updateMenu(MenuDTO dto) : void</tspan></text>		</g>
-		<g id="group603-780" transform="translate(403.441,-867.137)" v:mID="603" v:groupContext="group">
+		<g id="group603-781" transform="translate(403.441,-867.137)" v:mID="603" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -5560,7 +5560,7 @@
 			</v:userDefs>
 			<title>Class.603</title>
 			<desc>MenuFacade</desc>
-			<g id="shape604-781" v:mID="604" v:groupContext="shape">
+			<g id="shape604-782" v:mID="604" v:groupContext="shape">
 				<title>Sheet.604</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -5570,7 +5570,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L141.38 1647.78 L141.38 1598.47 L0 1598.47 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape605-783" v:mID="605" v:groupContext="shape" transform="translate(0,-49.3074)">
+			<g id="shape605-784" v:mID="605" v:groupContext="shape" transform="translate(0,-49.3074)">
 				<title>Sheet.605</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -5587,7 +5587,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L141.38 1647.78 L141.38 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape607-785" v:mID="607" v:groupContext="shape" transform="translate(132.874,-80.7111)">
+			<g id="shape607-786" v:mID="607" v:groupContext="shape" transform="translate(132.874,-80.7111)">
 				<title>Sheet.607</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -5599,12 +5599,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape603-786" v:mID="603" v:groupContext="groupContent">
+			<g id="shape603-787" v:mID="603" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="70.689" cy="1582.77" width="141.38" height="31.4037"/>
-				<text x="39.09" y="1586.37" class="st23" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>MenuFacade</text>			</g>
+				<text x="39.09" y="1586.37" class="st24" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>MenuFacade</text>			</g>
 		</g>
-		<g id="shape608-788" v:mID="608" v:groupContext="shape" transform="translate(406.276,-901.61)">
+		<g id="shape608-789" v:mID="608" v:groupContext="shape" transform="translate(406.276,-901.61)">
 			<title>Member.608</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Member)"/>
@@ -5630,7 +5630,7 @@
 			<rect x="0" y="1635.78" width="135.709" height="12" class="st8"/>
 			<rect x="0" y="1635.78" width="135.709" height="12" class="st9"/>
 		</g>
-		<g id="shape609-791" v:mID="609" v:groupContext="shape" transform="translate(406.276,-898.775)">
+		<g id="shape609-792" v:mID="609" v:groupContext="shape" transform="translate(406.276,-898.775)">
 			<title>Separator.609</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -5643,7 +5643,7 @@
 			<path d="M0 1646.36 L135.71 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L135.71 1646.36" class="st13"/>
 		</g>
-		<g id="shape610-794" v:mID="610" v:groupContext="shape" transform="translate(406.276,-869.971)">
+		<g id="shape610-795" v:mID="610" v:groupContext="shape" transform="translate(406.276,-869.971)">
 			<title>Member.610</title>
 			<desc>+ getMenu() : String + setMenu(String content, DateTime valid...</desc>
 			<v:userDefs>
@@ -5672,17 +5672,17 @@
 			<v:textRect cx="67.8544" cy="1633.38" width="135.71" height="28.8035"/>
 			<rect x="0" y="1618.98" width="135.709" height="28.8035" class="st8"/>
 			<rect x="0" y="1618.98" width="135.709" height="28.8035" class="st9"/>
-			<text x="8.5" y="1626.18" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>+ getMenu() : String<v:newlineChar/><tspan
+			<text x="8.5" y="1626.18" class="st26" v:langID="1033"><v:paragraph/><v:tabList/>+ getMenu() : String<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ setMenu(String content, DateTime </tspan><tspan x="8.5" dy="1.2em"
 						class="st11">validStart, DateTime validEnd) : void</tspan></text>		</g>
-		<g id="shape612-800" v:mID="612" v:groupContext="shape" transform="translate(805.606,-411.732)">
+		<g id="shape612-801" v:mID="612" v:groupContext="shape" transform="translate(805.606,-411.732)">
 			<title>Sheet.612</title>
 			<desc>1</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="5.95273" cy="1642.82" width="11.91" height="9.92127"/>
-			<rect x="0" y="1637.86" width="11.9055" height="9.92127" class="st26"/>
-			<text x="4" y="1646.42" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>1</text>		</g>
-		<g id="group629-803" transform="translate(415.843,-30.4724)" v:mID="629" v:groupContext="group">
+			<rect x="0" y="1637.86" width="11.9055" height="9.92127" class="st27"/>
+			<text x="4" y="1646.42" class="st24" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>1</text>		</g>
+		<g id="group629-804" transform="translate(415.843,-30.4724)" v:mID="629" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -5716,7 +5716,7 @@
 			</v:userDefs>
 			<title>Enumeration.629</title>
 			<desc>BookableType</desc>
-			<g id="shape630-804" v:mID="630" v:groupContext="shape">
+			<g id="shape630-805" v:mID="630" v:groupContext="shape">
 				<title>Sheet.630</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -5727,7 +5727,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L79.37 1647.78 L79.37 1620.51 L0 1620.51 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape631-806" v:mID="631" v:groupContext="shape" transform="translate(0,-27.2726)">
+			<g id="shape631-807" v:mID="631" v:groupContext="shape" transform="translate(0,-27.2726)">
 				<title>Sheet.631</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -5746,7 +5746,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L79.37 1647.78 L79.37 1608.47 L0 1608.47 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape632-808" v:mID="632" v:groupContext="shape" transform="translate(0,-51.7762)">
+			<g id="shape632-809" v:mID="632" v:groupContext="shape" transform="translate(0,-51.7762)">
 				<title>Sheet.632</title>
 				<desc>&#60;&#60;Enumeration&#62;&#62;</desc>
 				<v:userDefs>
@@ -5757,7 +5757,7 @@
 				<v:textBlock v:margins="rect(4,4,0,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="39.685" cy="1640.38" width="79.38" height="14.8036"/>
 				<text x="6.96" y="1645.08" class="st17" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;Enumeration&#62;&#62;</text>			</g>
-			<g id="shape633-810" v:mID="633" v:groupContext="shape" transform="translate(70.8661,-66.5798)">
+			<g id="shape633-811" v:mID="633" v:groupContext="shape" transform="translate(70.8661,-66.5798)">
 				<title>Sheet.633</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -5769,12 +5769,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape629-811" v:mID="629" v:groupContext="groupContent">
+			<g id="shape629-812" v:mID="629" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="39.685" cy="1608.26" width="79.38" height="24.5036"/>
 				<text x="10.95" y="1609.01" class="st14" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>BookableType</text>			</g>
 		</g>
-		<g id="shape634-813" v:mID="634" v:groupContext="shape" transform="translate(418.677,-33.3071)">
+		<g id="shape634-814" v:mID="634" v:groupContext="shape" transform="translate(418.677,-33.3071)">
 			<title>Member.634</title>
 			<desc>&#60;&#60;constant&#62;&#62; + SALON &#60;&#60;constant&#62;&#62; + TABLE &#60;&#60;constant&#62;&#62; + SEAT</desc>
 			<v:userDefs>
@@ -5805,7 +5805,7 @@
 			<text x="8.5" y="1631.58" class="st10" v:langID="1033"><v:paragraph/><v:tabList/>&#60;&#60;constant&#62;&#62; + SALON<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">&#60;&#60;constant&#62;&#62; + TABLE<v:newlineChar/></tspan><tspan x="8.5"
 						dy="1.2em" class="st11">&#60;&#60;constant&#62;&#62; + S</tspan><tspan class="st11" v:langID="1029">EAT</tspan></text>		</g>
-		<g id="group635-820" transform="translate(492.378,-123.899)" v:mID="635" v:groupContext="group" v:layerMember="0">
+		<g id="group635-821" transform="translate(492.378,-123.899)" v:mID="635" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -5825,14 +5825,14 @@
 			</v:userDefs>
 			<title>Dependency.635</title>
 			<desc>&#60;&#60;use&#62;&#62;</desc>
-			<g id="shape635-821" v:mID="635" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape635-822" v:mID="635" v:groupContext="groupContent" v:layerMember="0">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="-17.0079" cy="1660.7" width="40" height="17.6036"/>
 				<path d="M0 1647.78 L0 1660.42 L-36.85 1660.42 L-36.85 1674.63" class="st22"/>
-				<rect v:rectContext="textBkgnd" x="-30.6331" y="1655.9" width="27.2502" height="9.59985" class="st27"/>
+				<rect v:rectContext="textBkgnd" x="-30.6331" y="1655.9" width="27.2502" height="9.59985" class="st23"/>
 				<text x="-30.63" y="1663.1" class="st21" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;use&#62;&#62;</text>			</g>
 		</g>
-		<g id="group640-828" transform="translate(419.74,-123.899)" v:mID="640" v:groupContext="group">
+		<g id="group640-829" transform="translate(419.74,-123.899)" v:mID="640" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -5865,7 +5865,7 @@
 			</v:userDefs>
 			<title>Class.640</title>
 			<desc>Bookable&#60;int&#62;</desc>
-			<g id="shape641-829" v:mID="641" v:groupContext="shape">
+			<g id="shape641-830" v:mID="641" v:groupContext="shape">
 				<title>Sheet.641</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -5876,7 +5876,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L145.28 1647.78 L145.28 1596.07 L0 1596.07 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape642-831" v:mID="642" v:groupContext="shape" transform="translate(0,-51.7105)">
+			<g id="shape642-832" v:mID="642" v:groupContext="shape" transform="translate(0,-51.7105)">
 				<title>Sheet.642</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -5895,7 +5895,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L145.28 1647.78 L145.28 1616.6 L0 1616.6 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape644-833" v:mID="644" v:groupContext="shape" transform="translate(136.772,-82.8916)">
+			<g id="shape644-834" v:mID="644" v:groupContext="shape" transform="translate(136.772,-82.8916)">
 				<title>Sheet.644</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -5907,12 +5907,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape640-834" v:mID="640" v:groupContext="groupContent">
+			<g id="shape640-835" v:mID="640" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="72.6378" cy="1580.48" width="145.28" height="29.0036"/>
 				<text x="43.28" y="1583.48" class="st14" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Bookable&#60;int&#62;</text>			</g>
 		</g>
-		<g id="shape645-836" v:mID="645" v:groupContext="shape" transform="translate(422.575,-143.972)">
+		<g id="shape645-837" v:mID="645" v:groupContext="shape" transform="translate(422.575,-143.972)">
 			<title>Member.645</title>
 			<desc>- isFree : boolean - Capacity : int - BookableType : Bookable...</desc>
 			<v:userDefs>
@@ -5944,7 +5944,7 @@
 			<text x="8.5" y="1624.38" class="st10" v:langID="1033"><v:paragraph/><v:tabList/>- isFree : boolean<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">-</tspan> Capacity : int<v:newlineChar/><tspan x="8.5" dy="1.2em"
 						class="st11">-</tspan> BookableType : BookableType<v:newlineChar/><tspan x="8.5" dy="1.2em" class="st11">-</tspan> Orders : Collection&#60;Order&#62;</text>		</g>
-		<g id="shape646-843" v:mID="646" v:groupContext="shape" transform="translate(422.575,-141.137)">
+		<g id="shape646-844" v:mID="646" v:groupContext="shape" transform="translate(422.575,-141.137)">
 			<title>Separator.646</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -5957,7 +5957,7 @@
 			<path d="M0 1646.36 L139.61 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L139.61 1646.36" class="st13"/>
 		</g>
-		<g id="shape647-846" v:mID="647" v:groupContext="shape" transform="translate(422.575,-126.734)">
+		<g id="shape647-847" v:mID="647" v:groupContext="shape" transform="translate(422.575,-126.734)">
 			<title>Member.647</title>
 			<desc>+ Bookable(int capacity, BookableType type, Collection&#60;Order&#62;...</desc>
 			<v:userDefs>
@@ -5988,7 +5988,7 @@
 			<rect x="0" y="1633.38" width="139.606" height="14.4034" class="st9"/>
 			<text x="8.5" y="1638.78" class="st10" v:langID="1033"><v:paragraph/><v:tabList/>+ Bookable(int capacity, BookableType type, <tspan
 						x="8.5" dy="1.2em" class="st11">Collection&#60;Order&#62;, boolean isFree)</tspan></text>		</g>
-		<g id="group656-851" transform="translate(492.378,-206.79)" v:mID="656" v:groupContext="group" v:layerMember="0">
+		<g id="group656-852" transform="translate(492.378,-206.79)" v:mID="656" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -6006,11 +6006,11 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-3.1415926535897):32"/>
 			</v:userDefs>
 			<title>Interface Realization.656</title>
-			<g id="shape656-852" v:mID="656" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape656-853" v:mID="656" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L0 1462.87 L-110 1462.87" class="st18"/>
 			</g>
 		</g>
-		<g id="group666-857" transform="translate(281.906,-27.6378)" v:mID="666" v:groupContext="group">
+		<g id="group666-858" transform="translate(281.906,-27.6378)" v:mID="666" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -6043,7 +6043,7 @@
 			</v:userDefs>
 			<title>Class.666</title>
 			<desc>SeatReservation&#60;UUID&#62;</desc>
-			<g id="shape667-858" v:mID="667" v:groupContext="shape">
+			<g id="shape667-859" v:mID="667" v:groupContext="shape">
 				<title>Sheet.667</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -6054,7 +6054,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L114.8 1647.78 L114.8 1594.77 L0 1594.77 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape668-860" v:mID="668" v:groupContext="shape" transform="translate(0,-53.0109)">
+			<g id="shape668-861" v:mID="668" v:groupContext="shape" transform="translate(0,-53.0109)">
 				<title>Sheet.668</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -6073,7 +6073,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L114.8 1647.78 L114.8 1616.6 L0 1616.6 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape670-862" v:mID="670" v:groupContext="shape" transform="translate(106.299,-84.192)">
+			<g id="shape670-863" v:mID="670" v:groupContext="shape" transform="translate(106.299,-84.192)">
 				<title>Sheet.670</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -6085,13 +6085,13 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape666-863" v:mID="666" v:groupContext="groupContent">
+			<g id="shape666-864" v:mID="666" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="57.4016" cy="1579.18" width="114.81" height="29.0036"/>
 				<text x="8.69" y="1582.18" class="st14" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>S<tspan
 							class="st11" v:langID="1033">e</tspan>at<tspan class="st11" v:langID="1033">Reservation&#60;UUID&#62;</tspan></text>			</g>
 		</g>
-		<g id="shape671-867" v:mID="671" v:groupContext="shape" transform="translate(284.74,-69.3101)">
+		<g id="shape671-868" v:mID="671" v:groupContext="shape" transform="translate(284.74,-69.3101)">
 			<title>Member.671</title>
 			<desc>- Seat : Bookable</desc>
 			<v:userDefs>
@@ -6121,7 +6121,7 @@
 			<rect x="0" y="1639.28" width="109.134" height="8.50394" class="st9"/>
 			<text x="8.5" y="1645.33" class="st10" v:langID="1033"><v:paragraph/><v:tabList/>- <tspan class="st11" v:langID="1029">Seat </tspan>: <tspan
 						class="st11" v:langID="1029">Bookable</tspan></text>		</g>
-		<g id="shape672-873" v:mID="672" v:groupContext="shape" transform="translate(284.74,-66.4755)">
+		<g id="shape672-874" v:mID="672" v:groupContext="shape" transform="translate(284.74,-66.4755)">
 			<title>Separator.672</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -6134,7 +6134,7 @@
 			<path d="M0 1646.36 L109.13 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L109.13 1646.36" class="st13"/>
 		</g>
-		<g id="shape673-876" v:mID="673" v:groupContext="shape" transform="translate(284.74,-30.4724)">
+		<g id="shape673-877" v:mID="673" v:groupContext="shape" transform="translate(284.74,-30.4724)">
 			<title>Member.673</title>
 			<desc>+ SeatReservation(DateTime resTime, DateTime resStartTime, Da...</desc>
 			<v:userDefs>
@@ -6168,7 +6168,7 @@
 						class="st11">resEndTime, short peopleCount, String </tspan><tspan x="8.5" dy="1.2em" class="st11">note, int customerId)<v:newlineChar/></tspan><tspan
 						x="8.5" dy="1.2em" class="st11">+ </tspan><tspan class="st11" v:langID="1029">getSeat</tspan>() : <tspan
 						class="st11" v:langID="1029">Seat</tspan></text>		</g>
-		<g id="group674-887" transform="translate(339.307,-111.83)" v:mID="674" v:groupContext="group" v:layerMember="0">
+		<g id="group674-888" transform="translate(339.307,-111.83)" v:mID="674" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -6187,11 +6187,11 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(1.5707963267949):32"/>
 			</v:userDefs>
 			<title>Inheritance.674</title>
-			<g id="shape674-888" v:mID="674" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape674-889" v:mID="674" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L0 1644.05 L-31.18 1644.05 L-31.18 1641.82" class="st15"/>
 			</g>
 		</g>
-		<g id="group753-893" transform="translate(321.148,-684.766)" v:mID="753" v:groupContext="group" v:layerMember="0">
+		<g id="group753-894" transform="translate(321.148,-684.766)" v:mID="753" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -6207,11 +6207,11 @@
 				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.08888368395556):1"/>
 			</v:userDefs>
 			<title>Association.753</title>
-			<g id="shape753-894" v:mID="753" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape753-895" v:mID="753" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L0 1821.84 L252.58 1821.84" class="st19"/>
 			</g>
 		</g>
-		<g id="group758-897" transform="translate(571.83,-645.214)" v:mID="758" v:groupContext="group">
+		<g id="group758-898" transform="translate(571.83,-645.214)" v:mID="758" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -6242,7 +6242,7 @@
 			</v:userDefs>
 			<title>Class.758</title>
 			<desc>SeatReservationDTO</desc>
-			<g id="shape759-898" v:mID="759" v:groupContext="shape">
+			<g id="shape759-899" v:mID="759" v:groupContext="shape">
 				<title>Sheet.759</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -6252,7 +6252,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L117.27 1647.78 L117.27 1639.28 L0 1639.28 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape760-900" v:mID="760" v:groupContext="shape" transform="translate(0,-8.50394)">
+			<g id="shape760-901" v:mID="760" v:groupContext="shape" transform="translate(0,-8.50394)">
 				<title>Sheet.760</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -6269,7 +6269,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L117.27 1647.78 L117.27 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape762-902" v:mID="762" v:groupContext="shape" transform="translate(108.768,-39.9076)">
+			<g id="shape762-903" v:mID="762" v:groupContext="shape" transform="translate(108.768,-39.9076)">
 				<title>Sheet.762</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -6281,12 +6281,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape758-903" v:mID="758" v:groupContext="groupContent">
+			<g id="shape758-904" v:mID="758" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="58.6361" cy="1623.57" width="117.28" height="31.4037"/>
-				<text x="4" y="1627.17" class="st23" v:langID="1029"><v:paragraph/><v:tabList/>SeatReservationDTO</text>			</g>
+				<text x="4" y="1627.17" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>SeatReservationDTO</text>			</g>
 		</g>
-		<g id="group766-905" transform="translate(143.362,-955.248)" v:mID="766" v:groupContext="group" v:layerMember="0">
+		<g id="group766-906" transform="translate(143.362,-955.248)" v:mID="766" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -6305,11 +6305,11 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
 			</v:userDefs>
 			<title>Association.766</title>
-			<g id="shape766-906" v:mID="766" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape766-907" v:mID="766" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1654.19 L0 1620.75 L501.8 1620.75 L501.8 1655.55" class="st19"/>
 			</g>
 		</g>
-		<g id="group771-909" transform="translate(143.362,-948.842)" v:mID="771" v:groupContext="group" v:layerMember="0">
+		<g id="group771-910" transform="translate(143.362,-948.842)" v:mID="771" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -6327,11 +6327,11 @@
 				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(1.5707963267949):32"/>
 			</v:userDefs>
 			<title>Association.771</title>
-			<g id="shape771-910" v:mID="771" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape771-911" v:mID="771" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L0 1614.35 L411.38 1614.35 L411.38 1881.85 L428.47 1881.85" class="st19"/>
 			</g>
 		</g>
-		<g id="group776-913" transform="translate(143.362,-948.842)" v:mID="776" v:groupContext="group" v:layerMember="0">
+		<g id="group776-914" transform="translate(143.362,-948.842)" v:mID="776" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -6349,11 +6349,11 @@
 				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(1.5707963267949):32"/>
 			</v:userDefs>
 			<title>Association.776</title>
-			<g id="shape776-914" v:mID="776" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape776-915" v:mID="776" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L0 1614.35 L411.38 1614.35 L411.38 1931.45 L428.47 1931.45" class="st19"/>
 			</g>
 		</g>
-		<g id="group781-917" transform="translate(45.5669,-719.763)" v:mID="781" v:groupContext="group" v:layerMember="0">
+		<g id="group781-918" transform="translate(45.5669,-719.763)" v:mID="781" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -6373,12 +6373,12 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
 			</v:userDefs>
 			<title>Association.781</title>
-			<g id="shape781-918" v:mID="781" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape781-919" v:mID="781" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L-15.71 1647.78 A2.3622 2.3622 -180 0 0 -20.43 1647.78 L-20.91 1647.78 L-20.91 1370.46 L724.32
 							 1370.46 L724.32 1420.06" class="st19"/>
 			</g>
 		</g>
-		<g id="group786-921" transform="translate(573.591,-537.609)" v:mID="786" v:groupContext="group">
+		<g id="group786-922" transform="translate(573.591,-537.609)" v:mID="786" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -6409,7 +6409,7 @@
 			</v:userDefs>
 			<title>Class.786</title>
 			<desc>BookableDTO</desc>
-			<g id="shape787-922" v:mID="787" v:groupContext="shape">
+			<g id="shape787-923" v:mID="787" v:groupContext="shape">
 				<title>Sheet.787</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -6419,7 +6419,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L77.95 1647.78 L77.95 1630.11 L0 1630.11 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape788-924" v:mID="788" v:groupContext="shape" transform="translate(0,-17.6693)">
+			<g id="shape788-925" v:mID="788" v:groupContext="shape" transform="translate(0,-17.6693)">
 				<title>Sheet.788</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -6436,7 +6436,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L77.95 1647.78 L77.95 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape790-926" v:mID="790" v:groupContext="shape" transform="translate(69.4488,-49.073)">
+			<g id="shape790-927" v:mID="790" v:groupContext="shape" transform="translate(69.4488,-49.073)">
 				<title>Sheet.790</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -6448,12 +6448,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape786-927" v:mID="786" v:groupContext="groupContent">
+			<g id="shape786-928" v:mID="786" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="38.9764" cy="1614.41" width="77.96" height="31.4037"/>
-				<text x="4" y="1618.01" class="st23" v:langID="1029"><v:paragraph/><v:tabList/>BookableDTO</text>			</g>
+				<text x="4" y="1618.01" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>BookableDTO</text>			</g>
 		</g>
-		<g id="group799-929" transform="translate(322.299,-792.727)" v:mID="799" v:groupContext="group" v:layerMember="0">
+		<g id="group799-930" transform="translate(322.299,-792.727)" v:mID="799" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -6471,11 +6471,11 @@
 				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(3.5527136788005E-15):24"/>
 			</v:userDefs>
 			<title>Association.799</title>
-			<g id="shape799-930" v:mID="799" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape799-931" v:mID="799" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L0 1657.32 L77.95 1657.32 L77.95 1878.36 L251.29 1878.36" class="st19"/>
 			</g>
 		</g>
-		<g id="group812-933" transform="translate(473.953,-746.996)" v:mID="812" v:groupContext="group" v:layerMember="0">
+		<g id="group812-934" transform="translate(473.953,-746.996)" v:mID="812" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -6494,11 +6494,11 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(4.5896577815873E-12):32"/>
 			</v:userDefs>
 			<title>Association.812</title>
-			<g id="shape812-934" v:mID="812" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape812-935" v:mID="812" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L0 1779.21 L98.93 1779.21" class="st19"/>
 			</g>
 		</g>
-		<g id="group817-937" transform="translate(45.9213,-577.966)" v:mID="817" v:groupContext="group">
+		<g id="group817-938" transform="translate(45.9213,-577.966)" v:mID="817" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -6529,7 +6529,7 @@
 			</v:userDefs>
 			<title>Class.817</title>
 			<desc>StaffFacade</desc>
-			<g id="shape818-938" v:mID="818" v:groupContext="shape">
+			<g id="shape818-939" v:mID="818" v:groupContext="shape">
 				<title>Sheet.818</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -6539,7 +6539,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L191.34 1647.78 L191.34 1591.27 L0 1591.27 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape819-940" v:mID="819" v:groupContext="shape" transform="translate(0,-56.5074)">
+			<g id="shape819-941" v:mID="819" v:groupContext="shape" transform="translate(0,-56.5074)">
 				<title>Sheet.819</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -6556,7 +6556,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L191.34 1647.78 L191.34 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape821-942" v:mID="821" v:groupContext="shape" transform="translate(182.835,-87.9111)">
+			<g id="shape821-943" v:mID="821" v:groupContext="shape" transform="translate(182.835,-87.9111)">
 				<title>Sheet.821</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -6568,12 +6568,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape817-943" v:mID="817" v:groupContext="groupContent">
+			<g id="shape817-944" v:mID="817" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="95.6693" cy="1575.57" width="191.34" height="31.4037"/>
-				<text x="67.19" y="1579.17" class="st23" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>StaffFacade</text>			</g>
+				<text x="67.19" y="1579.17" class="st24" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>StaffFacade</text>			</g>
 		</g>
-		<g id="shape823-945" v:mID="823" v:groupContext="shape" transform="translate(48.7559,-628.804)">
+		<g id="shape823-946" v:mID="823" v:groupContext="shape" transform="translate(48.7559,-628.804)">
 			<title>Separator.823</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -6586,7 +6586,7 @@
 			<path d="M0 1646.36 L185.67 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L185.67 1646.36" class="st13"/>
 		</g>
-		<g id="shape824-948" v:mID="824" v:groupContext="shape" transform="translate(48.7559,-580.8)">
+		<g id="shape824-949" v:mID="824" v:groupContext="shape" transform="translate(48.7559,-580.8)">
 			<title>Member.824</title>
 			<desc>+ getStaffById() : StaffDTO + getAll() : Collection&#60;StaffDTO&#62;...</desc>
 			<v:userDefs>
@@ -6615,12 +6615,12 @@
 			<v:textRect cx="92.8347" cy="1623.78" width="185.67" height="48.0034"/>
 			<rect x="0" y="1599.78" width="185.669" height="48.0034" class="st8"/>
 			<rect x="0" y="1599.78" width="185.669" height="48.0034" class="st9"/>
-			<text x="8.5" y="1606.98" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>+ getStaffById<tspan class="st11"
+			<text x="8.5" y="1606.98" class="st26" v:langID="1029"><v:paragraph/><v:tabList/>+ getStaffById<tspan class="st11"
 						v:langID="1033">() : StaffDTO<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em" class="st11" v:langID="1033">+ getAll() : Collection&#60;StaffDTO&#62;<v:newlineChar/></tspan><tspan
 						x="8.5" dy="1.2em" class="st11" v:langID="1033">+ getStaffByRole(RoleDTO role) : Collection&#60;StaffDTO&#62;<v:newlineChar/></tspan><tspan
 						x="8.5" dy="1.2em" class="st11" v:langID="1033">+ createStaff(StaffDTO) : StaffDTO<v:newlineChar/></tspan><tspan
 						x="8.5" dy="1.2em" class="st11" v:langID="1033">+ updateStaff(StaffDTO) : void</tspan></text>		</g>
-		<g id="group825-957" transform="translate(237.26,-621.921)" v:mID="825" v:groupContext="group" v:layerMember="0">
+		<g id="group825-958" transform="translate(237.26,-621.921)" v:mID="825" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -6640,11 +6640,11 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(1.5707963267949):32"/>
 			</v:userDefs>
 			<title>Association.825</title>
-			<g id="shape825-958" v:mID="825" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape825-959" v:mID="825" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L22.68 1647.78 L22.68 1793.48 L457.51 1793.48 L457.51 1784" class="st19"/>
 			</g>
 		</g>
-		<g id="group830-961" transform="translate(46.4527,-861.685)" v:mID="830" v:groupContext="group" v:layerMember="0">
+		<g id="group830-962" transform="translate(46.4527,-861.685)" v:mID="830" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -6662,11 +6662,11 @@
 				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(3.1415926535898):32"/>
 			</v:userDefs>
 			<title>Association.830</title>
-			<g id="shape830-962" v:mID="830" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape830-963" v:mID="830" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M-0.89 1647.78 L-18.96 1647.78 L-18.96 1998.85 L-13.29 1998.85" class="st19"/>
 			</g>
 		</g>
-		<g id="group847-965" transform="translate(859.748,-569.166)" v:mID="847" v:groupContext="group">
+		<g id="group847-966" transform="translate(859.748,-569.166)" v:mID="847" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -6697,7 +6697,7 @@
 			</v:userDefs>
 			<title>Class.847</title>
 			<desc>BookableViewModel</desc>
-			<g id="shape848-966" v:mID="848" v:groupContext="shape">
+			<g id="shape848-967" v:mID="848" v:groupContext="shape">
 				<title>Sheet.848</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -6707,7 +6707,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L187.09 1647.78 L187.09 1579.27 L0 1579.27 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape849-968" v:mID="849" v:groupContext="shape" transform="translate(0,-68.5113)">
+			<g id="shape849-969" v:mID="849" v:groupContext="shape" transform="translate(0,-68.5113)">
 				<title>Sheet.849</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -6724,7 +6724,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L187.09 1647.78 L187.09 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape851-970" v:mID="851" v:groupContext="shape" transform="translate(178.583,-99.915)">
+			<g id="shape851-971" v:mID="851" v:groupContext="shape" transform="translate(178.583,-99.915)">
 				<title>Sheet.851</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -6736,12 +6736,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape847-971" v:mID="847" v:groupContext="groupContent">
+			<g id="shape847-972" v:mID="847" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="93.5433" cy="1563.57" width="187.09" height="31.4037"/>
-				<text x="42.97" y="1567.17" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>BookableViewModel</text>			</g>
+				<text x="42.97" y="1567.17" class="st24" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>BookableViewModel</text>			</g>
 		</g>
-		<g id="shape852-973" v:mID="852" v:groupContext="shape" transform="translate(862.583,-610.839)">
+		<g id="shape852-974" v:mID="852" v:groupContext="shape" transform="translate(862.583,-610.839)">
 			<title>Member.852</title>
 			<desc>- BookableFacade : BookableFacade - OrderFacade : OrderFacade</desc>
 			<v:userDefs>
@@ -6769,10 +6769,10 @@
 			<v:textRect cx="90.7087" cy="1635.78" width="181.42" height="24.0037"/>
 			<rect x="0" y="1623.78" width="181.417" height="24.0037" class="st8"/>
 			<rect x="0" y="1623.78" width="181.417" height="24.0037" class="st9"/>
-			<text x="8.5" y="1632.78" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>- <tspan class="st11" v:langID="1033">BookableFacade</tspan> : <tspan
+			<text x="8.5" y="1632.78" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>- <tspan class="st11" v:langID="1033">BookableFacade</tspan> : <tspan
 						class="st11" v:langID="1033">BookableFacade<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em" class="st11"
 						v:langID="1033">-</tspan><tspan class="st11" v:langID="1033"> </tspan><tspan class="st11" v:langID="1033">OrderFacade : OrderFacade</tspan></text>		</g>
-		<g id="shape853-982" v:mID="853" v:groupContext="shape" transform="translate(862.583,-608.004)">
+		<g id="shape853-983" v:mID="853" v:groupContext="shape" transform="translate(862.583,-608.004)">
 			<title>Separator.853</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -6785,7 +6785,7 @@
 			<path d="M0 1646.36 L181.42 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L181.42 1646.36" class="st13"/>
 		</g>
-		<g id="shape854-985" v:mID="854" v:groupContext="shape" transform="translate(862.583,-572.001)">
+		<g id="shape854-986" v:mID="854" v:groupContext="shape" transform="translate(862.583,-572.001)">
 			<title>Member.854</title>
 			<desc>+ BookableViewModel() + setBookableTaken() + pay()</desc>
 			<v:userDefs>
@@ -6813,10 +6813,10 @@
 			<v:textRect cx="90.7087" cy="1629.78" width="181.42" height="36.0037"/>
 			<rect x="0" y="1611.78" width="181.417" height="36.0037" class="st8"/>
 			<rect x="0" y="1611.78" width="181.417" height="36.0037" class="st9"/>
-			<text x="8.5" y="1620.78" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>+ <tspan class="st11" v:langID="1033">BookableViewModel()<v:newlineChar/></tspan><tspan
+			<text x="8.5" y="1620.78" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>+ <tspan class="st11" v:langID="1033">BookableViewModel()<v:newlineChar/></tspan><tspan
 						x="8.5" dy="1.2em" class="st11">+ setBookableTaken</tspan><tspan class="st11" v:langID="1033">()<v:newlineChar/></tspan><tspan
 						x="8.5" dy="1.2em" class="st11" v:langID="1033">+ pay()</tspan></text>		</g>
-		<g id="group863-993" transform="translate(474.13,-947.848)" v:mID="863" v:groupContext="group" v:layerMember="0">
+		<g id="group863-994" transform="translate(474.13,-947.848)" v:mID="863" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -6835,13 +6835,13 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-2.3178469732891):32"/>
 			</v:userDefs>
 			<title>Association.863</title>
-			<g id="shape863-994" v:mID="863" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape863-995" v:mID="863" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L0 1625.95 L78.25 1625.95 A2.3622 2.3622 0 0 1 82.97 1625.95 L168.67 1625.95 A2.3622 2.3622 0
 							 0 1 173.4 1625.95 L293.4 1625.95 A2.3622 2.3622 0 0 1 298.12 1625.95 L342.14 1625.95 L342.14 1702.71
 							 L297.46 1702.71 L297.46 1706.52" class="st19"/>
 			</g>
 		</g>
-		<g id="group873-997" transform="translate(237.26,-621.921)" v:mID="873" v:groupContext="group" v:layerMember="0">
+		<g id="group873-998" transform="translate(237.26,-621.921)" v:mID="873" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -6861,11 +6861,11 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(1.4686442911761):32"/>
 			</v:userDefs>
 			<title>Association.873</title>
-			<g id="shape873-998" v:mID="873" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape873-999" v:mID="873" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L22.68 1647.78 L22.68 1793.48 L541.42 1793.48 L541.42 1784" class="st19"/>
 			</g>
 		</g>
-		<g id="group878-1001" transform="translate(1063.49,-486.857)" v:mID="878" v:groupContext="group">
+		<g id="group878-1002" transform="translate(1063.49,-486.857)" v:mID="878" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -6896,7 +6896,7 @@
 			</v:userDefs>
 			<title>Class.878</title>
 			<desc>OrderViewModel</desc>
-			<g id="shape879-1002" v:mID="879" v:groupContext="shape">
+			<g id="shape879-1003" v:mID="879" v:groupContext="shape">
 				<title>Sheet.879</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -6906,7 +6906,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L184.39 1647.78 L184.39 1579.27 L0 1579.27 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape880-1004" v:mID="880" v:groupContext="shape" transform="translate(0,-68.5113)">
+			<g id="shape880-1005" v:mID="880" v:groupContext="shape" transform="translate(0,-68.5113)">
 				<title>Sheet.880</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -6923,7 +6923,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L184.39 1647.78 L184.39 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape882-1006" v:mID="882" v:groupContext="shape" transform="translate(175.89,-99.915)">
+			<g id="shape882-1007" v:mID="882" v:groupContext="shape" transform="translate(175.89,-99.915)">
 				<title>Sheet.882</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -6935,12 +6935,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape878-1007" v:mID="878" v:groupContext="groupContent">
+			<g id="shape878-1008" v:mID="878" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="92.1968" cy="1563.57" width="184.4" height="31.4037"/>
-				<text x="4" y="1567.17" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>OrderViewModel</text>			</g>
+				<text x="4" y="1567.17" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>OrderViewModel</text>			</g>
 		</g>
-		<g id="shape883-1009" v:mID="883" v:groupContext="shape" transform="translate(1066.32,-540.53)">
+		<g id="shape883-1010" v:mID="883" v:groupContext="shape" transform="translate(1066.32,-540.53)">
 			<title>Member.883</title>
 			<desc>- OrderFacade : OrderFacade</desc>
 			<v:userDefs>
@@ -6968,8 +6968,8 @@
 			<v:textRect cx="89.3622" cy="1641.78" width="178.73" height="12.0036"/>
 			<rect x="0" y="1635.78" width="178.724" height="12.0036" class="st8"/>
 			<rect x="0" y="1635.78" width="178.724" height="12.0036" class="st9"/>
-			<text x="8.5" y="1644.78" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>- OrderFacade : OrderFacade</text>		</g>
-		<g id="shape884-1013" v:mID="884" v:groupContext="shape" transform="translate(1066.32,-537.695)">
+			<text x="8.5" y="1644.78" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>- OrderFacade : OrderFacade</text>		</g>
+		<g id="shape884-1014" v:mID="884" v:groupContext="shape" transform="translate(1066.32,-537.695)">
 			<title>Separator.884</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -6982,7 +6982,7 @@
 			<path d="M0 1646.36 L178.72 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L178.72 1646.36" class="st13"/>
 		</g>
-		<g id="shape885-1016" v:mID="885" v:groupContext="shape" transform="translate(1066.32,-489.691)">
+		<g id="shape885-1017" v:mID="885" v:groupContext="shape" transform="translate(1066.32,-489.691)">
 			<title>Member.885</title>
 			<desc>+ showOrderDetail() : void + changeOrderStatus(int id, OrderS...</desc>
 			<v:userDefs>
@@ -7011,11 +7011,11 @@
 			<v:textRect cx="89.3622" cy="1623.78" width="178.73" height="48.0037"/>
 			<rect x="0" y="1599.78" width="178.724" height="48.0037" class="st8"/>
 			<rect x="0" y="1599.78" width="178.724" height="48.0037" class="st9"/>
-			<text x="8.5" y="1608.78" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>+ showOrderDetail<tspan class="st11"
+			<text x="8.5" y="1608.78" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>+ showOrderDetail<tspan class="st11"
 						v:langID="1033">() : void<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em" class="st11" v:langID="1033">+ changeOrderStatus(int id, OrderStatus </tspan><tspan
 						x="8.5" dy="1.2em" class="st11" v:langID="1033">status) : void<v:newlineChar/></tspan><tspan x="8.5"
 						dy="1.2em" class="st11">+ deleteOrder() : void</tspan></text>		</g>
-		<g id="group886-1024" transform="translate(1063.56,-592.441)" v:mID="886" v:groupContext="group">
+		<g id="group886-1025" transform="translate(1063.56,-592.441)" v:mID="886" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -7046,7 +7046,7 @@
 			</v:userDefs>
 			<title>Class.886</title>
 			<desc>RestaurantViewModel</desc>
-			<g id="shape887-1025" v:mID="887" v:groupContext="shape">
+			<g id="shape887-1026" v:mID="887" v:groupContext="shape">
 				<title>Sheet.887</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -7056,7 +7056,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L184.25 1647.78 L184.25 1471.27 L0 1471.27 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape888-1027" v:mID="888" v:groupContext="shape" transform="translate(0,-176.512)">
+			<g id="shape888-1028" v:mID="888" v:groupContext="shape" transform="translate(0,-176.512)">
 				<title>Sheet.888</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -7073,7 +7073,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L184.25 1647.78 L184.25 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape890-1029" v:mID="890" v:groupContext="shape" transform="translate(175.748,-207.915)">
+			<g id="shape890-1030" v:mID="890" v:groupContext="shape" transform="translate(175.748,-207.915)">
 				<title>Sheet.890</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -7085,12 +7085,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape886-1030" v:mID="886" v:groupContext="groupContent">
+			<g id="shape886-1031" v:mID="886" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="92.126" cy="1455.57" width="184.26" height="31.4037"/>
-				<text x="37.51" y="1459.17" class="st23" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>RestaurantViewModel</text>			</g>
+				<text x="37.51" y="1459.17" class="st24" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>RestaurantViewModel</text>			</g>
 		</g>
-		<g id="shape891-1032" v:mID="891" v:groupContext="shape" transform="translate(1066.39,-706.114)">
+		<g id="shape891-1033" v:mID="891" v:groupContext="shape" transform="translate(1066.39,-706.114)">
 			<title>Member.891</title>
 			<desc>- ReservationFacade : ReservationFacade - OrderFacade : Order...</desc>
 			<v:userDefs>
@@ -7119,11 +7119,11 @@
 			<v:textRect cx="89.2913" cy="1617.78" width="178.59" height="60.0038"/>
 			<rect x="0" y="1587.78" width="178.583" height="60.0038" class="st8"/>
 			<rect x="0" y="1587.78" width="178.583" height="60.0038" class="st9"/>
-			<text x="8.5" y="1596.78" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>- ReservationFacade : ReservationFacade<v:newlineChar/><tspan
+			<text x="8.5" y="1596.78" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>- ReservationFacade : ReservationFacade<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">-</tspan> OrderFacade : OrderFacade<v:newlineChar/><tspan x="8.5"
 						dy="1.2em" class="st11">-</tspan> BookableFacade : BookableFacade<v:newlineChar/><tspan x="8.5" dy="1.2em"
 						class="st11">-</tspan> MenuFacade : MenuFacade<v:newlineChar/><tspan x="8.5" dy="1.2em" class="st11">-</tspan> MailSender : MailSender</text>		</g>
-		<g id="shape892-1040" v:mID="892" v:groupContext="shape" transform="translate(1066.39,-703.28)">
+		<g id="shape892-1041" v:mID="892" v:groupContext="shape" transform="translate(1066.39,-703.28)">
 			<title>Separator.892</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -7136,7 +7136,7 @@
 			<path d="M0 1646.36 L178.58 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L178.58 1646.36" class="st13"/>
 		</g>
-		<g id="shape893-1043" v:mID="893" v:groupContext="shape" transform="translate(1066.39,-595.276)">
+		<g id="shape893-1044" v:mID="893" v:groupContext="shape" transform="translate(1066.39,-595.276)">
 			<title>Member.893</title>
 			<desc>+ RestaurantViewModel() + showBookable(int id) + showOrders()...</desc>
 			<v:userDefs>
@@ -7165,7 +7165,7 @@
 			<v:textRect cx="89.2913" cy="1593.78" width="178.59" height="108.004"/>
 			<rect x="0" y="1539.78" width="178.583" height="108.004" class="st8"/>
 			<rect x="0" y="1539.78" width="178.583" height="108.004" class="st9"/>
-			<text x="8.5" y="1548.78" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>+ Restaurant<tspan class="st11"
+			<text x="8.5" y="1548.78" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>+ Restaurant<tspan class="st11"
 						v:langID="1033">ViewModel()<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em" class="st11">+ </tspan><tspan
 						class="st11" v:langID="1033">s</tspan>howBookable<tspan class="st11" v:langID="1033">(int id)<v:newlineChar/></tspan><tspan
 						x="8.5" dy="1.2em" class="st11">+ showOrders() : Collection</tspan><tspan class="st11" v:langID="1033">&#60;Ord</tspan>erDTO<tspan
@@ -7175,7 +7175,7 @@
 						dy="1.2em" class="st11">+ createOrder</tspan><tspan class="st11" v:langID="1033">() : void<v:newlineChar/></tspan><tspan
 						x="8.5" dy="1.2em" class="st11" v:langID="1033">+ collectPayment(int id) : void<v:newlineChar/></tspan><tspan
 						x="8.5" dy="1.2em" class="st11" v:langID="1033">+ changeBookableState(int id) : void</tspan></text>		</g>
-		<g id="group912-1061" transform="translate(375.449,-158.145)" v:mID="912" v:groupContext="group" v:layerMember="0">
+		<g id="group912-1062" transform="translate(375.449,-158.145)" v:mID="912" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -7197,21 +7197,21 @@
 			</v:userDefs>
 			<title>Association.912</title>
 			<desc>1</desc>
-			<g id="shape912-1062" v:mID="912" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape912-1063" v:mID="912" v:groupContext="groupContent" v:layerMember="0">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="4.67715" cy="1635.42" width="40" height="17.6036"/>
 				<path d="M0 1640.81 L23.52 1640.69 A2.3622 2.3622 0 1 1 28.24 1640.66 L44.29 1640.58" class="st19"/>
-				<rect v:rectContext="textBkgnd" x="2.64969" y="1630.62" width="4.05478" height="9.59985" class="st20"/>
+				<rect v:rectContext="textBkgnd" x="2.64969" y="1630.62" width="4.05478" height="9.59985" class="st23"/>
 				<text x="2.65" y="1637.82" class="st21" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>1</text>			</g>
 		</g>
-		<g id="shape917-1067" v:mID="917" v:groupContext="shape" transform="translate(401.953,-164.268)">
+		<g id="shape917-1068" v:mID="917" v:groupContext="shape" transform="translate(401.953,-164.268)">
 			<title>Sheet.917</title>
 			<desc>1..*</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="11.0551" cy="1641.26" width="22.12" height="13.0394"/>
-			<rect x="0" y="1634.74" width="22.1102" height="13.0394" class="st26"/>
+			<rect x="0" y="1634.74" width="22.1102" height="13.0394" class="st27"/>
 			<text x="5.02" y="1643.66" class="st28" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>1..*</text>		</g>
-		<g id="group918-1070" transform="translate(1006.87,-179.339)" v:mID="918" v:groupContext="group">
+		<g id="group918-1071" transform="translate(1006.87,-179.339)" v:mID="918" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -7242,7 +7242,7 @@
 			</v:userDefs>
 			<title>Class.918</title>
 			<desc>RestaurantView</desc>
-			<g id="shape919-1071" v:mID="919" v:groupContext="shape">
+			<g id="shape919-1072" v:mID="919" v:groupContext="shape">
 				<title>Sheet.919</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -7252,7 +7252,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L126.14 1647.78 L126.14 1591.27 L0 1591.27 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape920-1073" v:mID="920" v:groupContext="shape" transform="translate(0,-56.5077)">
+			<g id="shape920-1074" v:mID="920" v:groupContext="shape" transform="translate(0,-56.5077)">
 				<title>Sheet.920</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -7269,7 +7269,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L126.14 1647.78 L126.14 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape922-1075" v:mID="922" v:groupContext="shape" transform="translate(117.638,-87.9114)">
+			<g id="shape922-1076" v:mID="922" v:groupContext="shape" transform="translate(117.638,-87.9114)">
 				<title>Sheet.922</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -7281,12 +7281,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape918-1076" v:mID="918" v:groupContext="groupContent">
+			<g id="shape918-1077" v:mID="918" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="63.0709" cy="1575.57" width="126.15" height="31.4037"/>
-				<text x="24.26" y="1579.17" class="st23" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>RestaurantView</text>			</g>
+				<text x="24.26" y="1579.17" class="st24" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>RestaurantView</text>			</g>
 		</g>
-		<g id="shape924-1078" v:mID="924" v:groupContext="shape" transform="translate(1009.7,-230.177)">
+		<g id="shape924-1079" v:mID="924" v:groupContext="shape" transform="translate(1009.7,-230.177)">
 			<title>Separator.924</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -7299,7 +7299,7 @@
 			<path d="M0 1646.36 L120.47 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L120.47 1646.36" class="st13"/>
 		</g>
-		<g id="shape925-1081" v:mID="925" v:groupContext="shape" transform="translate(1009.7,-182.173)">
+		<g id="shape925-1082" v:mID="925" v:groupContext="shape" transform="translate(1009.7,-182.173)">
 			<title>Member.925</title>
 			<desc>+ showReservations_click() + showBookable_click() + showOrder...</desc>
 			<v:userDefs>
@@ -7328,10 +7328,10 @@
 			<v:textRect cx="60.2362" cy="1623.78" width="120.48" height="48.0037"/>
 			<rect x="0" y="1599.78" width="120.472" height="48.0037" class="st8"/>
 			<rect x="0" y="1599.78" width="120.472" height="48.0037" class="st9"/>
-			<text x="8.5" y="1608.78" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>+ showReservations_click()<v:newlineChar/><tspan
+			<text x="8.5" y="1608.78" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>+ showReservations_click()<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ showBookable_click()<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em"
 						class="st11">+ showOrders_click()<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em" class="st11">+ showMenu_click()</tspan></text>		</g>
-		<g id="group927-1088" transform="translate(934.583,-84.69)" v:mID="927" v:groupContext="group">
+		<g id="group927-1089" transform="translate(934.583,-84.69)" v:mID="927" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -7362,7 +7362,7 @@
 			</v:userDefs>
 			<title>Class.927</title>
 			<desc>OrderView</desc>
-			<g id="shape928-1089" v:mID="928" v:groupContext="shape">
+			<g id="shape928-1090" v:mID="928" v:groupContext="shape">
 				<title>Sheet.928</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -7372,7 +7372,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L150.24 1647.78 L150.24 1591.27 L0 1591.27 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape929-1091" v:mID="929" v:groupContext="shape" transform="translate(0,-56.5077)">
+			<g id="shape929-1092" v:mID="929" v:groupContext="shape" transform="translate(0,-56.5077)">
 				<title>Sheet.929</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -7389,7 +7389,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L150.24 1647.78 L150.24 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape931-1093" v:mID="931" v:groupContext="shape" transform="translate(141.732,-87.9114)">
+			<g id="shape931-1094" v:mID="931" v:groupContext="shape" transform="translate(141.732,-87.9114)">
 				<title>Sheet.931</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -7401,12 +7401,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape927-1094" v:mID="927" v:groupContext="groupContent">
+			<g id="shape927-1095" v:mID="927" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="75.1181" cy="1575.57" width="150.24" height="31.4037"/>
-				<text x="48.77" y="1579.17" class="st23" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>OrderView</text>			</g>
+				<text x="48.77" y="1579.17" class="st24" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>OrderView</text>			</g>
 		</g>
-		<g id="shape933-1096" v:mID="933" v:groupContext="shape" transform="translate(937.417,-135.528)">
+		<g id="shape933-1097" v:mID="933" v:groupContext="shape" transform="translate(937.417,-135.528)">
 			<title>Separator.933</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -7419,7 +7419,7 @@
 			<path d="M0 1646.36 L144.57 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L144.57 1646.36" class="st13"/>
 		</g>
-		<g id="shape934-1099" v:mID="934" v:groupContext="shape" transform="translate(937.417,-87.5246)">
+		<g id="shape934-1100" v:mID="934" v:groupContext="shape" transform="translate(937.417,-87.5246)">
 			<title>Member.934</title>
 			<desc>+ showOrderDetails_click(int id) + changeOrderStatus_click(in...</desc>
 			<v:userDefs>
@@ -7448,10 +7448,10 @@
 			<v:textRect cx="72.2835" cy="1623.78" width="144.57" height="48.0037"/>
 			<rect x="0" y="1599.78" width="144.567" height="48.0037" class="st8"/>
 			<rect x="0" y="1599.78" width="144.567" height="48.0037" class="st9"/>
-			<text x="8.5" y="1608.78" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>+ showOrderDetails_click(int id)<v:newlineChar/><tspan
+			<text x="8.5" y="1608.78" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>+ showOrderDetails_click(int id)<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ changeOrderStatus_click(int id, </tspan><tspan x="8.5" dy="1.2em"
 						class="st11">OrderStatus status)<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em" class="st11">+ deleteOrder_click(int id)</tspan></text>		</g>
-		<g id="group943-1106" transform="translate(858.047,-293.698)" v:mID="943" v:groupContext="group">
+		<g id="group943-1107" transform="translate(858.047,-293.698)" v:mID="943" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -7482,7 +7482,7 @@
 			</v:userDefs>
 			<title>Class.943</title>
 			<desc>BookableView</desc>
-			<g id="shape944-1107" v:mID="944" v:groupContext="shape">
+			<g id="shape944-1108" v:mID="944" v:groupContext="shape">
 				<title>Sheet.944</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -7492,7 +7492,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L126.14 1647.78 L126.14 1603.27 L0 1603.27 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape945-1109" v:mID="945" v:groupContext="shape" transform="translate(0,-44.5076)">
+			<g id="shape945-1110" v:mID="945" v:groupContext="shape" transform="translate(0,-44.5076)">
 				<title>Sheet.945</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -7509,7 +7509,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L126.14 1647.78 L126.14 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape947-1111" v:mID="947" v:groupContext="shape" transform="translate(117.638,-75.9114)">
+			<g id="shape947-1112" v:mID="947" v:groupContext="shape" transform="translate(117.638,-75.9114)">
 				<title>Sheet.947</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -7521,12 +7521,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape943-1112" v:mID="943" v:groupContext="groupContent">
+			<g id="shape943-1113" v:mID="943" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="63.0709" cy="1587.57" width="126.15" height="31.4037"/>
-				<text x="28.31" y="1591.17" class="st23" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>BookableView</text>			</g>
+				<text x="28.31" y="1591.17" class="st24" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>BookableView</text>			</g>
 		</g>
-		<g id="shape949-1114" v:mID="949" v:groupContext="shape" transform="translate(860.882,-332.536)">
+		<g id="shape949-1115" v:mID="949" v:groupContext="shape" transform="translate(860.882,-332.536)">
 			<title>Separator.949</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -7539,7 +7539,7 @@
 			<path d="M0 1646.36 L120.47 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L120.47 1646.36" class="st13"/>
 		</g>
-		<g id="shape950-1117" v:mID="950" v:groupContext="shape" transform="translate(860.882,-296.533)">
+		<g id="shape950-1118" v:mID="950" v:groupContext="shape" transform="translate(860.882,-296.533)">
 			<title>Member.950</title>
 			<desc>+ createOrder_click() + setBookableTaken_click() + pay_click()</desc>
 			<v:userDefs>
@@ -7567,10 +7567,10 @@
 			<v:textRect cx="60.2362" cy="1629.78" width="120.48" height="36.0037"/>
 			<rect x="0" y="1611.78" width="120.472" height="36.0037" class="st8"/>
 			<rect x="0" y="1611.78" width="120.472" height="36.0037" class="st9"/>
-			<text x="8.5" y="1620.78" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>+ createOrder_click()<v:newlineChar/><tspan
+			<text x="8.5" y="1620.78" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>+ createOrder_click()<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ setBookableTaken_click()<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em"
 						class="st11">+ pay_click()</tspan></text>		</g>
-		<g id="group951-1123" transform="translate(1006.87,-348.546)" v:mID="951" v:groupContext="group">
+		<g id="group951-1124" transform="translate(1006.87,-348.546)" v:mID="951" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -7601,7 +7601,7 @@
 			</v:userDefs>
 			<title>Class.951</title>
 			<desc>FeedbackView</desc>
-			<g id="shape952-1124" v:mID="952" v:groupContext="shape">
+			<g id="shape952-1125" v:mID="952" v:groupContext="shape">
 				<title>Sheet.952</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -7611,7 +7611,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L126.14 1647.78 L126.14 1627.27 L0 1627.27 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape953-1126" v:mID="953" v:groupContext="shape" transform="translate(0,-20.5076)">
+			<g id="shape953-1127" v:mID="953" v:groupContext="shape" transform="translate(0,-20.5076)">
 				<title>Sheet.953</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -7628,7 +7628,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L126.14 1647.78 L126.14 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape955-1128" v:mID="955" v:groupContext="shape" transform="translate(117.638,-51.9113)">
+			<g id="shape955-1129" v:mID="955" v:groupContext="shape" transform="translate(117.638,-51.9113)">
 				<title>Sheet.955</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -7640,12 +7640,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape951-1129" v:mID="951" v:groupContext="groupContent">
+			<g id="shape951-1130" v:mID="951" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="63.0709" cy="1611.57" width="126.15" height="31.4037"/>
-				<text x="27.84" y="1615.17" class="st23" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>FeedbackView</text>			</g>
+				<text x="27.84" y="1615.17" class="st24" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>FeedbackView</text>			</g>
 		</g>
-		<g id="shape957-1131" v:mID="957" v:groupContext="shape" transform="translate(1009.7,-363.385)">
+		<g id="shape957-1132" v:mID="957" v:groupContext="shape" transform="translate(1009.7,-363.385)">
 			<title>Separator.957</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -7658,7 +7658,7 @@
 			<path d="M0 1646.36 L120.47 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L120.47 1646.36" class="st13"/>
 		</g>
-		<g id="shape958-1134" v:mID="958" v:groupContext="shape" transform="translate(1009.7,-351.381)">
+		<g id="shape958-1135" v:mID="958" v:groupContext="shape" transform="translate(1009.7,-351.381)">
 			<title>Member.958</title>
 			<desc>+ sendFeedback_click()</desc>
 			<v:userDefs>
@@ -7686,8 +7686,8 @@
 			<v:textRect cx="60.2362" cy="1641.78" width="120.48" height="12.0036"/>
 			<rect x="0" y="1635.78" width="120.472" height="12.0036" class="st8"/>
 			<rect x="0" y="1635.78" width="120.472" height="12.0036" class="st9"/>
-			<text x="8.5" y="1644.78" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>+ sendFeedback_click()</text>		</g>
-		<g id="group959-1138" transform="translate(1006.87,-278.767)" v:mID="959" v:groupContext="group">
+			<text x="8.5" y="1644.78" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>+ sendFeedback_click()</text>		</g>
+		<g id="group959-1139" transform="translate(1006.87,-278.767)" v:mID="959" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -7718,7 +7718,7 @@
 			</v:userDefs>
 			<title>Class.959</title>
 			<desc>MenuView</desc>
-			<g id="shape960-1139" v:mID="960" v:groupContext="shape">
+			<g id="shape960-1140" v:mID="960" v:groupContext="shape">
 				<title>Sheet.960</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -7728,7 +7728,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L126.14 1647.78 L126.14 1627.27 L0 1627.27 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape961-1141" v:mID="961" v:groupContext="shape" transform="translate(0,-20.5076)">
+			<g id="shape961-1142" v:mID="961" v:groupContext="shape" transform="translate(0,-20.5076)">
 				<title>Sheet.961</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -7745,7 +7745,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L126.14 1647.78 L126.14 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape963-1143" v:mID="963" v:groupContext="shape" transform="translate(117.638,-51.9113)">
+			<g id="shape963-1144" v:mID="963" v:groupContext="shape" transform="translate(117.638,-51.9113)">
 				<title>Sheet.963</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -7757,12 +7757,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape959-1144" v:mID="959" v:groupContext="groupContent">
+			<g id="shape959-1145" v:mID="959" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="63.0709" cy="1611.57" width="126.15" height="31.4037"/>
-				<text x="36.59" y="1615.17" class="st23" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>MenuView</text>			</g>
+				<text x="36.59" y="1615.17" class="st24" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>MenuView</text>			</g>
 		</g>
-		<g id="shape965-1146" v:mID="965" v:groupContext="shape" transform="translate(1009.7,-293.605)">
+		<g id="shape965-1147" v:mID="965" v:groupContext="shape" transform="translate(1009.7,-293.605)">
 			<title>Separator.965</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -7775,7 +7775,7 @@
 			<path d="M0 1646.36 L120.47 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L120.47 1646.36" class="st13"/>
 		</g>
-		<g id="shape966-1149" v:mID="966" v:groupContext="shape" transform="translate(1009.7,-281.602)">
+		<g id="shape966-1150" v:mID="966" v:groupContext="shape" transform="translate(1009.7,-281.602)">
 			<title>Member.966</title>
 			<desc>+ editMenu_click()</desc>
 			<v:userDefs>
@@ -7803,8 +7803,8 @@
 			<v:textRect cx="60.2362" cy="1641.78" width="120.48" height="12.0036"/>
 			<rect x="0" y="1635.78" width="120.472" height="12.0036" class="st8"/>
 			<rect x="0" y="1635.78" width="120.472" height="12.0036" class="st9"/>
-			<text x="8.5" y="1644.78" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>+ editMenu_click()</text>		</g>
-		<g id="group967-1153" transform="translate(844.76,-178.64)" v:mID="967" v:groupContext="group">
+			<text x="8.5" y="1644.78" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>+ editMenu_click()</text>		</g>
+		<g id="group967-1154" transform="translate(844.76,-178.64)" v:mID="967" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -7835,7 +7835,7 @@
 			</v:userDefs>
 			<title>Class.967</title>
 			<desc>ReservationView</desc>
-			<g id="shape968-1154" v:mID="968" v:groupContext="shape">
+			<g id="shape968-1155" v:mID="968" v:groupContext="shape">
 				<title>Sheet.968</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -7845,7 +7845,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L151.3 1647.78 L151.3 1567.27 L0 1567.27 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape969-1156" v:mID="969" v:groupContext="shape" transform="translate(0,-80.5078)">
+			<g id="shape969-1157" v:mID="969" v:groupContext="shape" transform="translate(0,-80.5078)">
 				<title>Sheet.969</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -7862,7 +7862,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L151.3 1647.78 L151.3 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape971-1158" v:mID="971" v:groupContext="shape" transform="translate(142.795,-111.911)">
+			<g id="shape971-1159" v:mID="971" v:groupContext="shape" transform="translate(142.795,-111.911)">
 				<title>Sheet.971</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -7874,12 +7874,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape967-1159" v:mID="967" v:groupContext="groupContent">
+			<g id="shape967-1160" v:mID="967" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="75.6496" cy="1551.57" width="151.3" height="31.4037"/>
-				<text x="34.64" y="1555.17" class="st23" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>ReservationView</text>			</g>
+				<text x="34.64" y="1555.17" class="st24" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>ReservationView</text>			</g>
 		</g>
-		<g id="shape973-1161" v:mID="973" v:groupContext="shape" transform="translate(847.595,-253.478)">
+		<g id="shape973-1162" v:mID="973" v:groupContext="shape" transform="translate(847.595,-253.478)">
 			<title>Separator.973</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -7892,7 +7892,7 @@
 			<path d="M0 1646.36 L145.63 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L145.63 1646.36" class="st13"/>
 		</g>
-		<g id="shape974-1164" v:mID="974" v:groupContext="shape" transform="translate(847.595,-181.474)">
+		<g id="shape974-1165" v:mID="974" v:groupContext="shape" transform="translate(847.595,-181.474)">
 			<title>Member.974</title>
 			<desc>+ confirmReservation_click(int id) + denyReservation_click(in...</desc>
 			<v:userDefs>
@@ -7921,13 +7921,13 @@
 			<v:textRect cx="72.815" cy="1611.78" width="145.63" height="72.0038"/>
 			<rect x="0" y="1575.78" width="145.63" height="72.0038" class="st8"/>
 			<rect x="0" y="1575.78" width="145.63" height="72.0038" class="st9"/>
-			<text x="8.5" y="1584.78" class="st24" v:langID="1029"><v:paragraph/><v:tabList/>+ confirmReservation_click(int id)<v:newlineChar/><tspan
+			<text x="8.5" y="1584.78" class="st25" v:langID="1029"><v:paragraph/><v:tabList/>+ confirmReservation_click(int id)<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ denyReservation_click(int id)<v:newlineChar/></tspan><tspan x="8.5"
 						dy="1.2em" class="st11">+ cancelReservation_click(int id)<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em"
 						class="st11">+ stornoReservation_click(int id)<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em"
 						class="st11">+ updateReservation_click(int id)<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em"
 						class="st11">+ createReservation_click(int id)</tspan></text>		</g>
-		<g id="group975-1173" transform="translate(858.047,-371.872)" v:mID="975" v:groupContext="group">
+		<g id="group975-1174" transform="translate(858.047,-371.872)" v:mID="975" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -7958,7 +7958,7 @@
 			</v:userDefs>
 			<title>Class.975</title>
 			<desc>CustomerView</desc>
-			<g id="shape976-1174" v:mID="976" v:groupContext="shape">
+			<g id="shape976-1175" v:mID="976" v:groupContext="shape">
 				<title>Sheet.976</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -7968,7 +7968,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L126.14 1647.78 L126.14 1627.28 L0 1627.28 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape977-1176" v:mID="977" v:groupContext="shape" transform="translate(0,-20.5039)">
+			<g id="shape977-1177" v:mID="977" v:groupContext="shape" transform="translate(0,-20.5039)">
 				<title>Sheet.977</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -7985,7 +7985,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L126.14 1647.78 L126.14 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape979-1178" v:mID="979" v:groupContext="shape" transform="translate(117.638,-51.9076)">
+			<g id="shape979-1179" v:mID="979" v:groupContext="shape" transform="translate(117.638,-51.9076)">
 				<title>Sheet.979</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -7997,12 +7997,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape975-1179" v:mID="975" v:groupContext="groupContent">
+			<g id="shape975-1180" v:mID="975" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="63.0709" cy="1611.57" width="126.15" height="31.4037"/>
-				<text x="27.27" y="1615.17" class="st23" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>CustomerView</text>			</g>
+				<text x="27.27" y="1615.17" class="st24" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>CustomerView</text>			</g>
 		</g>
-		<g id="shape981-1181" v:mID="981" v:groupContext="shape" transform="translate(860.882,-386.707)">
+		<g id="shape981-1182" v:mID="981" v:groupContext="shape" transform="translate(860.882,-386.707)">
 			<title>Separator.981</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -8015,7 +8015,7 @@
 			<path d="M0 1646.36 L120.47 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L120.47 1646.36" class="st13"/>
 		</g>
-		<g id="shape982-1184" v:mID="982" v:groupContext="shape" transform="translate(860.882,-374.707)">
+		<g id="shape982-1185" v:mID="982" v:groupContext="shape" transform="translate(860.882,-374.707)">
 			<title>Member.982</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Member)"/>
@@ -8041,7 +8041,7 @@
 			<rect x="0" y="1635.78" width="120.472" height="12" class="st8"/>
 			<rect x="0" y="1635.78" width="120.472" height="12" class="st9"/>
 		</g>
-		<g id="group988-1187" transform="translate(1006.87,-374.502)" v:mID="988" v:groupContext="group" v:layerMember="0">
+		<g id="group988-1188" transform="translate(1006.87,-374.502)" v:mID="988" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -8059,12 +8059,12 @@
 				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(3.1415926535898):32"/>
 			</v:userDefs>
 			<title>Association.988</title>
-			<g id="shape988-1188" v:mID="988" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape988-1189" v:mID="988" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L-15.65 1647.78 L-15.65 1569.24 L-156.12 1569.24 L-156.12 1300.88 L-145.98 1300.88"
 						class="st19"/>
 			</g>
 		</g>
-		<g id="group993-1191" transform="translate(1133.01,-223.294)" v:mID="993" v:groupContext="group" v:layerMember="0">
+		<g id="group993-1192" transform="translate(1133.01,-223.294)" v:mID="993" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -8084,12 +8084,12 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(2.3068016785335):32"/>
 			</v:userDefs>
 			<title>Association.993</title>
-			<g id="shape993-1192" v:mID="993" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape993-1193" v:mID="993" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L20.31 1647.78 A2.3622 2.3622 0 1 1 25.04 1647.78 L119.06 1647.78 L119.06 1174.68 L114.8 1174.68"
 						class="st19"/>
 			</g>
 		</g>
-		<g id="group998-1195" transform="translate(1155.69,-486.857)" v:mID="998" v:groupContext="group" v:layerMember="0">
+		<g id="group998-1196" transform="translate(1155.69,-486.857)" v:mID="998" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -8106,11 +8106,11 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-3.1415926535894):32"/>
 			</v:userDefs>
 			<title>Association.998</title>
-			<g id="shape998-1196" v:mID="998" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape998-1197" v:mID="998" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L0 2005.99 L-70.87 2005.99" class="st19"/>
 			</g>
 		</g>
-		<g id="group1008-1199" transform="translate(860.882,-721.397)" v:mID="1008" v:groupContext="group" v:layerMember="0">
+		<g id="group1008-1200" transform="translate(860.882,-721.397)" v:mID="1008" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -8130,11 +8130,11 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
 			</v:userDefs>
 			<title>Association.1008</title>
-			<g id="shape1008-1200" v:mID="1008" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape1008-1201" v:mID="1008" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L-10.13 1647.78 L-10.13 1916.14 L60.24 1916.14 L60.24 1945.4" class="st19"/>
 			</g>
 		</g>
-		<g id="group1023-1203" transform="translate(1133.01,-304.723)" v:mID="1023" v:groupContext="group" v:layerMember="0">
+		<g id="group1023-1204" transform="translate(1133.01,-304.723)" v:mID="1023" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -8153,11 +8153,11 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(3.1415926535897):32"/>
 			</v:userDefs>
 			<title>Association.1023</title>
-			<g id="shape1023-1204" v:mID="1023" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape1023-1205" v:mID="1023" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L9.99 1647.78 L9.99 1476.28 L-79.09 1476.28 L-79.09 1436.6 L-86.17 1436.6" class="st19"/>
 			</g>
 		</g>
-		<g id="group1028-1207" transform="translate(860.882,-836.221)" v:mID="1028" v:groupContext="group" v:layerMember="0">
+		<g id="group1028-1208" transform="translate(860.882,-836.221)" v:mID="1028" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -8177,11 +8177,11 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-0.42176760464009):32"/>
 			</v:userDefs>
 			<title>Association.1028</title>
-			<g id="shape1028-1208" v:mID="1028" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape1028-1209" v:mID="1028" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L-22.65 1647.78 L-22.65 2249.4 L-16.12 2249.4" class="st19"/>
 			</g>
 		</g>
-		<g id="group1033-1211" transform="translate(860.882,-774.263)" v:mID="1033" v:groupContext="group">
+		<g id="group1033-1212" transform="translate(860.882,-774.263)" v:mID="1033" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
 				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
@@ -8212,7 +8212,7 @@
 			</v:userDefs>
 			<title>Class.1033</title>
 			<desc>ReservationViewModel</desc>
-			<g id="shape1034-1212" v:mID="1034" v:groupContext="shape">
+			<g id="shape1034-1213" v:mID="1034" v:groupContext="shape">
 				<title>Sheet.1034</title>
 				<v:userDefs>
 					<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
@@ -8222,7 +8222,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L187.09 1647.78 L187.09 1555.27 L0 1555.27 L0 1647.78 Z" class="st4"/>
 			</g>
-			<g id="shape1035-1214" v:mID="1035" v:groupContext="shape" transform="translate(0,-92.5114)">
+			<g id="shape1035-1215" v:mID="1035" v:groupContext="shape" transform="translate(0,-92.5114)">
 				<title>Sheet.1035</title>
 				<v:userDefs>
 					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
@@ -8239,7 +8239,7 @@
 				</v:userDefs>
 				<path d="M0 1647.78 L187.09 1647.78 L187.09 1616.38 L0 1616.38 L0 1647.78 Z" class="st5"/>
 			</g>
-			<g id="shape1037-1216" v:mID="1037" v:groupContext="shape" transform="translate(178.583,-123.915)">
+			<g id="shape1037-1217" v:mID="1037" v:groupContext="shape" transform="translate(178.583,-123.915)">
 				<title>Sheet.1037</title>
 				<desc>parameter</desc>
 				<v:userDefs>
@@ -8251,12 +8251,12 @@
 				<v:textBlock v:margins="rect(2,4,2,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="0" cy="1647.78" width="0" height="0"/>
 			</g>
-			<g id="shape1033-1217" v:mID="1033" v:groupContext="groupContent">
+			<g id="shape1033-1218" v:mID="1033" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(8.5,4,8.5,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="93.5433" cy="1539.57" width="187.09" height="31.4037"/>
-				<text x="36.72" y="1543.17" class="st23" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>ReservationViewModel</text>			</g>
+				<text x="36.72" y="1543.17" class="st24" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>ReservationViewModel</text>			</g>
 		</g>
-		<g id="shape1038-1219" v:mID="1038" v:groupContext="shape" transform="translate(863.717,-851.936)">
+		<g id="shape1038-1220" v:mID="1038" v:groupContext="shape" transform="translate(863.717,-851.936)">
 			<title>Member.1038</title>
 			<desc>- ReservationFacade : ReservationFacade</desc>
 			<v:userDefs>
@@ -8284,8 +8284,8 @@
 			<v:textRect cx="90.7087" cy="1641.78" width="181.42" height="12.0036"/>
 			<rect x="0" y="1635.78" width="181.417" height="12.0036" class="st8"/>
 			<rect x="0" y="1635.78" width="181.417" height="12.0036" class="st9"/>
-			<text x="8.5" y="1644.78" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>- ReservationFacade : ReservationFacade</text>		</g>
-		<g id="shape1039-1223" v:mID="1039" v:groupContext="shape" transform="translate(863.717,-849.101)">
+			<text x="8.5" y="1644.78" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>- ReservationFacade : ReservationFacade</text>		</g>
+		<g id="shape1039-1224" v:mID="1039" v:groupContext="shape" transform="translate(863.717,-849.101)">
 			<title>Separator.1039</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Separator)"/>
@@ -8298,7 +8298,7 @@
 			<path d="M0 1646.36 L181.42 1646.36 L0 1646.36 Z" class="st12"/>
 			<path d="M0 1646.36 L181.42 1646.36" class="st13"/>
 		</g>
-		<g id="shape1040-1226" v:mID="1040" v:groupContext="shape" transform="translate(863.717,-777.098)">
+		<g id="shape1040-1227" v:mID="1040" v:groupContext="shape" transform="translate(863.717,-777.098)">
 			<title>Member.1040</title>
 			<desc>+ ReservationViewModel() + stornoReservation() : void + updat...</desc>
 			<v:userDefs>
@@ -8327,12 +8327,12 @@
 			<v:textRect cx="90.7087" cy="1611.78" width="181.42" height="72.0038"/>
 			<rect x="0" y="1575.78" width="181.417" height="72.0038" class="st8"/>
 			<rect x="0" y="1575.78" width="181.417" height="72.0038" class="st9"/>
-			<text x="8.5" y="1584.78" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>+ <tspan class="st11" v:langID="1029">Reservation</tspan>ViewModel()<v:newlineChar/><tspan
+			<text x="8.5" y="1584.78" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>+ <tspan class="st11" v:langID="1029">Reservation</tspan>ViewModel()<v:newlineChar/><tspan
 						x="8.5" dy="1.2em" class="st11">+ stornoReservation() : void<v:newlineChar/></tspan><tspan x="8.5"
 						dy="1.2em" class="st11">+ updateReservation() : void<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em"
 						class="st11">+ createReservation() : void<v:newlineChar/></tspan><tspan x="8.5" dy="1.2em" class="st11"
 						v:langID="1029">+ denyReservation</tspan>() : void<v:newlineChar/><tspan x="8.5" dy="1.2em" class="st11">+ confirmReservation() : void</tspan></text>		</g>
-		<g id="group1041-1236" transform="translate(851.811,-331.654)" v:mID="1041" v:groupContext="group" v:layerMember="0">
+		<g id="group1041-1237" transform="translate(851.811,-331.654)" v:mID="1041" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -8350,12 +8350,12 @@
 				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(3.1415926535898):32"/>
 			</v:userDefs>
 			<title>Association.1041</title>
-			<g id="shape1041-1237" v:mID="1041" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape1041-1238" v:mID="1041" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M6.24 1647.78 L-6.73 1647.78 L-6.73 1360.31 L-3.43 1360.31 A2.3622 2.3622 0 0 1 1.3 1360.31 L7.94 1360.31"
 						class="st19"/>
 			</g>
 		</g>
-		<g id="group1047-1240" transform="translate(565.016,-165.345)" v:mID="1047" v:groupContext="group" v:layerMember="0">
+		<g id="group1047-1241" transform="translate(565.016,-165.345)" v:mID="1047" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -8377,21 +8377,21 @@
 			</v:userDefs>
 			<title>Association.1047</title>
 			<desc>0..*</desc>
-			<g id="shape1047-1241" v:mID="1047" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape1047-1242" v:mID="1047" v:groupContext="groupContent" v:layerMember="0">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="-492.165" cy="1427.58" width="40" height="17.6036"/>
 				<path d="M0 1647.78 L26.72 1647.78 L26.72 1383.39 L-484.23 1383.39 L-484.23 1432.15" class="st19"/>
-				<rect v:rectContext="textBkgnd" x="-498.204" y="1422.78" width="12.0784" height="9.59985" class="st20"/>
+				<rect v:rectContext="textBkgnd" x="-498.204" y="1422.78" width="12.0784" height="9.59985" class="st23"/>
 				<text x="-498.2" y="1429.98" class="st21" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>0..*</text>			</g>
 		</g>
-		<g id="shape1052-1246" v:mID="1052" v:groupContext="shape" transform="translate(565.744,-165.827)">
+		<g id="shape1052-1247" v:mID="1052" v:groupContext="shape" transform="translate(565.744,-165.827)">
 			<title>Sheet.1052</title>
 			<desc>1</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.25422" cy="1643.53" width="14.51" height="8.50394"/>
-			<rect x="0" y="1639.28" width="14.5084" height="8.50394" class="st26"/>
+			<rect x="0" y="1639.28" width="14.5084" height="8.50394" class="st27"/>
 			<text x="5.23" y="1645.93" class="st28" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>1</text>		</g>
-		<g id="group1054-1249" transform="translate(321.148,-684.766)" v:mID="1054" v:groupContext="group" v:layerMember="0">
+		<g id="group1054-1250" transform="translate(321.148,-684.766)" v:mID="1054" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
@@ -8409,11 +8409,11 @@
 				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(3.1415926535898):32"/>
 			</v:userDefs>
 			<title>Association.1054</title>
-			<g id="shape1054-1250" v:mID="1054" v:groupContext="groupContent" v:layerMember="0">
+			<g id="shape1054-1251" v:mID="1054" v:groupContext="groupContent" v:layerMember="0">
 				<path d="M0 1647.78 L0 1821.93 L-58.85 1821.93 A2.3622 2.3622 -180 0 0 -63.57 1821.93 L-83.89 1821.93" class="st19"/>
 			</g>
 		</g>
-		<g id="group751-1253" transform="translate(721.984,-612.283)" v:mID="751" v:groupContext="group">
+		<g id="group751-1254" transform="translate(721.984,-612.283)" v:mID="751" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Callout)"/>
@@ -8431,7 +8431,7 @@
 			</v:userDefs>
 			<title>Note</title>
 			<desc>DTO mají atributy odpovídající atributům v modelových entitách</desc>
-			<g id="shape751-1254" v:mID="751" v:groupContext="groupContent">
+			<g id="shape751-1255" v:mID="751" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="43.937" cy="1613.76" width="87.88" height="68.0038"/>
 				<path d="M0 1647.78 L87.87 1647.78 L87.87 1588.25 L79.37 1579.75 L0 1579.75 L0 1647.78 Z" class="st29"/>
@@ -8441,7 +8441,7 @@
 							v:langID="1029">í atributy </tspan><tspan x="4" dy="1.2em" class="st11" v:langID="1029">odpovídající </tspan><tspan
 							x="4" dy="1.2em" class="st11" v:langID="1029">atributům v </tspan><tspan x="4" dy="1.2em" class="st11"
 							v:langID="1029">modelových </tspan><tspan x="4" dy="1.2em" class="st11" v:langID="1029">entitách</tspan></text>			</g>
-			<g id="shape752-1264" v:mID="752" v:groupContext="shape" transform="translate(79.3701,-59.5276)">
+			<g id="shape752-1265" v:mID="752" v:groupContext="shape" transform="translate(79.3701,-59.5276)">
 				<title>Sheet.752</title>
 				<v:userDefs>
 					<v:ud v:nameU="FoldSize" v:prompt="" v:val="VT0(0.11811023622047):24"/>
@@ -8450,7 +8450,7 @@
 						class="st31"/>
 			</g>
 		</g>
-		<g id="group835-1266" transform="translate(666.72,-118.346)" v:mID="835" v:groupContext="group">
+		<g id="group835-1267" transform="translate(608.598,-118.346)" v:mID="835" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Callout)"/>
@@ -8461,25 +8461,25 @@
 				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(6.25MM,-0.28346456692913)):40"/>
 				<v:ud v:nameU="WHBoxIntersection" v:prompt="" v:val="VT7(PNT(10.096153846154MM,0)):40"/>
 				<v:ud v:nameU="FoldSize" v:prompt="" v:val="VT0(0.11811023622047):24"/>
-				<v:ud v:nameU="msvSDTargetIntersection" v:prompt="" v:val="VT7(PNT(-0.15748000876335,0.75643438723879)):40"/>
+				<v:ud v:nameU="msvSDTargetIntersection" v:prompt="" v:val="VT7(PNT(-0.15748056711036,0.76573554073623)):40"/>
 				<v:ud v:nameU="Side" v:prompt="" v:val="VT0(3):26"/>
-				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(-0.15748000876335,0.75643438723879)):40"/>
-				<v:ud v:nameU="WHBoxIntersection" v:prompt="" v:val="VT7(PNT(0MM,18.555632359746MM)):40"/>
+				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(-0.15748056711036,0.76573554073623)):40"/>
+				<v:ud v:nameU="WHBoxIntersection" v:prompt="" v:val="VT7(PNT(0MM,18.734607264969MM)):40"/>
 			</v:userDefs>
 			<title>Note.835</title>
 			<desc>Některé třídy z důvodu přehlednosti neobsahují veškeré metody...</desc>
-			<g id="shape835-1267" v:mID="835" v:groupContext="groupContent">
+			<g id="shape835-1268" v:mID="835" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="35.4331" cy="1601.01" width="70.87" height="92.0039"/>
 				<path d="M0 1647.78 L70.87 1647.78 L70.87 1562.74 L62.36 1554.24 L0 1554.24 L0 1647.78 Z" class="st29"/>
-				<path d="M0 1595.18 L-11.34 1593.32" class="st30"/>
+				<path d="M0 1594.67 L-11.34 1592.65" class="st30"/>
 				<path d="M0 1647.78 L70.87 1647.78 L70.87 1562.74 L62.36 1554.24 L0 1554.24 L0 1647.78" class="st30"/>
 				<text x="4" y="1568.01" class="st14" v:langID="1033"><v:paragraph/><v:tabList/>N<tspan class="st11" v:langID="1029">ěkteré třídy z </tspan><tspan
 							x="4" dy="1.2em" class="st11" v:langID="1029">důvodu </tspan><tspan x="4" dy="1.2em" class="st11"
 							v:langID="1029">přehlednosti </tspan><tspan x="4" dy="1.2em" class="st11" v:langID="1029">neobsahují </tspan><tspan
 							x="4" dy="1.2em" class="st11" v:langID="1029">veškeré </tspan><tspan x="4" dy="1.2em" class="st11"
 							v:langID="1029">metody setXXX </tspan><tspan x="4" dy="1.2em" class="st11" v:langID="1029">a getXXX</tspan></text>			</g>
-			<g id="shape836-1279" v:mID="836" v:groupContext="shape" transform="translate(62.3622,-85.0394)">
+			<g id="shape836-1280" v:mID="836" v:groupContext="shape" transform="translate(62.3622,-85.0394)">
 				<title>Sheet.836</title>
 				<v:userDefs>
 					<v:ud v:nameU="FoldSize" v:prompt="" v:val="VT0(0.11811023622047):24"/>
@@ -8488,7 +8488,7 @@
 						class="st31"/>
 			</g>
 		</g>
-		<g id="group837-1281" transform="translate(853.795,-18.1984)" v:mID="837" v:groupContext="group">
+		<g id="group837-1282" transform="translate(855.213,-21.2598)" v:mID="837" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Callout)"/>
@@ -8499,22 +8499,22 @@
 				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(6.25MM,-0.28346456692913)):40"/>
 				<v:ud v:nameU="WHBoxIntersection" v:prompt="" v:val="VT7(PNT(10.096153846154MM,0)):40"/>
 				<v:ud v:nameU="FoldSize" v:prompt="" v:val="VT0(0.11811023622047):24"/>
-				<v:ud v:nameU="msvSDTargetIntersection" v:prompt="" v:val="VT7(PNT(1.4653918717033,0.68897638479915)):40"/>
+				<v:ud v:nameU="msvSDTargetIntersection" v:prompt="" v:val="VT7(PNT(1.4551726226304,0.64645701820792)):40"/>
 				<v:ud v:nameU="Side" v:prompt="" v:val="VT0(2):26"/>
-				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(1.4653918717033,0.68897638479915)):40"/>
-				<v:ud v:nameU="WHBoxIntersection" v:prompt="" v:val="VT7(PNT(1.4328564036996,0.53149606299213)):40"/>
+				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(1.4551726226304,0.64645701820792)):40"/>
+				<v:ud v:nameU="WHBoxIntersection" v:prompt="" v:val="VT7(PNT(1.4318549063676,0.53149606299213)):40"/>
 			</v:userDefs>
 			<title>Note.837</title>
 			<desc>Vlastnosti a atributy Views budou závislé na zvolené technolo...</desc>
-			<g id="shape837-1282" v:mID="837" v:groupContext="groupContent">
+			<g id="shape837-1283" v:mID="837" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="99.2126" cy="1628.65" width="198.43" height="36.8038"/>
 				<path d="M0 1647.78 L198.43 1647.78 L198.43 1618.02 L189.92 1609.51 L0 1609.51 L0 1647.78 Z" class="st29"/>
-				<path d="M103.17 1609.51 L105.51 1598.17" class="st30"/>
+				<path d="M103.09 1609.51 L104.77 1601.23" class="st30"/>
 				<path d="M0 1647.78 L198.43 1647.78 L198.43 1618.02 L189.92 1609.51 L0 1609.51 L0 1647.78" class="st30"/>
-				<text x="17.29" y="1625.05" class="st23" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Vlastnosti a atributy Views budou <tspan
+				<text x="17.29" y="1625.05" class="st24" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Vlastnosti a atributy Views budou <tspan
 							x="27.21" dy="1.2em" class="st11">závislé na zvolené technologii</tspan></text>			</g>
-			<g id="shape838-1288" v:mID="838" v:groupContext="shape" transform="translate(189.921,-29.7638)">
+			<g id="shape838-1289" v:mID="838" v:groupContext="shape" transform="translate(189.921,-29.7638)">
 				<title>Sheet.838</title>
 				<v:userDefs>
 					<v:ud v:nameU="FoldSize" v:prompt="" v:val="VT0(0.11811023622047):24"/>
@@ -8523,7 +8523,7 @@
 						class="st31"/>
 			</g>
 		</g>
-		<g id="group905-1290" transform="translate(928.913,-917.717)" v:mID="905" v:groupContext="group">
+		<g id="group905-1291" transform="translate(928.913,-917.717)" v:mID="905" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Callout)"/>
@@ -8540,7 +8540,7 @@
 			</v:userDefs>
 			<title>Note.905</title>
 			<desc>Kvůli přehlednosti chybí asociace mezi ViewModely a Facade, k...</desc>
-			<g id="shape905-1291" v:mID="905" v:groupContext="groupContent">
+			<g id="shape905-1292" v:mID="905" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="66.6142" cy="1624.39" width="133.23" height="44.0037"/>
 				<path d="M0 1647.78 L133.23 1647.78 L133.23 1609.51 L124.72 1601.01 L0 1601.01 L0 1647.78 Z" class="st29"/>
@@ -8549,7 +8549,7 @@
 				<text x="18.01" y="1615.39" class="st14" v:langID="1029"><v:paragraph v:horizAlign="1"/><v:tabList/>Kvůli přehlednosti chybí <tspan
 							x="8.49" dy="1.2em" class="st11">asociace mezi ViewModely a </tspan><tspan x="20.91" dy="1.2em"
 							class="st11">Facade, které obsahují</tspan></text>			</g>
-			<g id="shape906-1298" v:mID="906" v:groupContext="shape" transform="translate(124.724,-38.2677)">
+			<g id="shape906-1299" v:mID="906" v:groupContext="shape" transform="translate(124.724,-38.2677)">
 				<title>Sheet.906</title>
 				<v:userDefs>
 					<v:ud v:nameU="FoldSize" v:prompt="" v:val="VT0(0.11811023622047):24"/>
@@ -8558,12 +8558,12 @@
 						class="st31"/>
 			</g>
 		</g>
-		<g id="shape1046-1300" v:mID="1046" v:groupContext="shape" transform="translate(374.74,-243.78)">
+		<g id="shape1046-1301" v:mID="1046" v:groupContext="shape" transform="translate(374.74,-243.78)">
 			<title>Sheet.1046</title>
 			<desc>1..*</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="10.6299" cy="1644.51" width="21.26" height="6.54203"/>
-			<rect x="0" y="1641.24" width="21.2598" height="6.54203" class="st26"/>
+			<rect x="0" y="1641.24" width="21.2598" height="6.54203" class="st27"/>
 			<text x="4.59" y="1646.91" class="st28" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>1..*</text>		</g>
 	</g>
 </svg>
