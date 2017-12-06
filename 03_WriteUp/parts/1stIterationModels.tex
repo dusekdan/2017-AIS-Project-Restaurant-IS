@@ -86,8 +86,9 @@
     Hlavní tok: & 
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut]
-            \item Uživatel vyplní potřebné informace pro rezervaci
+            \item Uživatel vyplní potřebné informace pro rezervaci (datum a čas)
             \item Uživatel zvolí, zda chce salónek nebo konkrétní stůl
+            \item Systém zobrazí plánek místnosti a uživatel zvolí místa
             \item Uživatel vyplní informace o své osobě
             \item Uživatel zvolí událost \uv{Potvrdit rezervaci}
     	\end{enumerate}
@@ -163,7 +164,7 @@
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut]
             \item Přesměrování uživatele zpět na rezervační formulář.
-            \item Systém zobrazi chybovou hlášku o neúspěchu vytvoření rezervace.
+            \item Systém zobrazí chybovou hlášku o neúspěchu vytvoření rezervace.
     	\end{enumerate}
     \end{minipage} \\
     \hline
@@ -370,12 +371,12 @@
     	\end{enumerate}
   	\end{minipage} \\
 	\hline
-    Akce pro spuštění: & Kancelář zvolí akci \uv{Zamítnout rezervaci} \\
+    Akce pro spuštění: &  Kancelář naviguje na stránku se seznamem čekajících rezervací. \\
     \hline
     Hlavní tok: & 
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut]
-    		\item Kancelář vybere rezervaci, kterou chce zamítnout.
+    		\item Kancelář klikne na tlačítko \uv{Zamítnout rezervaci} u rezervace, kterou chce zamítnout.
             \item Kancelář popíše důvod zamítnutí rezervace.
             \item Kancelář potvrdí zamítnutí rezervace.
             \item Systém zašle informaci zákazníkovi o zamítnutí rezervace.
@@ -441,18 +442,18 @@
     Následné podmínky: & 
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut]
-    		\item Systém nepotvrdil zamítnutí rezervace.
+    		\item Systém nepotvrdil provedení případu použití.
             \item Je zobrazena chybová hláška.
     	\end{enumerate}
   	\end{minipage} \\
 	\hline
-    Akce pro spuštění: & Selhání systému v libovolném místě toku případu \uv{Vytvořit rezervaci} \\
+    Akce pro spuštění: & Selhání systému v libovolném místě toku případu použití. \\
     \hline
     Tok: & 
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut]
             \item Systém informuje uživatele chybovou hláškou o selhání.
-            \item Systém přesměruje Vedení zpět na první krok zamítnutí rezervace.
+            \item Systém přesměruje uživatele zpět na první krok prováděného scénáře.
     	\end{enumerate}
   	\end{minipage} \\
     \hline
@@ -500,9 +501,9 @@
     Hlavní tok: & 
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut]
-    		\item Systém zobrazí seznam potvrzených rezervací.
+    		%\item Systém zobrazí seznam potvrzených rezervací.
             \item Uživatel v seznamu potvrzených rezervací klikne na tlačítko zrušit rezervaci.
-            \item Uživatel potvrdí, že zrušení rezervace.
+            \item Uživatel potvrdí, že chce provést zrušení rezervace.
             \item Systém zruší rezervaci a pošle zprávu na adresu zákazníka o zrušení rezervace.
     	\end{enumerate}
   	\end{minipage} \\
