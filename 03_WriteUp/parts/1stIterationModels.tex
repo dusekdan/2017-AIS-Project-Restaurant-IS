@@ -485,7 +485,7 @@
     \hline
     Sekundární aktéři: &  Zákazník \\
     \hline
-    Předpoklady: & Existuje zákazníkem vytvořená a vedením potvrzená rezervace \\
+    Předpoklady: & Existuje zákazníkem vytvořená a kanceláří potvrzená rezervace. \\
     \hline
     Následné podmínky: & 
     \begin{minipage}[t]{0.75\textwidth}
@@ -496,13 +496,13 @@
   	\end{minipage} \\
     \hline
         Akce pro spuštění: & 
-    	Aktér \uv{Vedení} restaurace v seznamu potvrzených rezervací klikne na tlačítko \uv{Zrušit rezervaci} u některého z existujících záznamů \\
+    	Aktér \uv{Vedení} má zobrazený seznam potvrzených rezervací. \\
     \hline
     Hlavní tok: & 
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut]
     		%\item Systém zobrazí seznam potvrzených rezervací.
-            \item Uživatel v seznamu potvrzených rezervací klikne na tlačítko zrušit rezervaci.
+            \item Uživatel v seznamu potvrzených rezervací klikne na tlačítko \uv{Zrušit rezervaci} u některého z existujících záznamů.
             \item Uživatel potvrdí, že chce provést zrušení rezervace.
             \item Systém zruší rezervaci a pošle zprávu na adresu zákazníka o zrušení rezervace.
     	\end{enumerate}
