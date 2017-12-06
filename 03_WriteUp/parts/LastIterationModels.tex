@@ -561,11 +561,13 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                05 DOMAIN CLASS DIAGRAM             %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TODO: Add path to the last iteration domain diagram
 \newpage
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[scale=0.75]{../02_Vysledne_modely/04_SystemSequence.pdf}
-\caption{Systémový diagram sekvence konkrétního scénáře: Obsluha zákazníka u stolu}
+\includegraphics[scale=0.75]{../02_Vysledne_modely/05_1_ConceptualClassDiagram.pdf}
+\vspace{-250pt}
+\caption{Doménový konceptuální diagram tříd}
 \label{fig:communication09-1}
 \end{center}
 \end{figure}
@@ -580,7 +582,23 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                07 & 08 CLASS DIAGRAM               %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\begin{landscape}   
+    \afterpage{
+            
+            \pagenumbering{gobble}
 
+            \includepdf[angle=90,scale=1,
+                pagecommand={
+                    \thispagestyle{plain}
+                    \null\vfill
+                    \captionof{figure}{Diagram návrhových tříd}}]{../02_Vysledne_modely/07_ClassDiagram.pdf}
+            \label{fig:iteration03}
+        
+            \clearpage
+            \restoregeometry
+        }
+\end{landscape}
 
 
 
@@ -739,6 +757,7 @@
 \end{enumerate}
 
 % TODO: Make sure title and enumeration are on the same page 
+\newpage
 \textbf{Očekávaný výstup testu:} \\
 \begin{enumerate}
 	\item Krok 1 skončí výstupem (i) - Systém zobrazí uživatelské rozhraní pro zadání nové objednávky.
