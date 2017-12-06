@@ -108,7 +108,6 @@ Funkcionalita pokrytá v~této iteraci je zachycena v diagramu na obrázku~2.
 
 Ve třetí (závěrečné) iteraci jsou vylepšeny možnosti organizace prostoru a~služeb restaurace tak, že bude systém odpovídat diagramu na obrázku~3.
 
-%\includegraphics[landscape]{resources/iteration01.pdf}
 \begin{center}
 \afterpage{
 	\pagenumbering{gobble}
@@ -268,6 +267,7 @@ Ve třetí (závěrečné) iteraci jsou vylepšeny možnosti organizace prostoru
     		\item V době potvrzení rezervace je požadované místo již zabrané.
             \item Selhání načtení plánku restaurace
             \item Selhání systému
+            \item Selhání operace
     	\end{enumerate}
   	\end{minipage} \\
     \hline
@@ -443,6 +443,62 @@ Ve třetí (závěrečné) iteraci jsou vylepšeny možnosti organizace prostoru
 \end{table}
 \end{center}
 
+
+\newpage 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Výjimka 4 - Vytvoření rezervace %  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\begin{table}[ht!]
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{| r | p{12cm} |}
+	\hline
+	ID: & 1.E.4 \\
+    \hline
+    Název: & \textbf{Vytvořit rezervaci: Selhání operace} \\
+    \hline
+    Vytvořeno: & Filip Kalous, Daniel Dušek, Anna Popková \\
+    \hline
+    Popis: & Systém není schopen dokončit operaci potřebnou k úspěšnému dokončení případu užití. \\
+    \hline
+    Primární aktéři: & Systém \\
+    \hline
+    Sekundární aktéři: &  \\
+    \hline
+    Předpoklady: & 
+    \begin{minipage}[t]{0.75\textwidth}
+    	\begin{enumerate}[nosep,after=\strut]
+    		\item Systém selhal ve vykonávání dílčí operace nezbytné pro dokončení kroku z hlavního toku případu užití.
+            \item Systém nespadl, ale krok případu užití nebyl úspěšně dokončen.
+    	\end{enumerate}
+  	\end{minipage} \\
+    \hline
+    Následné podmínky: & 
+    \begin{minipage}[t]{0.75\textwidth}
+    	\begin{enumerate}[nosep,after=\strut]
+    		\item Systém nedokončil krok úspěšně.
+    	\end{enumerate}
+  	\end{minipage} \\
+	\hline
+    Akce pro spuštění: & Selhání systému v libovolné dílčí operaci při vykonávání libovolného kroku toku případu použití. \\
+    \hline
+    Tok: & 
+    \begin{minipage}[t]{0.75\textwidth}
+    	\begin{enumerate}[nosep,after=\strut]
+            \item Systém informuje uživatele chybovou hláškou o selhání.
+            \item Systém přesměruje uživatele zpět na začátek kroku.
+    	\end{enumerate}
+  	\end{minipage} \\
+    \hline
+    Frekvence: & Zřídka \\
+    \hline
+\end{tabular}}
+\caption{Vytvořit rezervaci: Selhání operace}
+\label{table:4}
+\end{table}
+\end{center}
+
+
 \newpage
 %%%%%%%%%%%%%%%%%%%%%%%
 % Zamítnout rezervaci %
@@ -493,6 +549,7 @@ Ve třetí (závěrečné) iteraci jsou vylepšeny možnosti organizace prostoru
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut]
     		\item Selhání systému
+    		\item Selhání operace
     	\end{enumerate}
   	\end{minipage} \\
     \hline
@@ -618,6 +675,7 @@ Ve třetí (závěrečné) iteraci jsou vylepšeny možnosti organizace prostoru
     	\begin{enumerate}[nosep,after=\strut]
     		\item Zákazník zruší rezervaci dříve než Vedení potvrdí, že chce rezervaci zrušit.
             \item Rušená rezervace již neexistuje. 
+            \item Selhání operace
     	\end{enumerate}
   	\end{minipage} \\
     \hline
@@ -829,6 +887,7 @@ Ve třetí (závěrečné) iteraci jsou vylepšeny možnosti organizace prostoru
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut] 
             \item Selhání systému
+            \item Selhání operace
             \item Selhání služby odesílající email
     	\end{enumerate}
   	\end{minipage} \\
@@ -1019,6 +1078,7 @@ Ve třetí (závěrečné) iteraci jsou vylepšeny možnosti organizace prostoru
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut] 
             \item Selhání systému
+            \item Selhání operace
     	\end{enumerate}
   	\end{minipage} \\
     \hline
@@ -1148,6 +1208,7 @@ Ve třetí (závěrečné) iteraci jsou vylepšeny možnosti organizace prostoru
     \begin{minipage}[t]{0.75\textwidth}
     	\begin{enumerate}[nosep,after=\strut]
     		\item Selhání systému
+    		\item Selhání operace
     	\end{enumerate}
   	\end{minipage} \\
     \hline
@@ -1277,5 +1338,99 @@ Ve třetí (závěrečné) iteraci jsou vylepšeny možnosti organizace prostoru
 \textbf{Výjimka 6.E.1 \textit{Selhání systému} je stejná jako výjimka 1.E.3.}
 \newpage
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 				11 Přejímací test 					 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\section*{Přejímací testy}
+
+{\large\textbf{Přejímací test 1: Zadat objednávku}} \\
+
+\textbf{Popis}: \\\indent Uživatel systému (v roli Obslužný personál, nebo Vedení) zadává objednávku přijatou u stolu v restauraci. \\
+
+\textbf{Předpoklady}: 
+\begin{enumerate}
+	\item Reálný Zákazník provedl objednávku v restauraci
+	\item Obslužný personál nebo Vedení přijímá Zákazníkovu objednávku
+\end{enumerate}
+
+\textbf{Stav systému před provedením testu:}
+\begin{enumerate}
+	\item Systém běží a je responzivní.
+	\item Databáze neobsahuje záznam o objednávce, kterou Obslužný personál nebo Vedení právě přijímá. 
+\end{enumerate}
+
+\textbf{Stav systému po provedení testu}:
+\begin{enumerate}
+	\item Systém běží a je responzivní.
+	\item V databázi je vytvořen záznam o přijaté objednávce.
+	\item V seznamu probíhajících objednávek se zobrazuje nově přijatá objednávka.
+\end{enumerate}
+
+\textbf{Postup}:
+\begin{enumerate}
+
+	% Krok #1
+	\item 
+	\begin{enumerate}
+		\item Krok: Uživatel v roli Obslužný personál nebo Vedení otevře tlačítkem \uv{Zadat objednávku}
+		\item Možné výstupy:
+		\begin{enumerate}
+			\item Úspěch: Systém zobrazí uživatelské rozhraní pro zadání nové objednávky.
+			\item Neúspěch: Operace selže. 
+			\item Neúspěch: Systém selže. 
+		\end{enumerate} 
+	\end{enumerate}
+
+	% Krok #2
+	\item 
+	\begin{enumerate}
+		\item Krok: Uživatel v roli Obslužný personál nebo Vedení vyplní informace o objednávce, včetně výběru stolu na otevřené obrazovce a klepne na tlačítko \uv{Zadat objednávku} pro potvrzení operace.
+		\item Možné výstupy:
+		\begin{enumerate}
+			\item Úspěch: Systém vytvoří objednávku a zobrazí informační hlášku uživateli o úspěšném zadání objednávky.
+			\item Neúspěch: Operace selže.
+			\item Neúspěch: Systém selže.
+		\end{enumerate} 
+	\end{enumerate}
+
+	% Krok #3
+	\item 
+	\begin{enumerate}
+		\item Krok: Uživatel v roli Obslužný personál nebo Vedení vyplní informace o objednávce, bez výběru stolu na otevřené obrazovce a klepne na tlačítko \uv{Zadat objednávku} pro potvrzení operace.
+		\item Možné výstupy:
+		\begin{enumerate}
+			\item Úspěch: Systém nevytvoří objednávku a zobrazí chybovou hlášku informující uživatele o chybějícím vyplněném stolu.
+			\item Neúspěch: Systém vytvoří objednávku.
+			\item Neúspěch: Operace selže.
+			\item Neúspěch: Systém selže.
+		\end{enumerate} 
+	\end{enumerate}
+
+	% Krok #4
+	\item 
+	\begin{enumerate}
+		\item Krok: Uživatel v roli Obslužný personál nebo Vedení opraví dle instrukcí z předchozího kroku informace vyplněné na obrazovce zadávání objednávky a odešle objednávku tlačítkem \uv{Zadat objednávku}.
+		\item Možné výstupy:
+		\begin{enumerate}
+			\item Úspěch: Systém vytvoří objednávku a zobrazí informační hlášku uživateli o úspěšném zadání objednávky.
+			\item Neúspěch: Operace selže.
+			\item Neúspěch: Systém selže.
+		\end{enumerate} 
+	\end{enumerate}
+\end{enumerate}
+
+% TODO: Make sure title and enumeration are on the same page 
+\textbf{Očekávaný výstup testu:} \\
+\begin{enumerate}
+	\item Krok 1 skončí výstupem (i) - Systém zobrazí uživatelské rozhraní pro zadání nové objednávky.
+	\item Krok 2 skončí výstupem (i) - Systém vytvoří objednávku a zobrazí informační hlášku uživateli o úspěšném zadání objednávky.
+	\item Krok 3 skončí výstupem (i) - Systém nevytvoří objednávku a zobrazí chybovou hlášku informující uživatele o chybějícím vyplněném stolu.
+	\item Krok 4 skončí výstupem (i) - Systém vytvoří objednávku a zobrazí informační hlášku uživateli o úspěšném zadání objednávky.
+\end{enumerate}
+
+
 
 \end{document}
+
+% TODO: Nahradit diagramy USE-CASE v poslední iteraci tím, co Kalous teď vytváří
