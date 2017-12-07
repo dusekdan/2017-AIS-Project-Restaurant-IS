@@ -1,3 +1,87 @@
 % PUT YOUR RESPONSIBILITIES TABLE HERE
 \newpage
 \section*{Strukturovaný popis zodpovědnosti tříd}
+
+\begin{table}[ht!]
+  \begin{tabular}{ c | c | c | c | c | c }
+  	
+    \textbf{Akce} & 
+      \textbf{Název třídy} & \textbf{Zodpovědnost} & \textbf{Operace} & \textbf{Zdůvodnění} & \textbf{Spolupracující třídy} \\
+    
+    & & & & & \\
+    Zobrazit rezervace & & & & & \\
+    \hline
+  
+    & ReservationViewModel & Umí zobrazit seznam všech existujících rezervací & showReservations() & Protože dokáže získat všechny potřebné informace pro zobrazení & ReservationViewModel, ReservationView, ReservationFacade, Reservation\\
+    & RestaurantViewModel & Umí vytvořit ReservationViewModel & ReservationViewModel() & Bude-li chtít uživatel zobrazit exitující rezervace, bude potřeba se z hlavní obrazovky (RestaurantView) přepnout na obrazovku se seznamem rezervací (ReservationView) & ReservationViewModel, ReservationView \\
+    & ReservationViewModel & Má přístup k ReservationFacade & <<property>> ReservationFacade & Protože to jeho privátní vlastnost & ReservationFacade \\
+    & ReservationFacade & Umí získat všechny rezervace & getAll() & Protože má přístup k databázi & ReservationView, ReservationViewModel, Reservation, DatabaseContext \\
+    & Reservation & Ví, na jaký datum a čas je zadána. & getReservationStartTime(), getReservationEndTime() & Protože jsou to její privátní vlastnosti. & \\
+    & & Zná svůj status & getStatus() & Protože je to její privátní vlastnost. & \\
+    
+    
+    
+    & & & & & \\
+    & & & & & \\
+    
+    Zabrat stůl & & & & & \\
+    \hline
+    & BookableViewModel & Umí nastavit jednotku jako zabranou & setBookableTaken(boolean taken=true) & Protože má přístup ke všemu potřebnému & BookableFacade\\
+    & BookableViewModel & Má přístup k BookableFacade & <<property>> BookableFacade & Protože je to jeho privátní proměnná & BookableFacade \\
+    & BookableFacade & Umí aktualizovat jednotku & updateBookable(BookableDTO bookableDto) & Protože má přístup k databázi & DatabaseContext, Bookable\\
+    & Bookable & Ví, jestli je zabraný. & <<property>> isFree & Je to jeho privátní vlastnost. & \\
+    & & & & & \\
+    & & & & & \\
+    
+    Zadat objednávku pro stůl & & & & & \\
+    \hline
+    & BookableViewModel & Umí vyytvořit objednávku pro jednotku & createOrder(string content) & Protože má všechny potřebné informace pro vytvoření objednávky. & Bookable, OrderFacade, Order \\
+    & BookableViewModel & Má přístup k OrderFacade & <<property>> OrderFacade & Protože je to jeho privátní proměnná & OrderFacade \\
+    & OrderFacade & Umí vytvořit objednávku & createOrder(string content, Bookable bookable) & Protože má přístup k databázi & DatabaseContext \\
+    & & & & & \\
+    & & & & & \\
+    
+    Zobrazit objednávku & & & & & \\
+    \hline
+    & OrderViewModel & Umí zobrazit detail objednávky & showOrderDetail(Id id) & Protože po vykonání všech následucjících kroků má prástup ke všem objednávkám. & \\
+    & RestaurantViewModel & Umí zobrazit všechny objednávky v systému & showOrders() & Protože má všechny potřebné informace & OrderFacade, OrderViewModel \\
+    & RestaurantViewModel & Umí vytvořit OrderViewModel & OrderViewModel() & Bude-li chtít uživatel, bude potřeba se z hlavní obrazovky (RestaurantView) přepnout na obrazovku se seznamem objednávek (OrderView) & OrderViewModel, OrderView \\
+    & OrderViewModel & Má přístup k OrderFacade & <<property>> OrderFacade & Protože je to jeho privátní proměnná & OrderFacade \\
+    & OrdersFacade & Zná všechny informace o všech objednávkách & getAll() & Protože má přístup k databázi & DatabaseContext\\
+    
+    & & & & & \\
+    
+    Změnit stav objednávky & & & & & \\
+    \hline
+    & OrderViewModel & Umí změnit stav objednávky & changeOrderStatus(int id, OrderStatus status) & Protože po vykonání všech následujících kroků má prástup ke všem objednávkám. & \\
+    & RestaurantViewModel & Umí zobrazit všechny objednávky v systému & showOrders() & Protože má všechny potřebné informace & OrderFacade, OrderViewModel \\
+    & RestaurantViewModel & Umí vytvořit OrderViewModel & OrderViewModel() & Bude-li chtít uživatel, bude potřeba se z hlavní obrazovky (RestaurantView) přepnout na obrazovku se seznamem objednávek (OrderView) & OrderViewModel, OrderView \\
+    & OrderViewModel & Má přístup k OrderFacade & <<property>> OrderFacade & Protože je to jeho privátní proměnná & OrderFacade \\
+    & OrdersFacade & Zná všechny informace o všech objednávkách & getAll() & Protože má přístup k databázi & DatabaseContext\\
+    & OrdersFacade & Umí upravit objednávku & updateOrder(OrderDTO dto) & Protože má přístup k databázi & DatabaseContext\\
+    & & & & & \\
+    & & & & & \\
+    
+    Zaplatit stůl & & & & & \\
+    \hline
+    & BookableViewModel & Umí zaplatit stůl & pay() & Protože má všechny potřebné informace pro zaplacení. & Bookable, BookableFacade, OrderFacade, Order \\
+    & BookableViewModel & Má přístup k OrderFacade & <<property>> OrderFacade & Protože je to jeho privátní proměnná & OrderFacade \\
+    & OrderFacade & Umí získat informace (cenu) všech objednávek u určité jednotky & getOrdersByBookableId(int id) & Protože má přístup k databázi & DatabaseContext \\
+    & OrdersFacade & Umí upravit objednávku (změnit její status na PAID) & updateOrder(OrderDTO dto) & Protože má přístup k databázi & DatabaseContext\\
+    & & & & & \\
+    & & & & & \\
+    
+    Uvolnit stůl & & & & & \\
+    \hline
+    & BookableViewModel & Umí nastavit jednotku jako zabranou & setBookableTaken(boolean taken=false) & Protože má přístup ke všemu potřebnému. & BookableFacade\\
+    & BookableViewModel & Má přístup k BookableFacade & <<property>> BookableFacade & Protože je to jeho privátní proměnná & BookableFacade \\
+    & BookableFacade & Umí aktualizovat jednotku & updateBookable(BookableDTO bookableDto) & Protože má přístup k databázi & DatabaseContext, Bookable\\
+    & Bookable & Ví, jestli je zabraný. & <<property>> isFree & Je to jeho privátní vlastnost. & \\
+    & & & & & \\
+    & & & & & \\
+    
+    
+    
+    \hline
+  \end{tabular}
+\end{table}
