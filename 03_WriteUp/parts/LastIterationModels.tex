@@ -581,7 +581,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                06 TABLE OF RESPONSIBILITY          %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{parts/reponsibilitiesTable.tex}
+\input{parts/responsibilitiesTable.tex}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -609,19 +609,16 @@
 \newpage
 \begin{landscape}	
 	\afterpage{
-			
 			\pagenumbering{gobble}
-
 			\includepdf[angle=90,scale=0.75,
 				pagecommand={
 					\thispagestyle{plain}
 					\null\vfill
-					\captionof{figure}{Diagram Sekvence pro potvrzení rezervace }}]{../02_Vysledne_modely/09_SequenceDiagram.pdf}
+					\captionof{figure}{Diagram Sekvence pro potvrzení rezervace}}]{../02_Vysledne_modely/09_SequenceDiagram.pdf}
 			\label{fig:iteration03}
-		
 			\clearpage
 			\restoregeometry
-		}
+	}
 \end{landscape}
 
 \newpage
@@ -645,7 +642,7 @@
 \newpage
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[scale=0.75]{../02_Vysledne_modely/09_CommunicationDiagram-1.pdf}
+\includegraphics[scale=0.75]{../02_Vysledne_modely/09_CommunicationDiagram.pdf}
 \vspace{-250pt}
 \caption{Diagram Komunikace pro případ použití Stornovat rezervaci}
 \label{fig:communication09-1}
