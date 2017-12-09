@@ -631,6 +631,39 @@
 \label{table:9}
 \end{table}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                03 PROJECT ARCHITECTURE             %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale=0.75]{../02_Vysledne_modely/03_1_ProjectArchitecture.pdf}
+\caption{Návrh architektury aplikace s využitím architektonického vzoru MVVM}
+\label{fig:communication09-1}
+\end{center}
+\end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                04 SYSTEM SEQUENCE DIAGRAM          %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\begin{landscape}   
+    \afterpage{
+        
+        \pagenumbering{gobble}
+
+        \includepdf[angle=90,scale=0.75,
+            pagecommand={
+                \thispagestyle{plain}
+                \null\vfill
+                %\vspace{100pt}
+                \captionof{figure}{Systémový diagram sekvence pro scénář vytvoření rezervace}}]{../02_Vysledne_modely/04_1_SystemSequence_CreateReservation.pdf}
+        \label{fig:iteration02}
+        \clearpage
+        \restoregeometry
+    }
+\end{landscape}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                05 DOMAIN CLASS DIAGRAM             %
@@ -646,6 +679,12 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                06 TABLE OF RESPONSIBILITY          %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{parts/responsibilitiesTable_1.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                07&08 DOMAIN CLASS DIAGRAM             %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
@@ -657,3 +696,62 @@
 \label{fig:communication09-1}
 \end{center}
 \end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                09 ALL THE DIAGRAMS XXX             %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale=0.5]{../02_Vysledne_modely/09_1_CommunicationDiagram.pdf}
+\vspace{150pt}
+\caption{Diagram Komunikace pro případ použití Stornovat rezervaci}
+\label{fig:communication09-1}
+\end{center}
+\end{figure}    
+
+\newpage
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale=0.5]{../02_Vysledne_modely/09_1_InteractionDiagram_SequenceDiagram_ShowReservations.pdf}
+\vspace{150pt}
+\caption{Diagram interakce - sekvenční diagram - Zobrazit rezervace}
+\label{fig:communication09-1}
+\end{center}
+\end{figure}
+
+
+\newpage
+\begin{landscape}   
+    \afterpage{
+        \pagenumbering{gobble}
+        \includepdf[angle=90,scale=0.80,
+            pagecommand={
+                \thispagestyle{plain}
+                \null\vfill
+                \captionof{figure}{Diagram sekvence pro scénář potvrzení rezervace}}]{../02_Vysledne_modely/09_1_SequenceDiagram.pdf}
+        \label{fig:iteration02}
+        \clearpage
+        \restoregeometry
+    }
+\end{landscape}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                10 ALL THE DIAGRAMS XXX             %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\begin{landscape}   
+    \afterpage{
+            \pagenumbering{gobble}
+            \includepdf[angle=90,scale=0.75,
+                pagecommand={
+                    \thispagestyle{plain}
+                    \null\vfill
+                    \captionof{figure}{Model návaznosti jednotlivých obrazovek}}]{../02_Vysledne_modely/10_1_StateDiagram.pdf}
+            \label{fig:iteration03}
+        
+            \clearpage
+            \restoregeometry
+        }
+\end{landscape}
+\newpage

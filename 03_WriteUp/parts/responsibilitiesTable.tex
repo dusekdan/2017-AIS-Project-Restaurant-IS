@@ -1,9 +1,10 @@
 % PUT YOUR RESPONSIBILITIES TABLE HERE
 \newpage
+\begin{landscape}
 \section*{Strukturovaný popis zodpovědnosti tříd}
 
-\begin{table}[ht!]
-  \begin{tabular}{ c | c | c | c | c | c }
+
+\begin{longtable}{ Lp{2cm} | Lp{3.5cm} | Lp{3cm} | Lp{4cm} | Lp{4cm} | Lp{4cm} }
   	
     \textbf{Akce} & 
       \textbf{Název třídy} & \textbf{Zodpovědnost} & \textbf{Operace} & \textbf{Zdůvodnění} & \textbf{Spolupracující třídy} \\
@@ -14,7 +15,7 @@
   
     & ReservationViewModel & Umí zobrazit seznam všech existujících rezervací & showReservations() & Protože dokáže získat všechny potřebné informace pro zobrazení & ReservationViewModel, ReservationView, ReservationFacade, Reservation\\
     & RestaurantViewModel & Umí vytvořit ReservationViewModel & ReservationViewModel() & Bude-li chtít uživatel zobrazit exitující rezervace, bude potřeba se z hlavní obrazovky (RestaurantView) přepnout na obrazovku se seznamem rezervací (ReservationView) & ReservationViewModel, ReservationView \\
-    & ReservationViewModel & Má přístup k ReservationFacade & <<property>> ReservationFacade & Protože to jeho privátní vlastnost & ReservationFacade \\
+    & ReservationViewModel & Má přístup k ReservationFacade & $<<$property$>>$ ReservationFacade & Protože to jeho privátní vlastnost & ReservationFacade \\
     & ReservationFacade & Umí získat všechny rezervace & getAll() & Protože má přístup k databázi & ReservationView, ReservationViewModel, Reservation, DatabaseContext \\
     & Reservation & Ví, na jaký datum a čas je zadána. & getReservationStartTime(), getReservationEndTime() & Protože jsou to její privátní vlastnosti. & \\
     & & Zná svůj status & getStatus() & Protože je to její privátní vlastnost. & \\
@@ -27,7 +28,7 @@
     Zabrat stůl & & & & & \\
     \hline
     & BookableViewModel & Umí nastavit jednotku jako zabranou & setBookableTaken(boolean taken=true) & Protože má přístup ke všemu potřebnému & BookableFacade\\
-    & BookableViewModel & Má přístup k BookableFacade & <<property>> BookableFacade & Protože je to jeho privátní proměnná & BookableFacade \\
+    & BookableViewModel & Má přístup k BookableFacade & $<<$property$>>$ BookableFacade & Protože je to jeho privátní proměnná & BookableFacade \\
     & BookableFacade & Umí aktualizovat jednotku & updateBookable(BookableDTO bookableDto) & Protože má přístup k databázi & DatabaseContext, Bookable\\
     & Bookable & Ví, jestli je zabraný. & <<property>> isFree & Je to jeho privátní vlastnost. & \\
     & & & & & \\
@@ -84,5 +85,5 @@
     
     
     \hline
-  \end{tabular}
-\end{table}
+\end{longtable}
+\end{landscape}
