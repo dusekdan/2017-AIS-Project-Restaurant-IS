@@ -707,7 +707,7 @@
 	% Krok #1
 	\item 
 	\begin{enumerate}
-		\item Krok: Uživatel v roli Obslužný personál nebo Vedení otevře tlačítkem \uv{Zadat objednávku}
+		\item Krok: Uživatel nacházející se v konkrétní jednotce (stůl/salonek/místo) v roli Obslužný personál nebo Vedení klikne na tlačítko \uv{Zadat objednávku}
 		\item Možné výstupy:
 		\begin{enumerate}
 			\item Úspěch: Systém zobrazí uživatelské rozhraní pro zadání nové objednávky.
@@ -719,7 +719,7 @@
 	% Krok #2
 	\item 
 	\begin{enumerate}
-		\item Krok: Uživatel v roli Obslužný personál nebo Vedení vyplní informace o objednávce, včetně výběru stolu na otevřené obrazovce a klepne na tlačítko \uv{Zadat objednávku} pro potvrzení operace.
+		\item Krok: Uživatel v roli Obslužný personál nebo Vedení vyplní informace o objednávce, včetně obsahu objednávky a klepne na tlačítko \uv{Zadat objednávku} pro potvrzení operace.
 		\item Možné výstupy:
 		\begin{enumerate}
 			\item Úspěch: Systém vytvoří objednávku a zobrazí informační hlášku uživateli o úspěšném zadání objednávky.
@@ -731,10 +731,10 @@
 	% Krok #3
 	\item 
 	\begin{enumerate}
-		\item Krok: Uživatel v roli Obslužný personál nebo Vedení vyplní informace o objednávce, bez výběru stolu na otevřené obrazovce a klepne na tlačítko \uv{Zadat objednávku} pro potvrzení operace.
+		\item Krok: Uživatel v roli Obslužný personál nebo Vedení vyplní informace o objednávce, bez vyplnění obsahu objednávky a klepne na tlačítko \uv{Zadat objednávku} pro potvrzení operace.
 		\item Možné výstupy:
 		\begin{enumerate}
-			\item Úspěch: Systém nevytvoří objednávku a zobrazí chybovou hlášku informující uživatele o chybějícím vyplněném stolu.
+			\item Úspěch: Systém nevytvoří objednávku a zobrazí chybovou hlášku informující uživatele o chybějícím obsahu objenávky.
 			\item Neúspěch: Systém vytvoří objednávku.
 			\item Neúspěch: Operace selže.
 			\item Neúspěch: Systém selže.
@@ -760,7 +760,7 @@
 \begin{enumerate}
 	\item Krok 1 skončí výstupem (i) - Systém zobrazí uživatelské rozhraní pro zadání nové objednávky.
 	\item Krok 2 skončí výstupem (i) - Systém vytvoří objednávku a zobrazí informační hlášku uživateli o úspěšném zadání objednávky.
-	\item Krok 3 skončí výstupem (i) - Systém nevytvoří objednávku a zobrazí chybovou hlášku informující uživatele o chybějícím vyplněném stolu.
+	\item Krok 3 skončí výstupem (i) - Systém nevytvoří objednávku a zobrazí chybovou hlášku informující uživatele o chybějícím obsahu objednávky.
 	\item Krok 4 skončí výstupem (i) - Systém vytvoří objednávku a zobrazí informační hlášku uživateli o úspěšném zadání objednávky.
 \end{enumerate}
 

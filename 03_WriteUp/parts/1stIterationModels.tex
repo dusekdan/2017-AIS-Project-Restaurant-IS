@@ -647,22 +647,13 @@
 %                04 SYSTEM SEQUENCE DIAGRAM          %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
-\begin{landscape}   
-    \afterpage{
-        
-        \pagenumbering{gobble}
-
-        \includepdf[angle=90,scale=0.75,
-            pagecommand={
-                \thispagestyle{plain}
-                \null\vfill
-                %\vspace{100pt}
-                \captionof{figure}{Systémový diagram sekvence pro scénář vytvoření rezervace}}]{../02_Vysledne_modely/04_1_SystemSequence_CreateReservation.pdf}
-        \label{fig:iteration02}
-        \clearpage
-        \restoregeometry
-    }
-\end{landscape}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale=0.85]{../02_Vysledne_modely/04_1_SystemSequence_CreateReservation.pdf}
+\caption{Systémový diagram sekvence pro scénář vytvoření rezervace}
+\label{fig:communication09-1}
+\end{center}
+\end{figure}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -687,15 +678,33 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                07&08 DOMAIN CLASS DIAGRAM             %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\newpage
+%\begin{figure}[h!]
+%\begin{center}
+%\includegraphics[scale=0.5]{../02_Vysledne_modely/07_1_ClassDiagram.pdf}
+%\vspace{150pt}
+%\caption{}
+%\label{fig:communication09-1}
+%\end{center}
+%\end{figure}
+
 \newpage
-\begin{figure}[h!]
-\begin{center}
-\includegraphics[scale=0.5]{../02_Vysledne_modely/07_1_ClassDiagram.pdf}
-\vspace{150pt}
-\caption{Návrhový diagram tříd}
-\label{fig:communication09-1}
-\end{center}
-\end{figure}
+\begin{landscape}   
+    \afterpage{
+        
+        \pagenumbering{gobble}
+
+        \includepdf[angle=90,scale=0.75,
+            pagecommand={
+                \thispagestyle{plain}
+                \null\vfill
+                \vspace{10cm}
+                \captionof{figure}{Návrhový diagram tříd}}]{../02_Vysledne_modely/07_1_ClassDiagram.pdf}
+        \label{fig:iteration02}
+        \clearpage
+        \restoregeometry
+    }
+\end{landscape}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                09 ALL THE DIAGRAMS XXX             %
@@ -703,7 +712,7 @@
 \newpage
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[scale=0.5]{../02_Vysledne_modely/09_1_CommunicationDiagram.pdf}
+\includegraphics[scale=0.7]{../02_Vysledne_modely/09_1_CommunicationDiagram.pdf}
 \vspace{150pt}
 \caption{Diagram Komunikace pro případ použití Stornovat rezervaci}
 \label{fig:communication09-1}
@@ -711,15 +720,19 @@
 \end{figure}    
 
 \newpage
-\begin{figure}[h!]
-\begin{center}
-\includegraphics[scale=0.5]{../02_Vysledne_modely/09_1_InteractionDiagram_SequenceDiagram_ShowReservations.pdf}
-\vspace{150pt}
-\caption{Diagram interakce - sekvenční diagram - Zobrazit rezervace}
-\label{fig:communication09-1}
-\end{center}
-\end{figure}
-
+\begin{landscape}   
+    \afterpage{
+        \pagenumbering{gobble}
+        \includepdf[angle=90,scale=0.80,
+            pagecommand={
+                \thispagestyle{plain}
+                \null\vfill
+                \captionof{figure}{Diagram interakce - sekvenční diagram - Zobrazit rezervace}}]{../02_Vysledne_modely/09_1_InteractionDiagram_SequenceDiagram_ShowReservations.pdf}
+        \label{fig:iteration02}
+        \clearpage
+        \restoregeometry
+    }
+\end{landscape}
 
 \newpage
 \begin{landscape}   

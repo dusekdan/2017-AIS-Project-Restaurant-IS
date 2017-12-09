@@ -3,7 +3,7 @@
 \begin{landscape}
 \section*{Strukturovaný popis zodpovědnosti tříd}
 
-\begin{longtable}{ Lp{2cm} | Lp{3.5cm} | Lp{3cm} | Lp{4cm} | Lp{4cm} | Lp{4cm} }
+\begin{longtable}{ Lp{3cm} | Lp{3.5cm} | Lp{4.5cm} | Lp{4.5cm} | Lp{4cm} | Lp{4cm} }
   	
     \textbf{Akce} & 
       \textbf{Název třídy} & \textbf{Zodpovědnost} & \textbf{Operace} & \textbf{Zdůvodnění} & \textbf{Spolupracující třídy} \\
@@ -13,8 +13,8 @@
     \hline
   
     & ReservationViewModel & Umí zobrazit formulář pro vyplnění informací o vytvářené rezervaci & showReservationForm() & Protože umí odchytit uživatelovu akci "Vytvořit rezervaci" & ReservationView, ReservationFacade \\
-    & ReservationFacade & Umí nalézt volné jednotky pro rezervaci v zadaném datu a čase. & getFreeBookablesOnDatetime(BookableType type, Datetime dateTime) & Protože má přístup k databázi & DatabaseContext \\
-    & ReservationFacade & Umí vytvořit rezervaci & createReservation(ReservationDTO dto) & Protože má po provedení předchozích kroků všechny potřebné informace pro vytvoření rezervace a má přístup k databázi. & DatabaseContext \\
+    & ReservationFacade & Umí nalézt volné jednotky pro rezervaci v zadaném datu a čase. & getFreeBookablesOnDatetime (BookableType type, Datetime dateTime) & Protože má přístup k databázi & DatabaseContext \\
+    & ReservationFacade & Umí vytvořit rezervaci & createReservation (ReservationDTO dto) & Protože má po provedení předchozích kroků všechny potřebné informace pro vytvoření rezervace a má přístup k databázi. & DatabaseContext \\
     
     & & & & & \\
     & & & & & \\

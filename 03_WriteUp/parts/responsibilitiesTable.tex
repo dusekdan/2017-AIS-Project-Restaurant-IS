@@ -4,7 +4,7 @@
 \section*{Strukturovaný popis zodpovědnosti tříd}
 
 
-\begin{longtable}{ Lp{2cm} | Lp{3.5cm} | Lp{3cm} | Lp{4cm} | Lp{4cm} | Lp{4cm} }
+\begin{longtable}{ Lp{3cm} | Lp{3.5cm} | Lp{4.5cm} | Lp{4cm} | Lp{4.5cm} | Lp{4cm} }
   	
     \textbf{Akce} & 
       \textbf{Název třídy} & \textbf{Zodpovědnost} & \textbf{Operace} & \textbf{Zdůvodnění} & \textbf{Spolupracující třídy} \\
@@ -29,15 +29,15 @@
     \hline
     & BookableViewModel & Umí nastavit jednotku jako zabranou & setBookableTaken(boolean taken=true) & Protože má přístup ke všemu potřebnému & BookableFacade\\
     & BookableViewModel & Má přístup k BookableFacade & $<<$property$>>$ BookableFacade & Protože je to jeho privátní proměnná & BookableFacade \\
-    & BookableFacade & Umí aktualizovat jednotku & updateBookable(BookableDTO bookableDto) & Protože má přístup k databázi & DatabaseContext, Bookable\\
-    & Bookable & Ví, jestli je zabraný. & <<property>> isFree & Je to jeho privátní vlastnost. & \\
+    & BookableFacade & Umí aktualizovat jednotku & updateBookable (BookableDTO bookableDto) & Protože má přístup k databázi & DatabaseContext, Bookable\\
+    & Bookable & Ví, jestli je zabraný. & $<<$property$>>$ isFree & Je to jeho privátní vlastnost. & \\
     & & & & & \\
     & & & & & \\
     
     Zadat objednávku pro stůl & & & & & \\
     \hline
     & BookableViewModel & Umí vyytvořit objednávku pro jednotku & createOrder(string content) & Protože má všechny potřebné informace pro vytvoření objednávky. & Bookable, OrderFacade, Order \\
-    & BookableViewModel & Má přístup k OrderFacade & <<property>> OrderFacade & Protože je to jeho privátní proměnná & OrderFacade \\
+    & BookableViewModel & Má přístup k OrderFacade & $<<$property$>>$ OrderFacade & Protože je to jeho privátní proměnná & OrderFacade \\
     & OrderFacade & Umí vytvořit objednávku & createOrder(string content, Bookable bookable) & Protože má přístup k databázi & DatabaseContext \\
     & & & & & \\
     & & & & & \\
@@ -47,7 +47,7 @@
     & OrderViewModel & Umí zobrazit detail objednávky & showOrderDetail(Id id) & Protože po vykonání všech následucjících kroků má prástup ke všem objednávkám. & \\
     & RestaurantViewModel & Umí zobrazit všechny objednávky v systému & showOrders() & Protože má všechny potřebné informace & OrderFacade, OrderViewModel \\
     & RestaurantViewModel & Umí vytvořit OrderViewModel & OrderViewModel() & Bude-li chtít uživatel, bude potřeba se z hlavní obrazovky (RestaurantView) přepnout na obrazovku se seznamem objednávek (OrderView) & OrderViewModel, OrderView \\
-    & OrderViewModel & Má přístup k OrderFacade & <<property>> OrderFacade & Protože je to jeho privátní proměnná & OrderFacade \\
+    & OrderViewModel & Má přístup k OrderFacade & $<<$property$>>$ OrderFacade & Protože je to jeho privátní proměnná & OrderFacade \\
     & OrdersFacade & Zná všechny informace o všech objednávkách & getAll() & Protože má přístup k databázi & DatabaseContext\\
     
     & & & & & \\
@@ -58,7 +58,7 @@
     & OrderViewModel & Umí změnit stav objednávky & changeOrderStatus(int id, OrderStatus status) & Protože po vykonání všech následujících kroků má prástup ke všem objednávkám. & \\
     & RestaurantViewModel & Umí zobrazit všechny objednávky v systému & showOrders() & Protože má všechny potřebné informace & OrderFacade, OrderViewModel \\
     & RestaurantViewModel & Umí vytvořit OrderViewModel & OrderViewModel() & Bude-li chtít uživatel, bude potřeba se z hlavní obrazovky (RestaurantView) přepnout na obrazovku se seznamem objednávek (OrderView) & OrderViewModel, OrderView \\
-    & OrderViewModel & Má přístup k OrderFacade & <<property>> OrderFacade & Protože je to jeho privátní proměnná & OrderFacade \\
+    & OrderViewModel & Má přístup k OrderFacade & $<<$property$>>$ OrderFacade & Protože je to jeho privátní proměnná & OrderFacade \\
     & OrdersFacade & Zná všechny informace o všech objednávkách & getAll() & Protože má přístup k databázi & DatabaseContext\\
     & OrdersFacade & Umí upravit objednávku & updateOrder(OrderDTO dto) & Protože má přístup k databázi & DatabaseContext\\
     & & & & & \\
@@ -67,8 +67,8 @@
     Zaplatit stůl & & & & & \\
     \hline
     & BookableViewModel & Umí zaplatit stůl & pay() & Protože má všechny potřebné informace pro zaplacení. & Bookable, BookableFacade, OrderFacade, Order \\
-    & BookableViewModel & Má přístup k OrderFacade & <<property>> OrderFacade & Protože je to jeho privátní proměnná & OrderFacade \\
-    & OrderFacade & Umí získat informace (cenu) všech objednávek u určité jednotky & getOrdersByBookableId(int id) & Protože má přístup k databázi & DatabaseContext \\
+    & BookableViewModel & Má přístup k OrderFacade & $<<$property$>>$ OrderFacade & Protože je to jeho privátní proměnná & OrderFacade \\
+    & OrderFacade & Umí získat informace (cenu) všech objednávek u určité jednotky & getOrdersByBookableId (int id) & Protože má přístup k databázi & DatabaseContext \\
     & OrdersFacade & Umí upravit objednávku (změnit její status na PAID) & updateOrder(OrderDTO dto) & Protože má přístup k databázi & DatabaseContext\\
     & & & & & \\
     & & & & & \\
@@ -76,9 +76,9 @@
     Uvolnit stůl & & & & & \\
     \hline
     & BookableViewModel & Umí nastavit jednotku jako zabranou & setBookableTaken(boolean taken=false) & Protože má přístup ke všemu potřebnému. & BookableFacade\\
-    & BookableViewModel & Má přístup k BookableFacade & <<property>> BookableFacade & Protože je to jeho privátní proměnná & BookableFacade \\
+    & BookableViewModel & Má přístup k BookableFacade & $<<$property$>>$ BookableFacade & Protože je to jeho privátní proměnná & BookableFacade \\
     & BookableFacade & Umí aktualizovat jednotku & updateBookable(BookableDTO bookableDto) & Protože má přístup k databázi & DatabaseContext, Bookable\\
-    & Bookable & Ví, jestli je zabraný. & <<property>> isFree & Je to jeho privátní vlastnost. & \\
+    & Bookable & Ví, jestli je zabraný. & $<<$property$>>$ isFree & Je to jeho privátní vlastnost. & \\
     & & & & & \\
     & & & & & \\
     
