@@ -1,6 +1,6 @@
 # FIT BUT, AIS - Information System for restaurant
 *School project for AIS (Information Systems Analysis and Design) class, Faculty of Information Technology, Brno University of Technology.*
-
+ 
 ___
 
 # FIT VUT, AIS - Informační systém pro restauraci
